@@ -117,8 +117,8 @@ products = [
      { name: "nerf gun N-Force Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
-       thumbnail: "N-Forcefirestrike2.jpg",
-       images: ["N-Forcefirestrike2.jpg", "N-Forcefirestrike2_1.jpg"],
+       thumbnail: "N-ForceFirestrike2.jpg",
+       images: ["N-ForceFirestrike2.jpg", "N-ForceFirestrike2_1.jpg"],
        downloads: []
        },
     // product
@@ -133,8 +133,8 @@ products = [
      { name: "nerf gun Elite Reflex",
        description: "Price: 5 PGK",
        details: "Powerful, small Nerf gun with 1 nerf dart.",
-       thumbnail: "Elitereflex.jpg",
-       images: ["Elitereflex2.jpg", "Elitereflex2_1.jpg"],
+       thumbnail: "EliteReflex.jpg",
+       images: ["EliteReflex2.jpg", "EliteReflex2_1.jpg"],
        downloads: []
        },
   ],
