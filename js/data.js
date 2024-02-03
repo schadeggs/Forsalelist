@@ -77,64 +77,64 @@ products = [
      { name: "nerfgun superdrum",
        description: "Price: 49 PGK",
        details: "Powerful Nerf gun with 40 nerf darts.",
-       thumbnail: "nerfgun superdrum",
-       images: ["nerfgun superdrum", "nerfgun superdrum_1"],
+       thumbnail: "superdrum.jpg",
+       images: ["superdrum.jpg", "superdrum_1.jpg"],
        downloads: []
      },
     // product
      { name: "nerfgun elite strongarm",
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
-       thumbnail: "nerfgun elite strongarm",
-       images: ["nerfgun elite strongarm", "nerfgun elite strongarm_2"],
+       thumbnail: "elitestrongarm.jpg",
+       images: ["elitestrongarm.jpg", "elitestrongarm_2.jpg"],
        downloads: []
      },
      // product
      { name: "nerfgun N-Strike Maverick",
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
-       thumbnail: "nerfgun N-Strike Maverick",
-       images: ["nerfgun N-Strike Maverick", "nerfgun N-Strike Maverick_2"],
+       thumbnail: "N-StrikeMaverick.jpg",
+       images: ["N-StrikeMaverick.jpg", "N-StrikeMaverick_2.jpg"],
        downloads: []
      }, 
     // product
      { name: "nerfgun nitefinderEX-3",
        description: "Price: 8 PGK",
        details: "Powerful Nerf gun with 3 nerf darts; laser is really weak.",
-       thumbnail: "nerfgun nitefinderEX-3",
-       images: ["nerfgun nitefinderEX-3", "nerfgun nitefinderEX-3_2"],
+       thumbnail: "nitefinderEX-3.jpg",
+       images: ["nitefinderEX-3.jpg", "nitefinderEX-3_2.jpg"],
        downloads: []
      },  
     // product
      { name: "nerfgun N-Force Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
-       thumbnail: "nerfgun N-Force Firestrike",
-       images: ["nerfgun N-Force Firestrike", "nerfgun N-Force Firestrike_2"],
+       thumbnail: "N-ForceFirestrike.jpg",
+       images: ["N-ForceFirestrike.jpg", "N-ForceFirestrike_2.jpg"],
        downloads: []
      },   
     // product
      { name: "nerf gun N-Force Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
-       thumbnail: "nerf gun N-Force Firestrike",
-       images: ["nerf gun N-Force Firestrike", "nerf gun N-Force Firestrike_2"],
+       thumbnail: "N-Forcefirestrike.jpg",
+       images: ["N-Forcefirestrike.jpg", "N-Forcefirestrike_2.jpg"],
        downloads: []
        },
     // product
      { name: "nerfgun Elite Reflex",
        description: "Price: 5 PGK",
        details: "Powerful, small Nerf gun with 1 nerf dart.",
-       thumbnail: "nerfgun Elite Reflex",
-       images: ["nerfgun Elite Reflex", "nerfgun Elite Reflex_2"],
+       thumbnail: "EliteReflex.jpg",
+       images: ["EliteReflex.jpg", "EliteReflex_2.jpg"],
        downloads: []
        },
     // product
      { name: "nerf gun Elite Reflex",
        description: "Price: 5 PGK",
        details: "Powerful, small Nerf gun with 1 nerf dart.",
-       thumbnail: "nerf gun Elite Reflex",
-       images: ["nerf gun Elite Reflex", "nerf gun Elite Reflex_2"],
+       thumbnail: "Elitereflex.jpg",
+       images: ["Elitereflex.jpg", "Elitereflex_2.jpg"],
        downloads: []
        },
   ],
