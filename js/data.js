@@ -38,7 +38,7 @@ products = [
        description: "Price: 45 PGK",
        details: "Complete lego set with no missing pieces.",
        thumbnail: "lego31071.jpg",
-       images: ["lego31071.jpg", "lego31071_1.jpg", "lego31071_2.jpg", "lego31071_3.jpg" ],
+       images: ["lego31071.jpg", "lego31071_1.jpg", "lego31071_2.jpg", "lego31071_3.jpg"],
        downloads: []
      },
     // product
