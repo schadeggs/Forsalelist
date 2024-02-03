@@ -41,38 +41,7 @@ products = [
        images: ["legoset31071.jpg", "legoset31071_1.jpg", "legoset31071_2.jpg", "legoset31071_3.jpg"],
        downloads: []
      },
-    // product
-    { name: "Product title",
-      description: "Price: 10 PGK",
-      details: "Here comes the description in full length.",
-      thumbnail: "show.jpg",
-      images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
-      downloads: []
-    },
-    // product
-    { name: "Article 1",
-      description: "10 PGK",
-      details: "",
-      thumbnail: "show.jpg",
-      images: ["show.jpg"],
-      downloads: []
-    },
-    // product
-    { name: "Article 2",
-      description: "10 PGK",
-      details: "Here comes the description in full length.",
-      thumbnail: "show.jpg",
-      images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
-      downloads: []
-    },
-    // product
-    { name: "Article ",
-      description: "10 PGK",
-      details: "Here comes the description in full length.",
-      thumbnail: "show.jpg",
-      images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
-      downloads: []
-    },    
+    
   ],
 
   
