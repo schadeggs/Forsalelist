@@ -57,12 +57,20 @@ products = [
        images: ["legoset60122.jpg", "legoset60122_1.jpg", "legoset60122_2.jpg", "legoset60122_3.jpg"],
        downloads: []
      },
-       // product
+    // product
      { name: "Lego Set 60082",
        description: "Price: 45 PGK",
        details: "Complete lego set with no missing pieces.",
        thumbnail: "legoset60082.jpg",
        images: ["legoset60082.jpg", "legoset60082_1.jpg", "legoset60082_2.jpg", "legoset60082_3.jpg"],
+       downloads: []
+     },
+    // product
+     { name: "Lego Set 31066",
+       description: "Price: 45 PGK",
+       details: "Complete lego set with no missing pieces.",
+       thumbnail: "legoset31066.jpg",
+       images: ["legoset31066.jpg", "legoset31066_1.jpg", "legoset31066_2.jpg", "legoset31066_3.jpg"],
        downloads: []
      },
   ],
