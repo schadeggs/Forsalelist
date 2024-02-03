@@ -86,7 +86,7 @@ products = [
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
        thumbnail: "elitestrongarm.jpg",
-       images: ["elitestrongarm.jpg", "elitestrongarm_2.jpg"],
+       images: ["elitestrongarm.jpg", "elitestrongarm_1.jpg"],
        downloads: []
      },
      // product
@@ -94,7 +94,7 @@ products = [
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
        thumbnail: "N-StrikeMaverick.jpg",
-       images: ["N-StrikeMaverick.jpg", "N-StrikeMaverick_2.jpg"],
+       images: ["N-StrikeMaverick.jpg", "N-StrikeMaverick_1.jpg"],
        downloads: []
      }, 
     // product
@@ -102,7 +102,7 @@ products = [
        description: "Price: 8 PGK",
        details: "Powerful Nerf gun with 3 nerf darts; laser is really weak.",
        thumbnail: "nitefinderEX-3.jpg",
-       images: ["nitefinderEX-3.jpg", "nitefinderEX-3_2.jpg"],
+       images: ["nitefinderEX-3.jpg", "nitefinderEX-3_1.jpg"],
        downloads: []
      },  
     // product
@@ -110,15 +110,15 @@ products = [
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
        thumbnail: "N-ForceFirestrike.jpg",
-       images: ["N-ForceFirestrike.jpg", "N-ForceFirestrike_2.jpg"],
+       images: ["N-ForceFirestrike.jpg", "N-ForceFirestrike_1.jpg"],
        downloads: []
      },   
     // product
      { name: "nerf gun N-Force Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
-       thumbnail: "N-Forcefirestrike.jpg",
-       images: ["N-Forcefirestrike.jpg", "N-Forcefirestrike_2.jpg"],
+       thumbnail: "N-Forcefirestrike2.jpg",
+       images: ["N-Forcefirestrike2.jpg", "N-Forcefirestrike2_1.jpg"],
        downloads: []
        },
     // product
@@ -126,7 +126,7 @@ products = [
        description: "Price: 5 PGK",
        details: "Powerful, small Nerf gun with 1 nerf dart.",
        thumbnail: "EliteReflex.jpg",
-       images: ["EliteReflex.jpg", "EliteReflex_2.jpg"],
+       images: ["EliteReflex.jpg", "EliteReflex_1.jpg"],
        downloads: []
        },
     // product
@@ -134,7 +134,7 @@ products = [
        description: "Price: 5 PGK",
        details: "Powerful, small Nerf gun with 1 nerf dart.",
        thumbnail: "Elitereflex.jpg",
-       images: ["Elitereflex.jpg", "Elitereflex_2.jpg"],
+       images: ["Elitereflex2.jpg", "Elitereflex2_1.jpg"],
        downloads: []
        },
   ],
