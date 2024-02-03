@@ -35,7 +35,7 @@ products = [
      },
      // product
      { name: "Lego Set 31072",
-       description: "Price: 45 PGK",
+       description: "Price: 40 PGK",
        details: "Complete lego set with no missing pieces.",
        thumbnail: "legoset31072.jpg",
        images: ["legoset31072.jpg", "legoset31072_1.jpg", "legoset31072_2.jpg", "legoset31072_3.jpg"],
