@@ -13,8 +13,8 @@ products = [
      { name: "Lego Set 60135",
        description: "Price: 20 PGK",
        details: "Complete lego set with no missing pieces.",
-       thumbnail: "lego60135.jpg",
-       images: ["lego60135.jpg", "lego60135_1.jpg", "lego60135_2.jpg", "lego60135_3.jpg" ],
+       thumbnail: "legoset60135.jpg",
+       images: ["legoset60135.jpg", "legoset60135_1.jpg", "legoset60135_2.jpg", "legoset60135_3.jpg" ],
        downloads: []
      },
 // product
