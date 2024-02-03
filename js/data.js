@@ -21,24 +21,24 @@ products = [
      { name: "Lego Set 31040",
        description: "Price: 20 PGK",
        details: "Complete lego set with no missing pieces.",
-       thumbnail: "lego31040.jpg",
-       images: ["lego31040.jpg", "lego31040_1.jpg", "lego31040_2.jpg", "lego31040_3.jpg" ],
+       thumbnail: "legoset31040.jpg",
+       images: ["legoset31040.jpg", "legoset31040_1.jpg", "legoset31040_2.jpg", "legoset31040_3.jpg" ],
        downloads: []
      },
      // product
      { name: "Lego Set 60077",
        description: "Price: 40 PGK",
        details: "Complete lego set with no missing pieces.",
-       thumbnail: "lego60077.jpg",
-       images: ["lego60077.jpg", "lego60077_1.jpg", "lego60077_2.jpg", "lego60077_3.jpg" ],
+       thumbnail: "legoset60077.jpg",
+       images: ["legoset60077.jpg", "legoset60077_1.jpg", "legoset60077_2.jpg", "legoset60077_3.jpg" ],
        downloads: []
      },
      // product
      { name: "Lego Set 31071",
        description: "Price: 45 PGK",
        details: "Complete lego set with no missing pieces.",
-       thumbnail: "lego31071.jpg",
-       images: ["lego31071.jpg", "lego31071_1.jpg", "lego31071_2.jpg", "lego31071_3.jpg"],
+       thumbnail: "legoset31071.jpg",
+       images: ["legoset31071.jpg", "legoset31071_1.jpg", "legoset31071_2.jpg", "legoset31071_3.jpg"],
        downloads: []
      },
     // product
