@@ -149,8 +149,8 @@ products = [
      { name: "Jig saw set",
        description: "Price: 15 PGK",
        details: "Jig saw set including a saw, extra blades, a tracter set, and plain sheets of wood.",
-       thumbnail: "sigsaw.jpg",
-       images: ["sigsaw.jpg", "sigsaw_1.jpg", "sigsaw_2.jpg", "sigsaw_3.jpg"],
+       thumbnail: "jigsaw.jpg",
+       images: ["jigsaw.jpg", "jigsaw_1.jpg", "jigsaw_2.jpg", "jigsaw_3.jpg"],
        downloads: []
      },
       // product
