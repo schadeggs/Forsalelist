@@ -185,6 +185,14 @@ products = [
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
        downloads: []
      },
+       // product
+     { name: "Yellow Remote Control truck",
+       description: "Price: 250 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "rctruck.jpg",
+       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
+       downloads: []
+     },
   ],
     
      
