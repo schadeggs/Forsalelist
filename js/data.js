@@ -140,7 +140,7 @@ products = [
       // product
      { name: "55 Small toy vehicles",
        description: "Price: 35 PGK",
-       details: "Small toy cars,plance, helicopters, trucks and other vehicles.",
+       details: "Small toy cars,planes, helicopters, trucks and other vehicles.",
        thumbnail: "toycars.jpg",
        images: ["toycars.jpg", "toycars_1.jpg", "toycars_2.jpg", "toycars_3.jpg", "toycars_4.jpg", "toycars_5.jpg", "toycars_6.jpg", "toycars_7.jpg"],
        downloads: []
