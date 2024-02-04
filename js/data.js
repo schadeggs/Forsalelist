@@ -169,6 +169,14 @@ products = [
        images: ["skates.jpg", "skates_1.jpg", "skates_2.jpg", "skates_3.jpg"],
        downloads: []
      },
+         // product
+     { name: "playmobile",
+       description: "Price: 230 PGK",
+       details: ".",
+       thumbnail: "playmobile.jpg",
+       images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
+       downloads: []
+     }, 
   ],
     
      
