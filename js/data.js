@@ -145,6 +145,14 @@ products = [
        images: ["toycars.jpg", "toycars_1.jpg", "toycars_2.jpg", "toycars_3.jpg", "toycars_4.jpg", "toycars_5.jpg", "toycars_6.jpg", "toycars_7.jpg"],
        downloads: []
      },
+       // product
+     { name: "Jig saw set",
+       description: "Price: 15 PGK",
+       details: "Jig saw set including a saw, extra blades, a tracter set, and plain sheets of wood.",
+       thumbnail: "sigsaw.jpg",
+       images: ["sigsaw.jpg", "sigsaw_1.jpg", "sigsaw_2.jpg", "sigsaw_3.jpg"],
+       downloads: []
+     },
   ],
     
      
