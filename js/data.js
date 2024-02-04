@@ -82,7 +82,7 @@ products = [
        downloads: []
      },
     // product
-     { name: "nerfgun elite strongarm",
+     { name: "nerfgun strongarm",
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
        thumbnail: "elitestrongarm.jpg",
@@ -90,7 +90,7 @@ products = [
        downloads: []
      },
      // product
-     { name: "nerfgun N-Strike Maverick",
+     { name: "nerfgun Maverick",
        description: "Price: 20 PGK",
        details: "Nerf gun with 6 nerf darts.",
        thumbnail: "N-StrikeMaverick.jpg",
@@ -98,7 +98,7 @@ products = [
        downloads: []
      }, 
     // product
-     { name: "nerfgun nitefinderEX-3",
+     { name: "nerf nitefinderEX-3",
        description: "Price: 8 PGK",
        details: "Powerful Nerf gun with 3 nerf darts; laser is really weak.",
        thumbnail: "nitefinderEX-3.jpg",
@@ -106,7 +106,7 @@ products = [
        downloads: []
      },  
     // product
-     { name: "nerfgun N-Force Firestrike",
+     { name: "nerfgun Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
        thumbnail: "N-ForceFirestrike.jpg",
@@ -114,7 +114,7 @@ products = [
        downloads: []
      },   
     // product
-     { name: "nerf gun N-Force Firestrike",
+     { name: "nerf gun Firestrike",
        description: "Price: 12 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
        thumbnail: "N-ForceFirestrike2.jpg",
@@ -186,7 +186,7 @@ products = [
        downloads: []
      },
        // product
-     { name: "Yellow Remote Control truck",
+     { name: "Remote Control truck",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "rctruck.jpg",
