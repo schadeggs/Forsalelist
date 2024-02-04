@@ -161,6 +161,14 @@ products = [
        images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg", "ripstick_3.jpg"],
        downloads: []
      },
+      // product
+     { name: "skates",
+       description: "Price: 45 PGK",
+       details: "The blue clipper on the left skate is kind of broken but you can still open and close it .",
+       thumbnail: "ripstick.jpg",
+       images: ["skates.jpg", "skates_1.jpg", "skates_2.jpg", "skates_3.jpg"],
+       downloads: []
+     },
   ],
     
      
