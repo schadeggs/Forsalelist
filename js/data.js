@@ -172,7 +172,7 @@ products = [
          // product
      { name: "playmobile",
        description: "Price: 230 PGK",
-       details: ".",
+       details: "One box of playmobile.",
        thumbnail: "playmobile.jpg",
        images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
        downloads: []
@@ -180,7 +180,7 @@ products = [
        // product
      { name: "Nitro bike",
        description: "Price: 250 PGK",
-       details: ".",
+       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still work.",
        thumbnail: "Nitro.jpg",
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
        downloads: []
