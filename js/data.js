@@ -120,7 +120,7 @@ products = [
        thumbnail: "N-ForceFirestrike2.jpg",
        images: ["N-ForceFirestrike2.jpg", "N-ForceFirestrike2_1.jpg"],
        downloads: []
-       },
+     },
     // product
      { name: "nerfgun Elite Reflex",
        description: "Price: 5 PGK",
@@ -128,7 +128,7 @@ products = [
        thumbnail: "EliteReflex.jpg",
        images: ["EliteReflex.jpg", "EliteReflex_1.jpg"],
        downloads: []
-       },
+     },
     // product
      { name: "nerf gun Elite Reflex",
        description: "Price: 5 PGK",
@@ -136,7 +136,7 @@ products = [
        thumbnail: "EliteReflex.jpg",
        images: ["EliteReflex2.jpg", "EliteReflex2_1.jpg"],
        downloads: []
-       },
+     },
       // product
      { name: "55 Small toy vehicles",
        description: "Price: 35 PGK",
@@ -144,13 +144,21 @@ products = [
        thumbnail: "toycars.jpg",
        images: ["toycars.jpg", "toycars_1.jpg", "toycars_2.jpg", "toycars_3.jpg", "toycars_4.jpg", "toycars_5.jpg", "toycars_6.jpg", "toycars_7.jpg"],
        downloads: []
-     },
-       // product
+     }, 
+      // product
      { name: "Jig saw set",
        description: "Price: 15 PGK",
        details: "Jig saw set including a saw, extra blades, a tracter set, and plain sheets of wood.",
        thumbnail: "sigsaw.jpg",
        images: ["sigsaw.jpg", "sigsaw_1.jpg", "sigsaw_2.jpg", "sigsaw_3.jpg"],
+       downloads: []
+     },
+      // product
+     { name: "ripstick",
+       description: "Price: 45 PGK",
+       details: "A good ripstick with some scratches.",
+       thumbnail: "ripstick.jpg",
+       images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg", "ripstick_3.jpg"],
        downloads: []
      },
   ],
