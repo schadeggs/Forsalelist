@@ -75,7 +75,7 @@ products = [
      },
     // product
      { name: "nerfgun superdrum",
-       description: "Price: 49 PGK",
+       description: "Price: 40 PGK",
        details: "Powerful Nerf gun with 40 nerf darts.",
        thumbnail: "superdrum.jpg",
        images: ["superdrum.jpg", "superdrum_1.jpg"],
