@@ -10,6 +10,59 @@ products = [
   // category
   [
     // product
+     { name: "26 inch Bike Trek",
+       description: "Price: 600 CHF",
+       details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (EU 43) & spare tire",
+       thumbnail: "track1.jpg",
+       images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg" ],
+       downloads: []
+     },
+      // product
+     { name: "Bike Rockrider (almost new)",
+       description: "Price: 500 AUS$",
+       details: "ST100, 21 gears, front suspension, almost never used",
+       thumbnail: "rockrider1.jpg",
+       images: ["rockrider1.jpg", "rockrider2.jpg", "rockrider3.jpg", "rockrider4.jpg", "rockrider5.jpg", "rockrider7.jpg", "rockrider8.jpg", "rockrider9.jpg" ],
+       downloads: []
+     },
+      // product
+     { name: "Bike Apollo Summit",
+       description: "Price: 150 AUS$",
+       details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
+       thumbnail: "apollo2.jpg",
+       images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
+       downloads: []
+     },
+      // product
+     { name: "2 Tennis Racquets",
+       description: "Price: 80 Kina",
+       details: "2 Tennis Racquets",
+       thumbnail: "tennisrackets1.jpg",
+       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
+       downloads: []
+     },
+      { name: "Dive gear",
+       description: "Make an offer",
+       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
+       thumbnail: "divegear.jpg",
+       images: ["divegear.jpg"],
+       downloads: []
+     },
+      { name: "Neopren",
+       description: "For free",
+       details: "Full body neopren",
+       thumbnail: "neopren1.jpg",
+       images: ["neopren1.jpg","neopren2.jpg"],
+       downloads: []
+     },
+      { name: "Partylights",
+       description: "40 Kina",
+       details: "10 LED bulbs in red, blue, green and yellow. 240V",
+       thumbnail: "partylights1.jpg",
+       images: ["partylights1.jpg","partylights2.jpg"],
+       downloads: []
+     },
+      // product
      { name: "Lego Set 60135",
        description: "Price: 20 PGK",
        details: "Complete lego set with no missing pieces.",
