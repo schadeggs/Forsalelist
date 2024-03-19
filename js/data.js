@@ -203,7 +203,7 @@ products = [
        description: "Price: 15 PGK",
        details: "50 nerf darts mostly new but some not.",
        thumbnail: "nerfbullets.jpg",
-       images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2"],
+       images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2.jpg"],
        downloads: []
      },
       // product
