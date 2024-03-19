@@ -14,7 +14,7 @@ products = [
        description: "Price: 600 CHF",
        details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (EU 43) & spare tire",
        thumbnail: "track1.jpg",
-       images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg" ],
+       images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg", "kite3.jpg"],
        downloads: []
      },
       // product
@@ -331,7 +331,7 @@ products = [
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "kite1.jpg",
-       images: ["kite1.jpg", "kite2.jpg", "kite3.jpg"],
+       images: ["kite1.jpg", "kite2.jpg"],
        downloads: []
      }, 
       // product
