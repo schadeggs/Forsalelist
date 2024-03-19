@@ -203,7 +203,7 @@ products = [
        description: "Price: 15 PGK",
        details: "50 nerf darts mostly new but some not.",
        thumbnail: "nerfbullets.jpg",
-       images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2.jpg"],
+       images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2"],
        downloads: []
      },
       // product
@@ -255,6 +255,14 @@ products = [
        downloads: []
      },
        // product
+     { name: "Remote Control truck",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck for small children.",
+       thumbnail: "rctruck.jpg",
+       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
+       downloads: []
+     },
+        // product
      { name: "badminton",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
@@ -294,6 +302,70 @@ products = [
        images: ["coolboxred.jpg", "coolboxred2.jpg"],
        downloads: []
      }, 
+        // product
+     { name: "welding gas ",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "gaswelding1.jpg",
+       images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "welding gas",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "weldinggas1.jpg",
+       images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "snatch strap",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "snatchstrap.jpg",
+       images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "kite",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "kite1.jpg",
+       images: ["kite1.jpg", "kite2.jpg", "kite3.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "lexi (dog)",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "lexi1.jpg",
+       images: ["lexi1.jpg", "lexi2.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "moskitto nets",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "moskittonets.jpg",
+       images: ["moskittonets.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "watershoes",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "watershoe1.jpg",
+       images: ["watershoe1.jpg", "watershoe2.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "waterslide",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "waterslide.jpg",
+       images: ["waterslide.jpg"],
+       downloads: []
+      },
   ],
     
      
