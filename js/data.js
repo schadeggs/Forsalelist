@@ -192,10 +192,18 @@ products = [
      },
     // product
      { name: "nerf gun mega bigshock",
-       description: "Price: 10 PGK",
+       description: "Price: 15 PGK",
        details: "Powerful, mega Nerf gun with 1 nerf dart.",
        thumbnail: "megabigshock.jpg",
        images: ["megabigshock.jpg", "megabigshock_1.jpg"],
+       downloads: []
+     },
+       // product
+     { name: "50 nerf darts",
+       description: "Price: 15 PGK",
+       details: "50 nerf darts mostly new but some not.",
+       thumbnail: "nerfbullets.jpg",
+       images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2"],
        downloads: []
      },
       // product
