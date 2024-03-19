@@ -366,6 +366,14 @@ products = [
        images: ["waterslide.jpg"],
        downloads: []
       },
+       // product
+     { name: "big white wooden boxes",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "boxes1.jpg",
+       images: ["boxes1.jpg", "boxes2.jpg"],
+       downloads: []
+      },
   ],
     
      
