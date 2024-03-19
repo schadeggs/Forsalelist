@@ -190,6 +190,14 @@ products = [
        images: ["EliteReflex2.jpg", "EliteReflex2_1.jpg"],
        downloads: []
      },
+    // product
+     { name: "nerf gun mega bigshock",
+       description: "Price: 10 PGK",
+       details: "Powerful, mega Nerf gun with 1 nerf dart.",
+       thumbnail: "megabigshock.jpg",
+       images: ["megabigshock.jpg", "megabigshock_1.jpg"],
+       downloads: []
+     },
       // product
      { name: "55 Small toy vehicles",
        description: "Price: 35 PGK",
