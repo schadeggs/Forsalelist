@@ -339,7 +339,7 @@ products = [
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "lexi1.jpg",
-       images: ["lexi1.jpg", "lexi2.jpg"],
+       images: ["lexi1.jpg"],
        downloads: []
       },
       // product
