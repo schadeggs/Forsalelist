@@ -248,7 +248,7 @@ products = [
      }, 
        // product
      { name: "Nitro bike",
-       description: "Price: 300 PGK",
+       description: "Price: 120 AUD",
        details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still work.",
        thumbnail: "Nitro.jpg",
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
