@@ -255,13 +255,45 @@ products = [
        downloads: []
      },
        // product
-     { name: "Remote Control truck",
+     { name: "badminton",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
-       thumbnail: "rctruck.jpg",
-       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
+       thumbnail: "badminton.jpg",
+       images: ["badminton.jpg"],
        downloads: []
      },
+      // product
+     { name: "bow",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "bow.jpg",
+       images: ["bow.jpg"],
+       downloads: []
+     }, 
+       // product
+     { name: "bike helmets",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "bikehelmets.jpg",
+       images: ["bikehelmets.jpg", "bikehelmets2.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "blue coolbox",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "coolboxblue1.jpg",
+       images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "red coolbox",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "coolboxred.jpg",
+       images: ["coolboxred.jpg", "coolboxred2.jpg"],
+       downloads: []
+     }, 
   ],
     
      
