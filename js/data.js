@@ -592,14 +592,7 @@ products = [
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
        },
-       // product
-     { name: "advent calender",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
-       thumbnail: "adventcalenter.jpg",
-       images: ["adventcalenter.jpg", "adventcalender1.jpg"],
-       downloads: []
-      },
+    
   ],
     
      
