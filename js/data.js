@@ -33,6 +33,28 @@ products = [
        images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
        downloads: []
      },
+       // product
+     { name: "Nitro bike",
+       description: "Price: 120 AUD",
+       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still work.",
+       thumbnail: "Nitro.jpg",
+       images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
+       downloads: []
+     },
+       { name: "Dive gear",
+       description: "Make an offer",
+       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
+       thumbnail: "divegear.jpg",
+       images: ["divegear.jpg"],
+       downloads: []
+     },
+        { name: "Partylights",
+       description: "40 Kina",
+       details: "10 LED bulbs in red, blue, green and yellow. 240V",
+       thumbnail: "partylights1.jpg",
+       images: ["partylights1.jpg","partylights2.jpg"],
+       downloads: []
+     },
       // product
      { name: "2 Tennis Racquets",
        description: "Price: 80 Kina",
@@ -41,25 +63,12 @@ products = [
        images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
        downloads: []
      },
-      { name: "Dive gear",
-       description: "Make an offer",
-       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
-       thumbnail: "divegear.jpg",
-       images: ["divegear.jpg"],
-       downloads: []
-     },
+     
       { name: "Neopren",
        description: "For free",
        details: "Full body neopren",
        thumbnail: "neopren1.jpg",
        images: ["neopren1.jpg","neopren2.jpg"],
-       downloads: []
-     },
-      { name: "Partylights",
-       description: "40 Kina",
-       details: "10 LED bulbs in red, blue, green and yellow. 240V",
-       thumbnail: "partylights1.jpg",
-       images: ["partylights1.jpg","partylights2.jpg"],
        downloads: []
      },
       // product
@@ -246,14 +255,7 @@ products = [
        images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
        downloads: []
      }, 
-       // product
-     { name: "Nitro bike",
-       description: "Price: 120 AUD",
-       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still work.",
-       thumbnail: "Nitro.jpg",
-       images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
-       downloads: []
-     },
+      
        // product
      { name: "Remote Control truck",
        description: "Price: 30 PGK",
