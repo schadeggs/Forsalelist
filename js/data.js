@@ -324,7 +324,7 @@ products = [
      { name: "snatch strap",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
-       thumbnail: "snatchstrap.jpg",
+       thumbnail: "snatchstrap1.jpg",
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
        downloads: []
      }, 
@@ -401,7 +401,7 @@ products = [
        downloads: []
       },
       // product
-     { name: "a white box",
+     { name: "white box",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "whitebox.jpg",
@@ -433,7 +433,7 @@ products = [
        downloads: []
       },
       // product
-     { name: "fake twigs for decoration with snow",
+     { name: "fake twigs with snow for decoration",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "twigdecsnow.jpg",
@@ -513,7 +513,7 @@ products = [
        downloads: []
       },
        // product
-     { name: "a bright lamp",
+     { name: "bright lamp",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "light.jpg",
@@ -521,7 +521,7 @@ products = [
        downloads: []
      }, 
       // product
-     { name: "a bright lamp ",
+     { name: "bright lamp ",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "lamp.jpg",
@@ -553,7 +553,7 @@ products = [
        downloads: []
       },
       // product
-     { name: "a blue coolbag",
+     { name: "blue coolbag",
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "coolbag.jpg",
