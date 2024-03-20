@@ -374,6 +374,150 @@ products = [
        images: ["boxes1.jpg", "boxes2.jpg"],
        downloads: []
       },
+      // product
+     { name: "workoutmat",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "workoutmat1.jpg",
+       images: ["workoutmat1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "wool",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "wool.jpg",
+       images: ["wool.jpg"],
+       downloads: []
+      },
+    // product
+     { name: "watergun",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "watergun.jpg",
+       images: ["watergun.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "a white box",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "whitebox.jpg",
+       images: ["whitebox.jpg", "whitebox.1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "weights",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "weights1.jpg",
+       images: ["weights1.jpg", "weights2.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "fake twigs for decoration",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "twigdec.jpg",
+       images: ["twigdec.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Christmas tree",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "tree.jpg",
+       images: ["tree.jpg", "tree1.jpg", "tree2.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "fake twigs for decoration with snow",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "twigdecsnow.jpg",
+       images: ["twigdecsnow.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Christmas tablecloth",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "tablecloth.jpg",
+       images: ["tablecloth.jpg", "tablecloth1.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "tablett and phone stand",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "tabletholder.jpg",
+       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
+       downloads: []
+       },
+       // product
+     { name: "finger puppets",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "puppet.jpg",
+       images: ["puppet.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "playdoe supplies",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "playdoe.jpg",
+       images: ["playdoe.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "pillow cases",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "pillowscases.jpg",
+       images: ["pillowscases.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "mix of ornaments",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "ornaments.jpg",
+       images: ["ornaments.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "small pack of ornaments",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "ornamentss.jpg",
+       images: ["ornamentss.jpg"],
+       downloads: []
+      },
+        // product
+     { name: "silver ornaments",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "ornamentsw.jpg",
+       images: ["ornamentsw.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "big pack of ornaments",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "ornamentsb.jpg",
+       images: ["ornamentsb.jpg", "ornamentsb1.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "a bright lamp",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "light.jpg",
+       images: ["light.jpg", "light1.jpg", "light2.jpg", "light3.jpg"],
+       downloads: []
+     }, 
   ],
     
      
