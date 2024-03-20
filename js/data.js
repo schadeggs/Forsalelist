@@ -518,6 +518,86 @@ products = [
        images: ["light.jpg", "light1.jpg", "light2.jpg", "light3.jpg"],
        downloads: []
      }, 
+      // product
+     { name: "a bright lamp ",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "lamp.jpg",
+       images: ["lamp.jpg", "lamp1.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "hairdresser apron",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "haircutapron1.jpg",
+       images: ["haircutapron1.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "glitter",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "glitter.jpg",
+       images: ["glitter.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "games",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "games.jpg",
+       images: ["games.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "a blue coolbag",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "coolbag.jpg",
+       images: ["coolbag.jpg", "coolbag1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "children sewing maschine",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "childrensewingmaschine1.jpg",
+       images: ["childrensewingmaschine1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "small blue boxes",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "boxesblue1.jpg",
+       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "teddy bear",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "bear.jpg",
+       images: ["bear.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "beads for art crafts",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "beads.jpg",
+       images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
+       downloads: []
+       },
+       // product
+     { name: "advent calender",
+       description: "Price: 30 PGK",
+       details: "A working yellow remote control truck.",
+       thumbnail: "adventcalenter.jpg",
+       images: ["adventcalenter.jpg", "adventcalender1.jpg"],
+       downloads: []
+      },
   ],
     
      
