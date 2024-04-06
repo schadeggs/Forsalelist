@@ -119,10 +119,10 @@ products = [
        downloads: []
      },
      { name: "Wok pan",
-       description: "Wok from Ikea, nice for suite & sour and curry dishes!",
-       details: "Passuit to mash potatos, etc",
+       description: "50 Kina",
+       details: "Wok from Ikea, nice for suite & sour and curry dishes!",
        thumbnail: "wok.jpg",
-       images: ["wok.jpg", "wok1.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
+       images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
        downloads: []
      }, 
      
@@ -345,8 +345,8 @@ products = [
      },
       // product
      { name: "bow",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Make a cheap offer",
+       details: "2 bows and arrows, serveral arrows would need some maintenance. Will only be given to whiteskins as sports equipment, not to be used for fighting ;-)",
        thumbnail: "bow.jpg",
        images: ["bow.jpg"],
        downloads: []
@@ -399,34 +399,34 @@ products = [
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
        downloads: []
      }, 
+     // product
+     //{ name: "kite",
+     //  description: "Price: 30 PGK",
+     //  details: "A working yellow remote control truck.",
+     //  thumbnail: "kite1.jpg",
+     //  images: ["kite1.jpg", "kite2.jpg"],
+     //  downloads: []
+     //}, 
       // product
-     { name: "kite",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
-       thumbnail: "kite1.jpg",
-       images: ["kite1.jpg", "kite2.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "lexi (dog)",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Lexi (dog)",
+       description: "For negotiation",
+       details: "A greate guard dog. Not suitable as family dog or around kids. Female, 7 years old",
        thumbnail: "lexi1.jpg",
        images: ["lexi1.jpg"],
        downloads: []
       },
       // product
      { name: "moskitto nets",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 40 PGK",
+       details: "Several new moskitto nets.",
        thumbnail: "moskittonets.jpg",
        images: ["moskittonets.jpg"],
        downloads: []
       },
        // product
      { name: "watershoes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "Watershoes for beach.",
        thumbnail: "watershoe1.jpg",
        images: ["watershoe1.jpg", "watershoe2.jpg"],
        downloads: []
