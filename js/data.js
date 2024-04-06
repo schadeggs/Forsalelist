@@ -64,7 +64,7 @@ products = [
      }, 
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition",
+       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm",
        thumbnail: "",
        images: [""],
        downloads: []
