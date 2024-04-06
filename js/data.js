@@ -440,16 +440,16 @@ products = [
       },
        // product
      { name: "big white wooden boxes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 20 PGK per box",
+       details: "Selfmade wooden boxes, painted white. We used them as toy boxes. No lid. ",
        thumbnail: "boxes1.jpg",
        images: ["boxes1.jpg", "boxes2.jpg"],
        downloads: []
       },
       // product
      { name: "workoutmat",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 5 PGK",
+       details: "Well used but still good",
        thumbnail: "workoutmat1.jpg",
        images: ["workoutmat1.jpg"],
        downloads: []
@@ -464,16 +464,16 @@ products = [
       },
     // product
      { name: "watergun",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 15 PGK each",
+       details: "",
        thumbnail: "watergun.jpg",
        images: ["watergun.jpg"],
        downloads: []
       },
       // product
      { name: "white box",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free ",
+       details: "Well used but undamaged",
        thumbnail: "whitebox.jpg",
        images: ["whitebox.jpg", "whitebox.1.jpg"],
        downloads: []
@@ -481,71 +481,71 @@ products = [
       // product
      { name: "weights",
        description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       details: "3lb each",
        thumbnail: "weights1.jpg",
        images: ["weights1.jpg", "weights2.jpg"],
        downloads: []
       },
       // product
      { name: "fake twigs for decoration",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "twigdec.jpg",
        images: ["twigdec.jpg"],
        downloads: []
       },
       // product
      { name: "Christmas tree",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "tree.jpg",
        images: ["tree.jpg", "tree1.jpg", "tree2.jpg"],
        downloads: []
       },
       // product
      { name: "fake twigs with snow for decoration",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "twigdecsnow.jpg",
        images: ["twigdecsnow.jpg"],
        downloads: []
       },
       // product
      { name: "Christmas tablecloth",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "",
        thumbnail: "tablecloth.jpg",
        images: ["tablecloth.jpg", "tablecloth1.jpg"],
        downloads: []
       },
        // product
      { name: "tablett and phone stand",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 5 PGK",
+       details: "",
        thumbnail: "tabletholder.jpg",
        images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
        downloads: []
        },
        // product
      { name: "finger puppets",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "puppet.jpg",
        images: ["puppet.jpg"],
        downloads: []
       },
        // product
      { name: "playdoe supplies",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 20 PGK",
+       details: "comes with the box",
        thumbnail: "playdoe.jpg",
        images: ["playdoe.jpg"],
        downloads: []
       },
        // product
-     { name: "pillow cases",
+     { name: "1 pillow and 2cases",
        description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       details: "Only used for a short time. As good as new.",
        thumbnail: "pillowscases.jpg",
        images: ["pillowscases.jpg"],
        downloads: []
@@ -553,7 +553,7 @@ products = [
        // product
      { name: "mix of ornaments",
        description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       details: "",
        thumbnail: "ornaments.jpg",
        images: ["ornaments.jpg"],
        downloads: []
@@ -583,17 +583,17 @@ products = [
        downloads: []
       },
        // product
-     { name: "bright lamp",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "round lamp",
+       description: "Price: 50 PGK",
+       details: "glass.",
        thumbnail: "light.jpg",
-       images: ["light.jpg", "light1.jpg", "light2.jpg", "light3.jpg"],
+       images: ["light.jpg", "light3.jpg"],
        downloads: []
      }, 
       // product
      { name: "bright lamp ",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "Plastic",
        thumbnail: "lamp.jpg",
        images: ["lamp.jpg", "lamp1.jpg"],
        downloads: []
