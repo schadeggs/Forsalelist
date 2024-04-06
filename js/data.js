@@ -57,7 +57,7 @@ products = [
      },
     { name: "Work bench",
        description: "300 AUS$",
-       details: "Very nice and solid built work bench. Almost new condition. With two drawers",
+       details: "Very nice and solid built work bench. Almost new condition. With two drawers and a top cover (about 3mm)",
        thumbnail: "workbench.jpg",
        images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
        downloads: []
@@ -412,7 +412,7 @@ products = [
        description: "For negotiation",
        details: "A greate guard dog. Not suitable as family dog or around kids. Female, 7 years old",
        thumbnail: "lexi1.jpg",
-       images: ["lexi1.jpg"],
+       images: ["lexi1.jpg", "lexi2.jpg"],
        downloads: []
       },
       // product
