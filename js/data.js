@@ -58,8 +58,8 @@ products = [
     { name: "Work bench",
        description: "300 AUS$",
        details: "Very nice and solid built work bench. Almost new condition. With two drawers",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "workbench.jpg",
+       images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
        downloads: []
      }, 
      { name: "2 x EBC Cupboards",
