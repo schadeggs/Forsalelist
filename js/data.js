@@ -76,6 +76,7 @@ products = [
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
        downloads: []
      }, 
+     // product
      { name: "6 x 19inch Computer screens",
        description: "120 Kina (each)",
        details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VHA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
@@ -83,6 +84,7 @@ products = [
        images: ["screen.jpg", "screen1.jpg","screen2.jpg","screen3.jpg","screen4.jpg"],
        downloads: []
      },
+     // product
      { name: "60x60 wall mirror",
        description: "50 Kina",
        details: "New mirror, complete with mounting",
@@ -90,6 +92,7 @@ products = [
        images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
        downloads: []
      }, 
+     // product
      { name: "Swiss Fondue Dish",
        description: "80 Kina",
        details: "With 6 forks and 3 units of burning paste. Very Swiss ;-)",
@@ -337,7 +340,7 @@ products = [
      },
         // product
      { name: "badminton",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "badminton.jpg",
        images: ["badminton.jpg"],
@@ -353,7 +356,7 @@ products = [
      }, 
        // product
      { name: "bike helmets",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "bikehelmets.jpg",
        images: ["bikehelmets.jpg", "bikehelmets2.jpg"],
@@ -361,7 +364,7 @@ products = [
      }, 
       // product
      { name: "blue coolbox",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "coolboxblue1.jpg",
        images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
@@ -377,7 +380,7 @@ products = [
      }, 
         // product
      { name: "welding gas ",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "gaswelding1.jpg",
        images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
@@ -385,7 +388,7 @@ products = [
      }, 
       // product
      { name: "welding gas",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "weldinggas1.jpg",
        images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
@@ -393,7 +396,7 @@ products = [
      }, 
       // product
      { name: "snatch strap",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "snatchstrap1.jpg",
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
