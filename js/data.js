@@ -125,20 +125,21 @@ products = [
        images: ["wok.jpg", "wok1.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
        downloads: []
      }, 
-      // product
-     { name: "2 Tennis Racquets",
-       description: "Price: 80 Kina",
-       details: "2 Tennis Racquets",
-       thumbnail: "tennisrackets1.jpg",
-       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
-       downloads: []
-     },
      
       { name: "Neopren",
        description: "For free",
        details: "Full body neopren",
        thumbnail: "neopren1.jpg",
        images: ["neopren1.jpg","neopren2.jpg"],
+       downloads: []
+     },
+      
+     // product
+     { name: "2 Tennis Racquets",
+       description: "Price: 80 Kina",
+       details: "2 Tennis Racquets",
+       thumbnail: "tennisrackets1.jpg",
+       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
        downloads: []
      },
       // product
