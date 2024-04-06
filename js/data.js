@@ -370,8 +370,8 @@ products = [
       },
        // product
      { name: "big white wooden boxes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 20 PGK per box",
+       details: "Selfmade wooden boxes, painted white. We used them as toy boxes. No lid. ",
        thumbnail: "boxes1.jpg",
        images: ["boxes1.jpg", "boxes2.jpg"],
        downloads: []
