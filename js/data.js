@@ -483,7 +483,7 @@ products = [
        // product
      { name: "mix of ornaments",
        description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       details: "",
        thumbnail: "ornaments.jpg",
        images: ["ornaments.jpg"],
        downloads: []
@@ -513,17 +513,17 @@ products = [
        downloads: []
       },
        // product
-     { name: "bright lamp",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "round lamp",
+       description: "Price: 50 PGK",
+       details: "glass.",
        thumbnail: "light.jpg",
-       images: ["light.jpg", "light1.jpg", "light2.jpg", "light3.jpg"],
+       images: ["light.jpg", "light3.jpg"],
        downloads: []
      }, 
       // product
      { name: "bright lamp ",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "Plastic",
        thumbnail: "lamp.jpg",
        images: ["lamp.jpg", "lamp1.jpg"],
        downloads: []
