@@ -509,7 +509,7 @@ products = [
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "ornamentsb.jpg",
-       images: ["ornamentsb.jpg", "ornamentsb1.jpg"],
+       images: ["ornamentsb.jpg"],
        downloads: []
       },
        // product
@@ -530,24 +530,24 @@ products = [
       },
        // product
      { name: "hairdresser apron",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "haircutapron1.jpg",
        images: ["haircutapron1.jpg"],
        downloads: []
       },
        // product
      { name: "glitter",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "",
        thumbnail: "glitter.jpg",
        images: ["glitter.jpg"],
        downloads: []
       },
       // product
      { name: "games",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free",
+       details: "in German",
        thumbnail: "games.jpg",
        images: ["games.jpg"],
        downloads: []
@@ -569,25 +569,25 @@ products = [
        downloads: []
       },
       // product
-     { name: "small blue boxes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "small blue boxes with lid",
+       description: "Price: small K5 each, K10 each PGK",
+       details: "",
        thumbnail: "boxesblue1.jpg",
        images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
        // product
      { name: "teddy bear",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "Hand Puppet",
        thumbnail: "bear.jpg",
        images: ["bear.jpg"],
        downloads: []
       },
        // product
      { name: "beads for art crafts",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: Free PGK",
+       details: "",
        thumbnail: "beads.jpg",
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
