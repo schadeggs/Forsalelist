@@ -662,7 +662,14 @@ products = [
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
        },
-    
+       // product
+     { name: "Bowls",
+       description: "Price: 20 PGK each",
+       details: "IKEA Serving Bowls",
+       thumbnail: "bowls.jpg",
+       images: ["bowls.jpg`"],
+       downloads: []
+       },
   ],
     
      
