@@ -306,7 +306,7 @@ products = [
        description: "Price: 45 PGK",
        details: "A good ripstick with some scratches.",
        thumbnail: "ripstick.jpg",
-       images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg", "ripstick_3.jpg"],
+       images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg"],
        downloads: []
      },
       // product
