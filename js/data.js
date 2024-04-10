@@ -20,7 +20,7 @@ products = [
       // product
      { name: "Bike Rockrider (almost new)",
        description: "Price: 450 AUS$",
-       details: "ST100, 21 gears, front suspension, almost never used",
+       details: "ST100, 21 gears, front suspension, almost new",
        thumbnail: "rockrider1.jpg",
        images: ["rockrider1.jpg", "rockrider2.jpg", "rockrider3.jpg", "rockrider4.jpg", "rockrider5.jpg", "rockrider7.jpg", "rockrider8.jpg", "rockrider9.jpg" ],
        downloads: []
@@ -36,7 +36,7 @@ products = [
        // product
      { name: "Nitro bike",
        description: "Price: 120 AUS$",
-       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still work.",
+       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears srre working.",
        thumbnail: "Nitro.jpg",
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
        downloads: []
@@ -57,88 +57,92 @@ products = [
      },
     { name: "Work bench",
        description: "300 AUS$",
-       details: "Very nice and solid built work bench. Almost new condition. With two drawers",
-       thumbnail: "",
-       images: [""],
+       details: "Very nice and solid built work bench. Almost new condition. With two drawers and a top cover (about 3mm)",
+       thumbnail: "workbench.jpg",
+       images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
        downloads: []
      }, 
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition",
-       thumbnail: "",
-       images: [""],
+       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka.",
+       thumbnail: "cupboard.jpg",
+       images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
        downloads: []
      }, 
     { name: "Projector screen",
        description: "600 Kina",
        details: "Pull down movie screen. Great for watching movies with beemer. Size:120cm x 200cm, Brand: Nobo, Colour: light gray",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "projectorscreen.jpg",
+       images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
        downloads: []
      }, 
+     // product
      { name: "6 x 19inch Computer screens",
        description: "120 Kina (each)",
        details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VHA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "screen.jpg",
+       images: ["screen.jpg", "screen1.jpg","screen2.jpg","screen3.jpg","screen4.jpg"],
        downloads: []
      },
+     // product
      { name: "60x60 wall mirror",
        description: "50 Kina",
        details: "New mirror, complete with mounting",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "mirror.jpg",
+       images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
        downloads: []
      }, 
+     // product
      { name: "Swiss Fondue Dish",
        description: "80 Kina",
        details: "With 6 forks and 3 units of burning paste. Very Swiss ;-)",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "fondue.jpg",
+       images: ["fondue.jpg", "fondue1.jpg", "fondue2.jpg", "fondue3.jpg"],
        downloads: []
      }, 
      { name: "Raclette Dish",
        description: "50 Kina",
        details: "Comes with 6 pans and 6 wood scrapers. With PNG power plug.",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "raclette.jpg",
+       images: ["raclette.jpg","raclette1.jpg", "raclette2.jpg", "raclette3.jpg",],
        downloads: []
      }, 
      { name: "Pressure Cooker",
        description: "100 Kina",
        details: "6l pressure cooker. Stainless steel.",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "pressurecooker.jpg",
+       images: ["pressurecooker.jpg", "pressurecooker1.jpg", "pressurecooker2.jpg", "pressurecooker3.jpg", "pressurecooker4.jpg", "pressurecooker5.jpg"],
        downloads: []
      },
      { name: "Passuit",
-       description: "for free",
+       description: "For free",
        details: "Passuit to mash potatos, etc",
-       thumbnail: "",
-       images: [""],
+       thumbnail: "passuit.jpg",
+       images: ["passuit.jpg", "passuit1.jpg", "passuit2.jpg"],
        downloads: []
      },
      { name: "Wok pan",
-       description: "Wok from Ikea, nice for suite & sour and curry dishes!",
-       details: "Passuit to mash potatos, etc",
-       thumbnail: "",
-       images: [""],
+       description: "50 Kina",
+       details: "Wok from Ikea, nice for suite & sour and curry dishes!",
+       thumbnail: "wok.jpg",
+       images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
        downloads: []
      }, 
-      // product
-     { name: "2 Tennis Racquets",
-       description: "Price: 80 Kina",
-       details: "2 Tennis Racquets",
-       thumbnail: "tennisrackets1.jpg",
-       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
-       downloads: []
-     },
      
       { name: "Neopren",
        description: "For free",
        details: "Full body neopren",
        thumbnail: "neopren1.jpg",
        images: ["neopren1.jpg","neopren2.jpg"],
+       downloads: []
+     },
+      
+     // product
+     { name: "2 Tennis Racquets",
+       description: "Price: 80 Kina",
+       details: "2 Tennis Racquets",
+       thumbnail: "tennisrackets1.jpg",
+       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
        downloads: []
      },
       // product
@@ -336,7 +340,7 @@ products = [
      },
         // product
      { name: "badminton",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "badminton.jpg",
        images: ["badminton.jpg"],
@@ -344,15 +348,15 @@ products = [
      },
       // product
      { name: "bow",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Make a cheap offer",
+       details: "2 bows and arrows, serveral arrows would need some maintenance. Will only be given to whiteskins as sports equipment, not to be used for fighting ;-)",
        thumbnail: "bow.jpg",
        images: ["bow.jpg"],
        downloads: []
      }, 
        // product
      { name: "bike helmets",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "bikehelmets.jpg",
        images: ["bikehelmets.jpg", "bikehelmets2.jpg"],
@@ -360,7 +364,7 @@ products = [
      }, 
       // product
      { name: "blue coolbox",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "coolboxblue1.jpg",
        images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
@@ -376,7 +380,7 @@ products = [
      }, 
         // product
      { name: "welding gas ",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "gaswelding1.jpg",
        images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
@@ -384,7 +388,7 @@ products = [
      }, 
       // product
      { name: "welding gas",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "weldinggas1.jpg",
        images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
@@ -392,40 +396,40 @@ products = [
      }, 
       // product
      { name: "snatch strap",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "snatchstrap1.jpg",
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
        downloads: []
      }, 
+     // product
+     //{ name: "kite",
+     //  description: "Price: 30 PGK",
+     //  details: "A working yellow remote control truck.",
+     //  thumbnail: "kite1.jpg",
+     //  images: ["kite1.jpg", "kite2.jpg"],
+     //  downloads: []
+     //}, 
       // product
-     { name: "kite",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
-       thumbnail: "kite1.jpg",
-       images: ["kite1.jpg", "kite2.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "lexi (dog)",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Lexi (dog)",
+       description: "For negotiation",
+       details: "A greate guard dog. Not suitable as family dog or around kids. Female, 7 years old",
        thumbnail: "lexi1.jpg",
-       images: ["lexi1.jpg"],
+       images: ["lexi1.jpg", "lexi2.jpg"],
        downloads: []
       },
       // product
      { name: "moskitto nets",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 40 PGK",
+       details: "Several new moskitto nets.",
        thumbnail: "moskittonets.jpg",
        images: ["moskittonets.jpg"],
        downloads: []
       },
        // product
      { name: "watershoes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       description: "Price: 10 PGK",
+       details: "Watershoes for beach.",
        thumbnail: "watershoe1.jpg",
        images: ["watershoe1.jpg", "watershoe2.jpg"],
        downloads: []
