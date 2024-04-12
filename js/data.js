@@ -337,15 +337,22 @@ products = [
        images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
        downloads: []
      },
-        // product
-     { name: "Badminton set",
-       description: "Price: 20 PGK",
-       details: "Several racquets. Like on the picture.",
-       thumbnail: "badminton.jpg",
-       images: ["badminton.jpg"],
+           // product
+     { name: "Watergun",
+       description: "Price: 15 PGK each",
+       details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
+       thumbnail: "watergun.jpg",
+       images: ["watergun.jpg"],
        downloads: []
-     },
-      
+      },
+      // product
+     { name: "Waterslide",
+       description: "Price: 30 PGK",
+       details: "A several meter long, strong plastik for water sliding on a grasy slope. Provides a lot of fun to the kids.",
+       thumbnail: "waterslide.jpg",
+       images: ["waterslide.jpg"],
+       downloads: []
+      },
        // product
      { name: "Bike helmets",
        description: "Price: 20 PGK each",
@@ -394,6 +401,15 @@ products = [
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
        downloads: []
      }, 
+             // product
+     { name: "Watershoes",
+       description: "Price: 10 PGK",
+       details: "Watershoes for beach.",
+       thumbnail: "watershoe1.jpg",
+       images: ["watershoe1.jpg", "watershoe2.jpg"],
+       downloads: []
+      },
+
      // product
      //{ name: "kite",
      //  description: "Price: 30 PGK",
@@ -410,53 +426,7 @@ products = [
      //   images: ["lexi1.jpg", "lexi2.jpg"],
      //   downloads: []
      //},
-      // product
-     { name: "Bow & arrows",
-       description: "Make a cheap offer",
-       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
-       thumbnail: "bow.jpg",
-       images: ["bow.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "Moskitto nets",
-       description: "Price: 40 PGK",
-       details: "Several new moskitto nets.",
-       thumbnail: "moskittonets.jpg",
-       images: ["moskittonets.jpg"],
-       downloads: []
-      },
-       // product
-     { name: "Watershoes",
-       description: "Price: 10 PGK",
-       details: "Watershoes for beach.",
-       thumbnail: "watershoe1.jpg",
-       images: ["watershoe1.jpg", "watershoe2.jpg"],
-       downloads: []
-      },
-       // product
-     { name: "Waterslide",
-       description: "Price: 30 PGK",
-       details: "A several meter long, strong plastik for water sliding on a grasy slope. Provides a lot of fun to the kids.",
-       thumbnail: "waterslide.jpg",
-       images: ["waterslide.jpg"],
-       downloads: []
-      },
-       // product
-     { name: "Big white wooden boxes",
-       description: "Price: 20 PGK per box",
-       details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
-       thumbnail: "boxes1.jpg",
-       images: ["boxes1.jpg", "boxes2.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Workout mat",
-       description: "Price: 5 PGK",
-       thumbnail: "workoutmat1.jpg",
-       images: ["workoutmat1.jpg"],
-       downloads: []
-      },
+ 
       // product
      { name: "Wool",
        description: "Price: xx PGK",
@@ -465,20 +435,21 @@ products = [
        images: ["wool.jpg"],
        downloads: []
       },
-    // product
-     { name: "Watergun",
-       description: "Price: 15 PGK each",
-       details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
-       thumbnail: "watergun.jpg",
-       images: ["watergun.jpg"],
-       downloads: []
-      },
+
       // product
      { name: "White box",
        description: "Price: Free ",
        details: "Well used but undamaged.",
        thumbnail: "whitebox.jpg",
        images: ["whitebox.jpg", "whitebox.1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Christmas tablecloth",
+       description: "Price: 10 PGK",
+       details: "As on the picture",
+       thumbnail: "tablecloth.jpg",
+       images: ["tablecloth.jpg", "tablecloth1.jpg"],
        downloads: []
       },
       // product
@@ -506,29 +477,15 @@ products = [
        downloads: []
       },
       // product
-     { name: "Fake twigs with snow for decoration",
+     { name: "Fake twigs with snow",
        description: "Price: Free",
        details: "Only the original Swiss snow is cooler!",
        thumbnail: "twigdecsnow.jpg",
        images: ["twigdecsnow.jpg"],
        downloads: []
       },
-      // product
-     { name: "Christmas tablecloth",
-       description: "Price: 10 PGK",
-       details: "As on the picture",
-       thumbnail: "tablecloth.jpg",
-       images: ["tablecloth.jpg", "tablecloth1.jpg"],
-       downloads: []
-      },
-       // product
-     { name: "Tablett and phone stand",
-       description: "Price: 5 PGK",
-       details: "Like on the picture.",
-       thumbnail: "tabletholder.jpg",
-       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
-       downloads: []
-       },
+
+
        // product
      { name: "Finger puppets",
        description: "Price: Free",
@@ -537,14 +494,7 @@ products = [
        images: ["puppet.jpg"],
        downloads: []
       },
-       // product
-     { name: "Playdoe supplies",
-       description: "Price: 20 PGK",
-       details: "Comes with the box.",
-       thumbnail: "playdoe.jpg",
-       images: ["playdoe.jpg"],
-       downloads: []
-      },
+
        // product
      { name: "1 pillow and 2cases",
        description: "Price: xx PGK",
@@ -618,36 +568,11 @@ products = [
        downloads: []
       },
       // product
-
-     { name: "Games",
-       description: "Price: xx PGK",
-       details: "in German",
-       thumbnail: "games.jpg",
-       images: ["games.jpg"],
-       downloads: []
-      },
-      // product
      { name: "Blue coolbag",
        description: "Price: xx PGK",
        details: "",
        thumbnail: "coolbag.jpg",
        images: ["coolbag.jpg", "coolbag1.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Children sewing maschine",
-       description: "Price: xx PGK",
-       details: "",
-       thumbnail: "childrensewingmaschine1.jpg",
-       images: ["childrensewingmaschine1.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Small blue boxes",
-       description: "Price: small K5 each, K10 each PGK",
-       details: "",
-       thumbnail: "boxesblue1.jpg",
-       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
       // product
@@ -658,7 +583,56 @@ products = [
        images: ["bear.jpg"],
        downloads: []
       },
+       
+      // product
+     { name: "Big white wooden boxes",
+       description: "Price: 20 PGK per box",
+       details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
+       thumbnail: "boxes1.jpg",
+       images: ["boxes1.jpg", "boxes2.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Workout mat",
+       description: "Price: 5 PGK",
+       thumbnail: "workoutmat1.jpg",
+       images: ["workoutmat1.jpg"],
+       downloads: []
+      },
+      
        // product
+     { name: "Tablett and phone stand",
+       description: "Price: 5 PGK",
+       details: "Like on the picture.",
+       thumbnail: "tabletholder.jpg",
+       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
+       downloads: []
+       },
+             // product
+     { name: "Playdoe supplies",
+       description: "Price: 20 PGK",
+       details: "Comes with the box.",
+       thumbnail: "playdoe.jpg",
+       images: ["playdoe.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "Games",
+       description: "Price: xx PGK",
+       details: "in German",
+       thumbnail: "games.jpg",
+       images: ["games.jpg"],
+       downloads: []
+      },
+            // product
+     { name: "Small blue boxes",
+       description: "Price: small K5 each, K10 each PGK",
+       details: "",
+       thumbnail: "boxesblue1.jpg",
+       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
+       downloads: []
+      },
+      // product
      { name: "Beads for art crafts",
        description: "Price: Free",
        details: "",
@@ -674,5 +648,37 @@ products = [
        images: ["bowls.jpg`"],
        downloads: []
        },
+       // product
+     { name: "Badminton set",
+       description: "Price: 20 PGK",
+       details: "Several racquets. Like on the picture.",
+       thumbnail: "badminton.jpg",
+       images: ["badminton.jpg"],
+       downloads: []
+     },
+                 // product
+     { name: "Bow & arrows",
+       description: "Make a cheap offer",
+       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
+       thumbnail: "bow.jpg",
+       images: ["bow.jpg"],
+       downloads: []
+     }, 
+            // product
+     { name: "Children sewing maschine",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "childrensewingmaschine1.jpg",
+       images: ["childrensewingmaschine1.jpg"],
+       downloads: []
+      },
+           // product
+     { name: "Moskitto nets",
+       description: "Price: 40 PGK",
+       details: "Several new moskitto nets.",
+       thumbnail: "moskittonets.jpg",
+       images: ["moskittonets.jpg"],
+       downloads: []
+      },
      ]
 ];
