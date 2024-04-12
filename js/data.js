@@ -68,7 +68,7 @@ products = [
       // product
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka.",
+       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available end of May.",
        thumbnail: "cupboard.jpg",
        images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
        downloads: []
@@ -83,7 +83,7 @@ products = [
      }, 
      // product
      { name: "6 x 19inch Computer screens",
-       description: "120 Kina (each)",
+       description: "100 Kina (each)",
        details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VGA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
        thumbnail: "screen.jpg",
        images: ["screen.jpg", "screen1.jpg","screen2.jpg","screen3.jpg","screen4.jpg"],
