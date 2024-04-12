@@ -316,11 +316,7 @@ products = [
          // product
      { name: "playmobile",
        description: "Price: 200 PGK",
-<<<<<<< HEAD
-       details: "One box of playmobile. Includes everal sets.",
-=======
-       details: "One box of playmobile No complete sets some pieces are missing or broken.",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
+       details:"One box of playmobile No complete sets some pieces are missing or broken.",
        thumbnail: "playmobile.jpg",
        images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
        downloads: []
@@ -598,42 +594,31 @@ products = [
        downloads: []
       },
        // product
-<<<<<<< HEAD
      { name: "Hairdresser apron",
        description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
-=======
-     { name: "hairdresser apron",
-       description: "Price: Free",
        details: "",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "haircutapron1.jpg",
        images: ["haircutapron1.jpg"],
        downloads: []
       },
        // product
-<<<<<<< HEAD
+
      { name: "Glitter",
        description: "Price: xx PGK",
-=======
+
      { name: "glitter",
        description: "Price: Free",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "glitter.jpg",
        images: ["glitter.jpg"],
        downloads: []
       },
       // product
-<<<<<<< HEAD
+
      { name: "Games",
        description: "Price: xx PGK",
-       details: "",
-=======
-     { name: "games",
-       description: "Price: Free",
        details: "in German",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "games.jpg",
        images: ["games.jpg"],
        downloads: []
@@ -655,40 +640,26 @@ products = [
        downloads: []
       },
       // product
-<<<<<<< HEAD
+
      { name: "Small blue boxes",
-       description: "Price: xx PGK",
-=======
-     { name: "small blue boxes with lid",
        description: "Price: small K5 each, K10 each PGK",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "boxesblue1.jpg",
        images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
-       // product
-<<<<<<< HEAD
+
      { name: "Teddy bear",
-       description: "Price: xx PGK",
-       details: "",
-=======
-     { name: "teddy bear",
        description: "Price: 10 PGK",
-       details: "Hand Puppet",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
+       details: "",
        thumbnail: "bear.jpg",
        images: ["bear.jpg"],
        downloads: []
       },
        // product
-<<<<<<< HEAD
+
      { name: "Beads for art crafts",
-       description: "Price: xx PGK",
-=======
-     { name: "beads for art crafts",
        description: "Price: Free",
->>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "beads.jpg",
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
