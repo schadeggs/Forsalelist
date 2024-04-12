@@ -42,6 +42,7 @@ products = [
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
        downloads: []
      },
+      // product
        { name: "Dive gear",
        description: "Make a cheap offer",
        details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
@@ -49,6 +50,7 @@ products = [
        images: ["divegear.jpg"],
        downloads: []
      },
+      // product
         { name: "Partylights",
        description: "40 Kina",
        details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
@@ -56,6 +58,7 @@ products = [
        images: ["partylights1.jpg","partylights2.jpg"],
        downloads: []
      },
+      // product
     { name: "Work bench",
        description: "400 AUS$",
        details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
@@ -63,6 +66,7 @@ products = [
        images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
        downloads: []
      }, 
+      // product
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
        details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka.",
@@ -70,6 +74,7 @@ products = [
        images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
        downloads: []
      }, 
+      // product
     { name: "Projector screen",
        description: "600 Kina",
        details: "Pull down movie screen. Great for watching movies with beemer. Size:120cm x 200cm, Brand: Nobo, Colour: light gray",
@@ -101,6 +106,7 @@ products = [
        images: ["fondue.jpg", "fondue1.jpg", "fondue2.jpg", "fondue3.jpg"],
        downloads: []
      }, 
+      // product
      { name: "Raclette Dish",
        description: "60 Kina",
        details: "Comes with 6 pans and 6 wood scrapers. With PNG power plug.",
@@ -108,6 +114,7 @@ products = [
        images: ["raclette.jpg","raclette1.jpg", "raclette2.jpg", "raclette3.jpg",],
        downloads: []
      }, 
+      // product
      { name: "Pressure Cooker",
        description: "100 Kina",
        details: "6l pressure cooker. Stainless steel.",
@@ -115,6 +122,7 @@ products = [
        images: ["pressurecooker.jpg", "pressurecooker1.jpg", "pressurecooker2.jpg", "pressurecooker3.jpg", "pressurecooker4.jpg", "pressurecooker5.jpg"],
        downloads: []
      },
+      // product
      { name: "Passuit",
        description: "For free",
        details: "Passuit to mash potatos, etc",
@@ -122,6 +130,7 @@ products = [
        images: ["passuit.jpg", "passuit1.jpg", "passuit2.jpg"],
        downloads: []
      },
+      // product
      { name: "Wok pan",
        description: "50 Kina",
        details: "Wok from Ikea, nice for suite & sour and curry dishes!",
@@ -129,7 +138,7 @@ products = [
        images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
        downloads: []
      }, 
-     
+     // product
       { name: "Neopren",
        description: "For free",
        details: "Full body neopren, old",
@@ -137,8 +146,7 @@ products = [
        images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
-      
-     // product
+    // product
      { name: "2 Tennis Racquets",
        description: "Price: 80 Kina",
        details: "2 Tennis Racquets",
@@ -371,7 +379,7 @@ products = [
        downloads: []
      }, 
         // product
-     { name: "Welding gas",
+     { name: "Welding gas Argon",
        description: "Price: 80 PGK",
        details: "Suitable for aluminium MIG welding. M10x1mm fitting.",
        thumbnail: "gaswelding1.jpg",
@@ -437,7 +445,6 @@ products = [
        // product
      { name: "Big white wooden boxes",
        description: "Price: 20 PGK per box",
-       details: "Selfmade wooden boxes, painted white. We used them as toy boxes. No lid. ",
        details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
        thumbnail: "boxes1.jpg",
        images: ["boxes1.jpg", "boxes2.jpg"],
@@ -596,7 +603,6 @@ products = [
        // product
      { name: "Hairdresser apron",
        description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
        details: "",
        thumbnail: "haircutapron1.jpg",
        images: ["haircutapron1.jpg"],
@@ -605,9 +611,6 @@ products = [
        // product
 
      { name: "Glitter",
-       description: "Price: xx PGK",
-
-     { name: "glitter",
        description: "Price: Free",
        details: "",
        thumbnail: "glitter.jpg",
@@ -640,7 +643,6 @@ products = [
        downloads: []
       },
       // product
-
      { name: "Small blue boxes",
        description: "Price: small K5 each, K10 each PGK",
        details: "",
@@ -648,7 +650,7 @@ products = [
        images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
-
+      // product
      { name: "Teddy bear",
        description: "Price: 10 PGK",
        details: "",
@@ -657,7 +659,6 @@ products = [
        downloads: []
       },
        // product
-
      { name: "Beads for art crafts",
        description: "Price: Free",
        details: "",
