@@ -345,14 +345,7 @@ products = [
        images: ["badminton.jpg"],
        downloads: []
      },
-      // product
-     { name: "Bow & arrows",
-       description: "Make a cheap offer",
-       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
-       thumbnail: "bow.jpg",
-       images: ["bow.jpg"],
-       downloads: []
-     }, 
+      
        // product
      { name: "Bike helmets",
        description: "Price: 20 PGK each",
@@ -417,6 +410,14 @@ products = [
      //   images: ["lexi1.jpg", "lexi2.jpg"],
      //   downloads: []
      //},
+      // product
+     { name: "Bow & arrows",
+       description: "Make a cheap offer",
+       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
+       thumbnail: "bow.jpg",
+       images: ["bow.jpg"],
+       downloads: []
+     }, 
       // product
      { name: "Moskitto nets",
        description: "Price: 40 PGK",
