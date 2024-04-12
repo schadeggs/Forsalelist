@@ -37,6 +37,7 @@ products = [
      { name: "Nitro bike",
        description: "Price: 120 AUS$",
        details: "Australian  mountain bike 18 gears. One gear cover missing but all gears srre working.",
+       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears still working.",
        thumbnail: "Nitro.jpg",
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
        downloads: []
@@ -310,13 +311,16 @@ products = [
        description: "Price: 45 PGK",
        details: "A good ripstick with some scratches.",
        thumbnail: "ripstick.jpg",
-       images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg", "ripstick_3.jpg"],
        downloads: []
      },
          // product
      { name: "playmobile",
        description: "Price: 200 PGK",
+<<<<<<< HEAD
        details: "One box of playmobile. Includes everal sets.",
+=======
+       details: "One box of playmobile No complete sets some pieces are missing or broken.",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "playmobile.jpg",
        images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
        downloads: []
@@ -438,6 +442,7 @@ products = [
      { name: "Big white wooden boxes",
        description: "Price: 20 PGK per box",
        details: "Selfmade wooden boxes, painted white. We used them as toy boxes. No lid. ",
+       details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
        thumbnail: "boxes1.jpg",
        images: ["boxes1.jpg", "boxes2.jpg"],
        downloads: []
@@ -445,7 +450,6 @@ products = [
       // product
      { name: "Workout mat",
        description: "Price: 5 PGK",
-       details: "Well used but still good",
        thumbnail: "workoutmat1.jpg",
        images: ["workoutmat1.jpg"],
        downloads: []
@@ -575,7 +579,6 @@ products = [
        description: "Price: xx PGK",
        details: "For bilasing your Christmas tree.",
        thumbnail: "ornamentsb.jpg",
-       images: ["ornamentsb.jpg", "ornamentsb1.jpg"],
        downloads: []
       },
        // product
@@ -595,25 +598,42 @@ products = [
        downloads: []
       },
        // product
+<<<<<<< HEAD
      { name: "Hairdresser apron",
        description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
+=======
+     { name: "hairdresser apron",
+       description: "Price: Free",
+       details: "",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "haircutapron1.jpg",
        images: ["haircutapron1.jpg"],
        downloads: []
       },
        // product
+<<<<<<< HEAD
      { name: "Glitter",
        description: "Price: xx PGK",
+=======
+     { name: "glitter",
+       description: "Price: Free",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "glitter.jpg",
        images: ["glitter.jpg"],
        downloads: []
       },
       // product
+<<<<<<< HEAD
      { name: "Games",
        description: "Price: xx PGK",
        details: "",
+=======
+     { name: "games",
+       description: "Price: Free",
+       details: "in German",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "games.jpg",
        images: ["games.jpg"],
        downloads: []
@@ -635,30 +655,53 @@ products = [
        downloads: []
       },
       // product
+<<<<<<< HEAD
      { name: "Small blue boxes",
        description: "Price: xx PGK",
+=======
+     { name: "small blue boxes with lid",
+       description: "Price: small K5 each, K10 each PGK",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "boxesblue1.jpg",
        images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
        // product
+<<<<<<< HEAD
      { name: "Teddy bear",
        description: "Price: xx PGK",
        details: "",
+=======
+     { name: "teddy bear",
+       description: "Price: 10 PGK",
+       details: "Hand Puppet",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        thumbnail: "bear.jpg",
        images: ["bear.jpg"],
        downloads: []
       },
        // product
+<<<<<<< HEAD
      { name: "Beads for art crafts",
        description: "Price: xx PGK",
+=======
+     { name: "beads for art crafts",
+       description: "Price: Free",
+>>>>>>> 52b46f99d9f6c9284eaf419135972732d1148522
        details: "",
        thumbnail: "beads.jpg",
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
        },
-    
+       // product
+     { name: "Bowls",
+       description: "Price: 20 PGK each",
+       details: "IKEA Serving Bowls",
+       thumbnail: "bowls.jpg",
+       images: ["bowls.jpg`"],
+       downloads: []
+       },
   ],
     
      
