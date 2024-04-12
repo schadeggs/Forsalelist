@@ -27,7 +27,7 @@ products = [
      },
       // product
      { name: "Bike Apollo Summit",
-       description: "Price: 150 AUS$",
+       description: "Price: 200 AUS$",
        details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
        thumbnail: "apollo2.jpg",
        images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
@@ -50,14 +50,14 @@ products = [
      },
         { name: "Partylights",
        description: "40 Kina",
-       details: "10 LED bulbs in red, blue, green and yellow. 240V",
+       details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
        thumbnail: "partylights1.jpg",
        images: ["partylights1.jpg","partylights2.jpg"],
        downloads: []
      },
     { name: "Work bench",
-       description: "300 AUS$",
-       details: "Very nice and solid built work bench. Almost new condition. With two drawers and a top cover (about 3mm)",
+       description: "400 AUS$",
+       details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
        thumbnail: "workbench.jpg",
        images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
        downloads: []
@@ -79,7 +79,7 @@ products = [
      // product
      { name: "6 x 19inch Computer screens",
        description: "120 Kina (each)",
-       details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VHA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
+       details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VGA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
        thumbnail: "screen.jpg",
        images: ["screen.jpg", "screen1.jpg","screen2.jpg","screen3.jpg","screen4.jpg"],
        downloads: []
@@ -94,14 +94,14 @@ products = [
      }, 
      // product
      { name: "Swiss Fondue Dish",
-       description: "80 Kina",
+       description: "60 Kina",
        details: "With 6 forks and 3 units of burning paste. Very Swiss ;-)",
        thumbnail: "fondue.jpg",
        images: ["fondue.jpg", "fondue1.jpg", "fondue2.jpg", "fondue3.jpg"],
        downloads: []
      }, 
      { name: "Raclette Dish",
-       description: "50 Kina",
+       description: "60 Kina",
        details: "Comes with 6 pans and 6 wood scrapers. With PNG power plug.",
        thumbnail: "raclette.jpg",
        images: ["raclette.jpg","raclette1.jpg", "raclette2.jpg", "raclette3.jpg",],
@@ -131,7 +131,7 @@ products = [
      
       { name: "Neopren",
        description: "For free",
-       details: "Full body neopren",
+       details: "Full body neopren, old",
        thumbnail: "neopren1.jpg",
        images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
@@ -313,18 +313,10 @@ products = [
        images: ["ripstick.jpg", "ripstick_1.jpg", "ripstick_2.jpg", "ripstick_3.jpg"],
        downloads: []
      },
-      // product
-     { name: "skates",
-       description: "Price: free ",
-       details: "The blue clipper on the left skate is kind of broken but you can still open and close it .",
-       thumbnail: "skates.jpg",
-       images: ["skates.jpg", "skates_1.jpg", "skates_2.jpg", "skates_3.jpg"],
-       downloads: []
-     },
          // product
      { name: "playmobile",
        description: "Price: 200 PGK",
-       details: "One box of playmobile.",
+       details: "One box of playmobile. Includes everal sets.",
        thumbnail: "playmobile.jpg",
        images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
        downloads: []
@@ -339,65 +331,65 @@ products = [
        downloads: []
      },
         // product
-     { name: "badminton",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Badminton set",
+       description: "Price: 20 PGK",
+       details: "Several racquets. Like on the picture.",
        thumbnail: "badminton.jpg",
        images: ["badminton.jpg"],
        downloads: []
      },
       // product
-     { name: "bow",
+     { name: "Bow & arrows",
        description: "Make a cheap offer",
-       details: "2 bows and arrows, serveral arrows would need some maintenance. Will only be given to whiteskins as sports equipment, not to be used for fighting ;-)",
+       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
        thumbnail: "bow.jpg",
        images: ["bow.jpg"],
        downloads: []
      }, 
        // product
-     { name: "bike helmets",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Bike helmets",
+       description: "Price: 20 PGK each",
+       details: "Adults & kids bike helmets",
        thumbnail: "bikehelmets.jpg",
        images: ["bikehelmets.jpg", "bikehelmets2.jpg"],
        downloads: []
      }, 
       // product
-     { name: "blue coolbox",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Blue Eski",
+       description: "Price: 400 PGK",
+       details: "A great Eski for village trips or to bring back fresh fish (or meat) from Madang.",
        thumbnail: "coolboxblue1.jpg",
        images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
        downloads: []
      }, 
       // product
-     { name: "red coolbox",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Red Eski",
+       description: "Price: xx PGK",
+       details: "A small Eski for shopping, etc.",
        thumbnail: "coolboxred.jpg",
        images: ["coolboxred.jpg", "coolboxred2.jpg"],
        downloads: []
      }, 
         // product
-     { name: "welding gas ",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Welding gas",
+       description: "Price: 80 PGK",
+       details: "Suitable for aluminium MIG welding. M10x1mm fitting.",
        thumbnail: "gaswelding1.jpg",
        images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
        downloads: []
      }, 
       // product
-     { name: "welding gas",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Welding gas Argon/CO2",
+       description: "Price: 80 PGK",
+       details: "Suitable for MIG welding (mild steel & stainless steel). M10x1mm fitting.",
        thumbnail: "weldinggas1.jpg",
        images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
        downloads: []
      }, 
       // product
-     { name: "snatch strap",
-       description: "Price: xx PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Snatch strap",
+       description: "Price: 80 PGK",
+       details: "Snatch strap for car recovery. New, never used.",
        thumbnail: "snatchstrap1.jpg",
        images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
        downloads: []
@@ -411,15 +403,15 @@ products = [
      //  downloads: []
      //}, 
       // product
-     { name: "Lexi (dog)",
-       description: "For negotiation",
-       details: "A greate guard dog. Not suitable as family dog or around kids. Female, 7 years old",
-       thumbnail: "lexi1.jpg",
-       images: ["lexi1.jpg", "lexi2.jpg"],
-       downloads: []
-      },
+     //{ name: "Lexi (dog)",
+     //  description: "For negotiation",
+     //   details: "A greate guard dog. Not suitable as family dog or around kids. Female, 7 years old",
+     //  thumbnail: "lexi1.jpg",
+     //   images: ["lexi1.jpg", "lexi2.jpg"],
+     //   downloads: []
+     //},
       // product
-     { name: "moskitto nets",
+     { name: "Moskitto nets",
        description: "Price: 40 PGK",
        details: "Several new moskitto nets.",
        thumbnail: "moskittonets.jpg",
@@ -427,7 +419,7 @@ products = [
        downloads: []
       },
        // product
-     { name: "watershoes",
+     { name: "Watershoes",
        description: "Price: 10 PGK",
        details: "Watershoes for beach.",
        thumbnail: "watershoe1.jpg",
@@ -435,15 +427,15 @@ products = [
        downloads: []
       },
        // product
-     { name: "waterslide",
+     { name: "Waterslide",
        description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+       details: "A several meter long, strong plastik for water sliding on a grasy slope. Provides a lot of fun to the kids.",
        thumbnail: "waterslide.jpg",
        images: ["waterslide.jpg"],
        downloads: []
       },
        // product
-     { name: "big white wooden boxes",
+     { name: "Big white wooden boxes",
        description: "Price: 20 PGK per box",
        details: "Selfmade wooden boxes, painted white. We used them as toy boxes. No lid. ",
        thumbnail: "boxes1.jpg",
@@ -451,7 +443,7 @@ products = [
        downloads: []
       },
       // product
-     { name: "workoutmat",
+     { name: "Workout mat",
        description: "Price: 5 PGK",
        details: "Well used but still good",
        thumbnail: "workoutmat1.jpg",
@@ -459,41 +451,41 @@ products = [
        downloads: []
       },
       // product
-     { name: "wool",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Wool",
+       description: "Price: xx PGK",
+       details: "Several wools like shown on the picture.",
        thumbnail: "wool.jpg",
        images: ["wool.jpg"],
        downloads: []
       },
     // product
-     { name: "watergun",
+     { name: "Watergun",
        description: "Price: 15 PGK each",
-       details: "",
+       details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
        thumbnail: "watergun.jpg",
        images: ["watergun.jpg"],
        downloads: []
       },
       // product
-     { name: "white box",
+     { name: "White box",
        description: "Price: Free ",
-       details: "Well used but undamaged",
+       details: "Well used but undamaged.",
        thumbnail: "whitebox.jpg",
        images: ["whitebox.jpg", "whitebox.1.jpg"],
        downloads: []
       },
       // product
-     { name: "weights",
+     { name: "Weights",
        description: "Price: 30 PGK",
-       details: "3lb each",
+       details: "3lb each. Sold as a set.",
        thumbnail: "weights1.jpg",
        images: ["weights1.jpg", "weights2.jpg"],
        downloads: []
       },
       // product
-     { name: "fake twigs for decoration",
+     { name: "Fake twigs for decoration",
        description: "Price: Free",
-       details: "",
+       details: "Only the original Swiss pine is nicer!",
        thumbnail: "twigdec.jpg",
        images: ["twigdec.jpg"],
        downloads: []
@@ -501,15 +493,15 @@ products = [
       // product
      { name: "Christmas tree",
        description: "Price: Free",
-       details: "",
+       details: "We got used to a fake Christmas tree over the years. You will do too.",
        thumbnail: "tree.jpg",
        images: ["tree.jpg", "tree1.jpg", "tree2.jpg"],
        downloads: []
       },
       // product
-     { name: "fake twigs with snow for decoration",
+     { name: "Fake twigs with snow for decoration",
        description: "Price: Free",
-       details: "",
+       details: "Only the original Swiss snow is cooler!",
        thumbnail: "twigdecsnow.jpg",
        images: ["twigdecsnow.jpg"],
        downloads: []
@@ -517,151 +509,151 @@ products = [
       // product
      { name: "Christmas tablecloth",
        description: "Price: 10 PGK",
-       details: "",
+       details: "As on the picture",
        thumbnail: "tablecloth.jpg",
        images: ["tablecloth.jpg", "tablecloth1.jpg"],
        downloads: []
       },
        // product
-     { name: "tablett and phone stand",
+     { name: "Tablett and phone stand",
        description: "Price: 5 PGK",
-       details: "",
+       details: "Like on the picture.",
        thumbnail: "tabletholder.jpg",
        images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
        downloads: []
        },
        // product
-     { name: "finger puppets",
+     { name: "Finger puppets",
        description: "Price: Free",
-       details: "",
+       details: "Ready for the drama.",
        thumbnail: "puppet.jpg",
        images: ["puppet.jpg"],
        downloads: []
       },
        // product
-     { name: "playdoe supplies",
+     { name: "Playdoe supplies",
        description: "Price: 20 PGK",
-       details: "comes with the box",
+       details: "Comes with the box.",
        thumbnail: "playdoe.jpg",
        images: ["playdoe.jpg"],
        downloads: []
       },
        // product
      { name: "1 pillow and 2cases",
-       description: "Price: 30 PGK",
+       description: "Price: xx PGK",
        details: "Only used for a short time. As good as new.",
        thumbnail: "pillowscases.jpg",
        images: ["pillowscases.jpg"],
        downloads: []
       },
        // product
-     { name: "mix of ornaments",
-       description: "Price: 30 PGK",
-       details: "",
+     { name: "Mix of ornaments",
+       description: "Price: xx PGK",
+       details: "For bilasing your Christmas tree.",
        thumbnail: "ornaments.jpg",
        images: ["ornaments.jpg"],
        downloads: []
       },
        // product
-     { name: "small pack of ornaments",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Small pack of ornaments",
+       description: "Price: xx PGK",
+       details: "For bilasing your Christmas tree.",
        thumbnail: "ornamentss.jpg",
        images: ["ornamentss.jpg"],
        downloads: []
       },
         // product
-     { name: "silver ornaments",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Silver ornaments",
+       description: "Price: xx PGK",
+       details: "For bilasing your Christmas tree.",
        thumbnail: "ornamentsw.jpg",
        images: ["ornamentsw.jpg"],
        downloads: []
       },
        // product
-     { name: "big pack of ornaments",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Big pack of ornaments",
+       description: "Price: xx PGK",
+       details: "For bilasing your Christmas tree.",
        thumbnail: "ornamentsb.jpg",
        images: ["ornamentsb.jpg", "ornamentsb1.jpg"],
        downloads: []
       },
        // product
-     { name: "round lamp",
+     { name: "Round lamp",
        description: "Price: 50 PGK",
-       details: "glass.",
+       details: "Nice, warm light (glass).",
        thumbnail: "light.jpg",
        images: ["light.jpg", "light3.jpg"],
        downloads: []
      }, 
       // product
-     { name: "bright lamp ",
+     { name: "Bright lamp ",
        description: "Price: 10 PGK",
-       details: "Plastic",
+       details: "Plastic light.",
        thumbnail: "lamp.jpg",
        images: ["lamp.jpg", "lamp1.jpg"],
        downloads: []
       },
        // product
-     { name: "hairdresser apron",
-       description: "Price: 30 PGK",
+     { name: "Hairdresser apron",
+       description: "Price: xx PGK",
        details: "A working yellow remote control truck.",
        thumbnail: "haircutapron1.jpg",
        images: ["haircutapron1.jpg"],
        downloads: []
       },
        // product
-     { name: "glitter",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Glitter",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "glitter.jpg",
        images: ["glitter.jpg"],
        downloads: []
       },
       // product
-     { name: "games",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Games",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "games.jpg",
        images: ["games.jpg"],
        downloads: []
       },
       // product
-     { name: "blue coolbag",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Blue coolbag",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "coolbag.jpg",
        images: ["coolbag.jpg", "coolbag1.jpg"],
        downloads: []
       },
       // product
-     { name: "children sewing maschine",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Children sewing maschine",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "childrensewingmaschine1.jpg",
        images: ["childrensewingmaschine1.jpg"],
        downloads: []
       },
       // product
-     { name: "small blue boxes",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Small blue boxes",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "boxesblue1.jpg",
        images: ["boxesblue1.jpg", "boxesblue2.jpg"],
        downloads: []
       },
        // product
-     { name: "teddy bear",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Teddy bear",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "bear.jpg",
        images: ["bear.jpg"],
        downloads: []
       },
        // product
-     { name: "beads for art crafts",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck.",
+     { name: "Beads for art crafts",
+       description: "Price: xx PGK",
+       details: "",
        thumbnail: "beads.jpg",
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
