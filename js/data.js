@@ -314,7 +314,7 @@ products = [
        downloads: []
      },
       // product
-     { name: "ripstick",
+     { name: "Ripstick",
        description: "Price: 45 PGK",
        details: "A good ripstick with some scratches.",
        thumbnail: "ripstick.jpg",
@@ -337,7 +337,7 @@ products = [
        images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
        downloads: []
      },
-           // product
+     // product
      { name: "Watergun",
        description: "Price: 15 PGK each",
        details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
@@ -345,6 +345,7 @@ products = [
        images: ["watergun.jpg"],
        downloads: []
       },
+     
       // product
      { name: "Waterslide",
        description: "Price: 30 PGK",
@@ -409,6 +410,30 @@ products = [
        images: ["watershoe1.jpg", "watershoe2.jpg"],
        downloads: []
       },
+      // product
+     { name: "Wheel barrow",
+       description: "Price: 100 PGK",
+       details: "Wheel barrow.",
+       thumbnail: "wheelbarrow.jpg",
+       images: ["wheelbarrow.jpg", "wheelbarrow1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "3 car wheels",
+       description: "Make an offer",
+       details: "3 car wheels. 2 tires not used a lot. Aluminium rims. With the wheel nuts",
+       thumbnail: "carwheels.jpg",
+       images: ["carwheels.jpg", "carwheels1.jpg", "carwheels2.jpg", "carwheels3.jpg", "carwheels4.jpg", "carwheels5.jpg", "carwheels6.jpg", "carwheels7.jpg", "carwheels8.jpg", "carwheels9.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Bird cage",
+       description: "10 Kina",
+       details: "Bird cage with chicken wire on all 4 sides.",
+       thumbnail: "birdcage.jpg",
+       images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
+       downloads: []
+      },
 
      // product
      //{ name: "kite",
@@ -452,6 +477,7 @@ products = [
        images: ["tablecloth.jpg", "tablecloth1.jpg"],
        downloads: []
       },
+      
       // product
      { name: "Weights",
        description: "Price: 30 PGK",
@@ -595,11 +621,19 @@ products = [
       // product
      { name: "Workout mat",
        description: "Price: 5 PGK",
+       details: "Greatly used, but still does its job.",
        thumbnail: "workoutmat1.jpg",
        images: ["workoutmat1.jpg"],
        downloads: []
       },
-      
+      // product
+     { name: "Water filter",
+       description: "Price: 80 PGK",
+       details: "Katadyn water filter buckets without filter elements.",
+       thumbnail: "waterfilter.jpg",
+       images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
+       downloads: []
+      },
        // product
      { name: "Tablett and phone stand",
        description: "Price: 5 PGK",
@@ -680,5 +714,6 @@ products = [
        images: ["moskittonets.jpg"],
        downloads: []
       },
+      
      ]
 ];
