@@ -686,7 +686,7 @@ products = [
        downloads: []
       },
       // product
-     { name: "Playmobile hospital",
+     { name: "Playmobil hospital",
        description: "Price: 150 PGK",
        details: "",
        thumbnail: "hospital1.jpg",
@@ -694,7 +694,7 @@ products = [
        downloads: []
       },
             // product
-     { name: "Ambulance car",
+     { name: "Playmobil ambulance car",
        description: "Price: 130 PGK",
        details: "",
        thumbnail: "ambulance1.jpg",
@@ -702,11 +702,75 @@ products = [
        downloads: []
       },
      // product
-     { name: "Ambulance car",
-       description: "Price: 130 PGK",
+     { name: "Playmobil farm house",
+       description: "Price: 100 PGK",
        details: "",
-       thumbnail: "ambulance1.jpg",
-       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
+       thumbnail: "farmhouse1.jpg",
+       images: ["farmhouse1.jpg", "farmhouse2.jpg", "farmhouse3.jpg",],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil pony",
+       description: "Price: 10 PGK",
+       details: "",
+       thumbnail: "girlpony.jpg",
+       images: ["girlpony.jpg"],
+       downloads: []
+      },
+           // product
+     { name: "Playmobil Scooter",
+       description: "Price: 15 PGK",
+       details: "",
+       thumbnail: "girlscooter1.jpg",
+       images: ["girlscooter1.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil Scooter",
+       description: "Price: 15 PGK",
+       details: "",
+       thumbnail: "girlscooter1.jpg",
+       images: ["girlscooter1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Playmobil hospital room",
+       description: "Price: 45 PGK",
+       details: "",
+       thumbnail: "hospitalroom1.jpg",
+       images: ["hospitalroom1.jpg", "hospitalroom2.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil mother with children",
+       description: "Price: 15 PGK",
+       details: "",
+       thumbnail: "motherchildren1.jpg",
+       images: ["motherchildren1.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil mother with dog",
+       description: "Price: 15 PGK",
+       details: "",
+       thumbnail: "motherdog1.jpg",
+       images: ["motherdog1.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil princess",
+       description: "Price: 15 PGK",
+       details: "",
+       thumbnail: "princess.jpg",
+       images: ["princess.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "Playmobil royal carriage",
+       description: "Price: 60 PGK",
+       details: "",
+       thumbnail: "royalcarriage1.jpg",
+       images: ["royalcarriage1.jpg", "royalcarriage2.jpg"],
        downloads: []
       },
        // product
