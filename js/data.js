@@ -18,13 +18,13 @@ products = [
        downloads: []
      },
       // product
-     { name: "Bike Rockrider (almost new)",
-       description: "Price: 450 AUS$",
-       details: "ST100, 21 gears, front suspension, almost new",
-       thumbnail: "rockrider1.jpg",
-       images: ["rockrider1.jpg", "rockrider2.jpg", "rockrider3.jpg", "rockrider4.jpg", "rockrider5.jpg", "rockrider7.jpg", "rockrider8.jpg", "rockrider9.jpg" ],
-       downloads: []
-     },
+     //{ name: "Bike Rockrider (almost new)",
+     //  description: "Price: 450 AUS$",
+     //  details: "ST100, 21 gears, front suspension, almost new",
+     //  thumbnail: "rockrider1.jpg",
+     //  images: ["rockrider1.jpg", "rockrider2.jpg", "rockrider3.jpg", "rockrider4.jpg", "rockrider5.jpg", "rockrider7.jpg", "rockrider8.jpg", "rockrider9.jpg" ],
+     //  downloads: []
+     //},
       // product
      { name: "Bike Apollo Summit",
        description: "Price: 200 AUS$",
@@ -39,6 +39,14 @@ products = [
        details: "Australian  mountain bike 18 gears. One gear cover missing but all gears are working fine.",
        thumbnail: "Nitro.jpg",
        images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
+       downloads: []
+     },
+      // product
+     { name: "Scott bike",
+       description: "Price: 50 Kina",
+       details: "Heavely used kids bike.",
+       thumbnail: "BenajaBike.jpg",
+       images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
        downloads: []
      },
       // product
@@ -627,6 +635,24 @@ products = [
        downloads: []
       },
       // product
+     { name: "Shelf brown",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "ShelfBoys1.jpg",
+       images: ["ShelfBoys1.jpg", "ShelfBoys2.jpg", "ShelfBoys3.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Shelf brown 2",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Shelf2Boys.jpg",
+       images: ["Shelf2Boys.jpg"],
+       downloads: []
+      },
+      
+      
+      // product
      { name: "Water filter",
        description: "Price: 80 PGK",
        details: "Katadyn water filter buckets without filter elements.",
@@ -634,6 +660,15 @@ products = [
        images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
        downloads: []
       },
+     // product
+     { name: "Shelf",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Shelf3Boys.jpg",
+       images: ["Shelf3Boys.jpg"],
+       downloads: []
+      },
+
        // product
      { name: "Tablett and phone stand",
        description: "Price: 5 PGK",
@@ -648,6 +683,30 @@ products = [
        details: "Comes with the box.",
        thumbnail: "playdoe.jpg",
        images: ["playdoe.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Playmobile hospital",
+       description: "Price: 150 PGK",
+       details: "",
+       thumbnail: "hospital1.jpg",
+       images: ["hospital1.jpg","hospital2.jpg","hospital3.jpg","hospital4.jpg","hospital5.jpg"],
+       downloads: []
+      },
+            // product
+     { name: "Ambulance car",
+       description: "Price: 130 PGK",
+       details: "",
+       thumbnail: "ambulance1.jpg",
+       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
+       downloads: []
+      },
+     // product
+     { name: "Ambulance car",
+       description: "Price: 130 PGK",
+       details: "",
+       thumbnail: "ambulance1.jpg",
+       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
        downloads: []
       },
        // product
@@ -714,6 +773,13 @@ products = [
        images: ["moskittonets.jpg"],
        downloads: []
       },
-      
+           // product
+     { name: "Shelf",
+       description: "Price: xx PGK",
+       details: "Meassurments: 195x89x34cm",
+       thumbnail: "ShelfJael.jpg",
+       images: ["ShelfJael.jpg"],
+       downloads: []
+      },
      ]
 ];
