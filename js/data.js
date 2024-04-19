@@ -93,7 +93,7 @@ products = [
       
       
      // product
-     { name: "6 x 19inch Computer screens",
+     { name: "6 x 19inch screens",
        description: "100 Kina (each)",
        details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VGA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
        thumbnail: "screen.jpg",
@@ -369,13 +369,13 @@ products = [
       },
      
       // product
-     { name: "Waterslide",
-       description: "Price: 30 PGK",
-       details: "A several meter long, strong plastik for water sliding on a grasy slope. Provides a lot of fun to the kids.",
-       thumbnail: "waterslide.jpg",
-       images: ["waterslide.jpg"],
-       downloads: []
-      },
+     //{ name: "Waterslide",
+     //  description: "Price: 30 PGK",
+     //  details: "A several meter long, strong plastik for water sliding on a grasy slope. Provides a lot of fun to the kids.",
+    //  thumbnail: "waterslide.jpg",
+    //   images: ["waterslide.jpg"],
+    //   downloads: []
+    //  },
        // product
      { name: "Bike helmets",
        description: "Price: 20 PGK each",
