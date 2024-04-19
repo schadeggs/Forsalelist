@@ -648,6 +648,14 @@ products = [
        images: ["workoutmat1.jpg"],
        downloads: []
       },
+     // product
+     { name: "White Shelf",
+       description: "Price: 120 PGK",
+       details: "Meassurments: 195x89x34cm",
+       thumbnail: "ShelfJael.jpg",
+       images: ["ShelfJael.jpg","ShelfJael2.jpg"],
+       downloads: []
+      },
       // product
      { name: "Shelf brown",
        description: "Price: 100 PGK",
@@ -727,7 +735,7 @@ products = [
      { name: "Playmobil royal carriage",
        description: "Price: 60 PGK",
        details: "price is negotiable",
-       thumbnail: "royalcarriage1.jpg",
+       thumbnail: "royalcarriage2.jpg",
        images: ["royalcarriage1.jpg", "royalcarriage2.jpg"],
        downloads: []
       },
@@ -757,23 +765,7 @@ products = [
        downloads: []
       },
 
-           // product
-     { name: "Playmobil Scooter",
-       description: "Price: 15 PGK",
-       details: "price is negotiable",
-       thumbnail: "girlscooter1.jpg",
-       images: ["girlscooter1.jpg"],
-       downloads: []
-      },
-
-     // product
-     { name: "Playmobil mother with children",
-       description: "Price: 15 PGK",
-       details: "price is negotiable",
-       thumbnail: "motherchildren1.jpg",
-       images: ["motherchildren1.jpg"],
-       downloads: []
-      },
+ 
      // product
      { name: "Playmobil mother with dog",
        description: "Price: 15 PGK",
@@ -808,6 +800,15 @@ products = [
        downloads: []
       },
 
+
+     // product
+     { name: "Playmobil mother with children",
+       description: "Price: 15 PGK",
+       details: "price is negotiable",
+       thumbnail: "motherchildren1.jpg",
+       images: ["motherchildren1.jpg"],
+       downloads: []
+      },
       // product
     //{ name: "Games",
     //   description: "Price: xx PGK",
@@ -816,22 +817,7 @@ products = [
     //   images: ["games.jpg"],
     //   downloads: []
     //  },
-            // product
-     { name: "Small blue boxes",
-       description: "Price: small K5 each, K10 each PGK",
-       details: "",
-       thumbnail: "boxesblue1.jpg",
-       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Beads for art crafts",
-       description: "Price: Free",
-       details: "",
-       thumbnail: "beads.jpg",
-       images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
-       downloads: []
-       },
+     
        // product
      //{ name: "Bowls",
      //  description: "Price: 20 PGK each",
@@ -840,22 +826,7 @@ products = [
      //  images: ["bowls.jpg`"],
      //  downloads: []
      //   },
-       // product
-     { name: "Badminton set",
-       description: "Price: 20 PGK",
-       details: "Several racquets. Like on the picture.",
-       thumbnail: "badminton.jpg",
-       images: ["badminton.jpg"],
-       downloads: []
-     },
-                 // product
-     { name: "Bow & arrows",
-       description: "Make a cheap offer",
-       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
-       thumbnail: "bow.jpg",
-       images: ["bow.jpg"],
-       downloads: []
-     }, 
+
             // product
      { name: "Children sewing maschine",
        description: "Price: 90 PGK",
@@ -872,14 +843,7 @@ products = [
        images: ["moskittonets.jpg"],
        downloads: []
       },
-           // product
-     { name: "White Shelf",
-       description: "Price: 120 PGK",
-       details: "Meassurments: 195x89x34cm",
-       thumbnail: "ShelfJael.jpg",
-       images: ["ShelfJael.jpg"],
-       downloads: []
-      },
+
       
      // product
      { name: "Big bowl",
@@ -1087,6 +1051,46 @@ products = [
        images: ["Wall Picture1.jpg", "Wall Picture2.jpg"],
        downloads: []
       }, 
+             // product
+     { name: "Small blue boxes",
+       description: "Price: small K5 each, K10 each PGK",
+       details: "",
+       thumbnail: "boxesblue1.jpg",
+       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Beads for art crafts",
+       description: "Price: Free",
+       details: "",
+       thumbnail: "beads.jpg",
+       images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
+       downloads: []
+       },
       
+             // product
+     { name: "Badminton set",
+       description: "Price: 20 PGK",
+       details: "Several racquets. Like on the picture.",
+       thumbnail: "badminton.jpg",
+       images: ["badminton.jpg"],
+       downloads: []
+     },
+                 // product
+     { name: "Bow & arrows",
+       description: "Make a cheap offer",
+       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
+       thumbnail: "bow.jpg",
+       images: ["bow.jpg"],
+       downloads: []
+     }, 
+                // product
+     { name: "Playmobil Scooter",
+       description: "Price: 15 PGK",
+       details: "price is negotiable",
+       thumbnail: "girlscooter1.jpg",
+       images: ["girlscooter1.jpg"],
+       downloads: []
+      },
      ]
 ];
