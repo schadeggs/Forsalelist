@@ -29,7 +29,7 @@ products = [
      { name: "Bike Apollo Summit",
        description: "Price: 200 AUS$",
        details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
-       thumbnail: "apollo2.jpg",
+      thumbnail: "apollo2.jpg",
        images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
        downloads: []
      },
@@ -44,36 +44,21 @@ products = [
       // product
      { name: "Scott bike",
        description: "Price: 50 Kina",
-       details: "Heavely used kids bike.",
+       details: "Well used kids bike.",
        thumbnail: "BenajaBike.jpg",
        images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
        downloads: []
      },
-
+      
       // product
     { name: "Work bench",
        description: "400 AUS$",
        details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
        thumbnail: "workbench.jpg",
-       images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg",],
+       images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg"],
        downloads: []
      }, 
-      // product
-     { name: "2 x EBC Cupboards",
-       description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available by middle of May.",
-       thumbnail: "cupboard.jpg",
-       images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
-       downloads: []
-     }, 
-            // product
-       { name: "Dive gear",
-       description: "Make a cheap offer",
-       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
-       thumbnail: "divegear.jpg",
-       images: ["divegear.jpg"],
-       downloads: []
-     },
+     
       // product
     { name: "Projector screen",
        description: "600 Kina",
@@ -82,16 +67,6 @@ products = [
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
        downloads: []
      }, 
-     // product
-    { name: "Lase Printer",
-       description: "100 Kina",
-       details: "Brother DCP-7040 laser printer with new toner and new drum. Available end of May.",
-       thumbnail: "printer.jpg",
-       images: ["printer.jpg", "printer2.jpg","printer3.jpg","printer4.jpg","printer5.jpg"],
-       downloads: []
-     }, 
-      
-      
      // product
      { name: "6 x 19inch screens",
        description: "100 Kina (each)",
@@ -149,14 +124,7 @@ products = [
        images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
        downloads: []
      }, 
-     // product
-      { name: "Neopren",
-       description: "For free",
-       details: "Full body neopren, old",
-       thumbnail: "neopren1.jpg",
-       images: ["neopren1.jpg","neopren2.jpg"],
-       downloads: []
-     },
+
       
       // product
         { name: "Partylights",
@@ -164,6 +132,96 @@ products = [
        details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
        thumbnail: "partylights1.jpg",
        images: ["partylights1.jpg","partylights2.jpg"],
+       downloads: []
+     },
+// product
+     { name: "Blue Eski",
+       description: "Price: 400 PGK",
+       details: "A great Eski for village trips or to bring back fresh fish (or meat) from Madang.",
+       thumbnail: "coolboxblue1.jpg",
+       images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "Red Eski",
+       description: "Price: xx PGK",
+       details: "A small Eski for shopping, etc.",
+       thumbnail: "coolboxred.jpg",
+       images: ["coolboxred.jpg", "coolboxred2.jpg"],
+       downloads: []
+     }, 
+        // product
+     { name: "Welding gas Argon",
+       description: "Price: 80 PGK",
+       details: "Suitable for aluminium MIG welding. M10x1mm fitting.",
+       thumbnail: "gaswelding1.jpg",
+       images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "Welding gas Argon/CO2",
+       description: "Price: 80 PGK",
+       details: "Suitable for MIG welding (mild steel & stainless steel). M10x1mm fitting.",
+       thumbnail: "weldinggas1.jpg",
+       images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
+       downloads: []
+     }, 
+      // product
+     { name: "Snatch strap",
+       description: "Price: 80 PGK",
+       details: "Snatch strap for car recovery. New, never used.",
+       thumbnail: "snatchstrap1.jpg",
+       images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
+       downloads: []
+     }, 
+             // product
+     { name: "Watershoes",
+       description: "Price: 10 PGK",
+       details: "Watershoes for beach.",
+       thumbnail: "watershoe1.jpg",
+       images: ["watershoe1.jpg", "watershoe2.jpg"],
+       downloads: []
+      },
+      
+      // product
+     { name: "Wheel barrow",
+       description: "Price: 100 PGK",
+       details: "Wheel barrow.",
+       thumbnail: "wheelbarrow.jpg",
+       images: ["wheelbarrow.jpg", "wheelbarrow1.jpg"],
+       downloads: []
+      },
+
+      // product
+     { name: "3 car wheels",
+       description: "Make an offer",
+       details: "3 car wheels. 2 tires not used a lot. Aluminium rims. With the wheel nuts",
+       thumbnail: "carwheels.jpg",
+       images: ["carwheels.jpg", "carwheels1.jpg", "carwheels2.jpg", "carwheels3.jpg", "carwheels4.jpg", "carwheels5.jpg", "carwheels6.jpg", "carwheels7.jpg", "carwheels8.jpg", "carwheels9.jpg"],
+       downloads: []
+      },
+       // product
+     { name: "2 x EBC Cupboards",
+       description: "500 Kina (each)",
+       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available by middle of May.",
+       thumbnail: "cupboard.jpg",
+       images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
+       downloads: []
+     }, 
+       // product
+       { name: "Dive gear",
+       description: "Make a cheap offer",
+       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
+       thumbnail: "divegear.jpg",
+       images: ["divegear.jpg"],
+       downloads: []
+     },
+           // product
+      { name: "Neopren",
+       description: "For free",
+       details: "Full body neopren, old",
+       thumbnail: "neopren1.jpg",
+       images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
     // product
@@ -319,7 +377,7 @@ products = [
        downloads: []
      },
       // product
-     { name: "55 Small toy vehicles",
+     { name: "Toy vehicles",
        description: "Price: 35 PGK",
        details: "Small toy cars,planes, helicopters, trucks and other vehicles.",
        thumbnail: "toycars.jpg",
@@ -359,6 +417,22 @@ products = [
        images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
        downloads: []
      },
+             // product
+     { name: "LG Beemer",
+       description: "Price: 350 PGK",
+       details: "LG projector PW800, with built in tuner. Great for state of origin and other movie nights.",
+       thumbnail: "beemer.jpg",
+       images: ["beemer2.jpg", "beemer3.jpg", "beemer4.jpg", "beemer5.jpg", "beemer6.jpg"],
+       downloads: []
+     },
+     // product
+     { name: "Lego police car",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Lego Police Car.jpg",
+       images: ["Lego Police Car.jpg"],
+       downloads: []
+      },
      // product
      { name: "Watergun",
        description: "Price: 15 PGK each",
@@ -367,7 +441,48 @@ products = [
        images: ["watergun.jpg"],
        downloads: []
       },
-     
+           // product
+     { name: "Wool",
+       description: "Price: xx PGK",
+       details: "Several wools like shown on the picture.",
+       thumbnail: "wool.jpg",
+       images: ["wool.jpg"],
+       downloads: []
+      },
+
+      // product
+     { name: "Christmas tablecloth",
+       description: "Price: 10 PGK",
+       details: "As on the picture",
+       thumbnail: "tablecloth.jpg",
+       images: ["tablecloth.jpg", "tablecloth1.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Shelf",
+       description: "Price: 10 PGK",
+       details: "",
+       thumbnail: "Shelf3Boys.jpg",
+       images: ["Shelf3Boys.jpg"],
+       downloads: []
+      },
+
+       // product
+     { name: "Tablett and phone stand",
+       description: "Price: 5 PGK",
+       details: "Like on the picture.",
+       thumbnail: "tabletholder.jpg",
+       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
+       downloads: []
+       },
+             // product
+     { name: "Playdoe supplies",
+       description: "Price: 20 PGK",
+       details: "Comes with the box.",
+       thumbnail: "playdoe.jpg",
+       images: ["playdoe.jpg"],
+       downloads: []
+      },
       // product
      //{ name: "Waterslide",
      //  description: "Price: 30 PGK",
@@ -376,86 +491,9 @@ products = [
     //   images: ["waterslide.jpg"],
     //   downloads: []
     //  },
-       // product
-     { name: "Bike helmets",
-       description: "Price: 20 PGK each",
-       details: "Adults & kids bike helmets",
-       thumbnail: "bikehelmets.jpg",
-       images: ["bikehelmets.jpg", "bikehelmets2.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "Blue Eski",
-       description: "Price: 400 PGK",
-       details: "A great Eski for village trips or to bring back fresh fish (or meat) from Madang.",
-       thumbnail: "coolboxblue1.jpg",
-       images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "Red Eski",
-       description: "Price: xx PGK",
-       details: "A small Eski for shopping, etc.",
-       thumbnail: "coolboxred.jpg",
-       images: ["coolboxred.jpg", "coolboxred2.jpg"],
-       downloads: []
-     }, 
-        // product
-     { name: "Welding gas Argon",
-       description: "Price: 80 PGK",
-       details: "Suitable for aluminium MIG welding. M10x1mm fitting.",
-       thumbnail: "gaswelding1.jpg",
-       images: ["gaswelding1.jpg", "gaswelding2.jpg", "gaswelding3.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "Welding gas Argon/CO2",
-       description: "Price: 80 PGK",
-       details: "Suitable for MIG welding (mild steel & stainless steel). M10x1mm fitting.",
-       thumbnail: "weldinggas1.jpg",
-       images: ["weldinggas1.jpg", "weldinggas2.jpg", "weldinggas3.jpg"],
-       downloads: []
-     }, 
-      // product
-     { name: "Snatch strap",
-       description: "Price: 80 PGK",
-       details: "Snatch strap for car recovery. New, never used.",
-       thumbnail: "snatchstrap1.jpg",
-       images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
-       downloads: []
-     }, 
-             // product
-     { name: "Watershoes",
-       description: "Price: 10 PGK",
-       details: "Watershoes for beach.",
-       thumbnail: "watershoe1.jpg",
-       images: ["watershoe1.jpg", "watershoe2.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Wheel barrow",
-       description: "Price: 100 PGK",
-       details: "Wheel barrow.",
-       thumbnail: "wheelbarrow.jpg",
-       images: ["wheelbarrow.jpg", "wheelbarrow1.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "3 car wheels",
-       description: "Make an offer",
-       details: "3 car wheels. 2 tires not used a lot. Aluminium rims. With the wheel nuts",
-       thumbnail: "carwheels.jpg",
-       images: ["carwheels.jpg", "carwheels1.jpg", "carwheels2.jpg", "carwheels3.jpg", "carwheels4.jpg", "carwheels5.jpg", "carwheels6.jpg", "carwheels7.jpg", "carwheels8.jpg", "carwheels9.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Bird cage",
-       description: "10 Kina",
-       details: "Bird cage with chicken wire on all 4 sides.",
-       thumbnail: "birdcage.jpg",
-       images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
-       downloads: []
-      },
+
+      
+
 
      // product
      //{ name: "kite",
@@ -474,40 +512,7 @@ products = [
      //   downloads: []
      //},
  
-      // product
-     { name: "Wool",
-       description: "Price: xx PGK",
-       details: "Several wools like shown on the picture.",
-       thumbnail: "wool.jpg",
-       images: ["wool.jpg"],
-       downloads: []
-      },
-
-      // product
-     //{ name: "White box",
-     //  description: "Price: Free ",
-     //  details: "Well used but undamaged.",
-     //  thumbnail: "whitebox.jpg",
-     //  images: ["whitebox.jpg", "whitebox.1.jpg"],
-     //  downloads: []
-     // },
-      // product
-     { name: "Christmas tablecloth",
-       description: "Price: 10 PGK",
-       details: "As on the picture",
-       thumbnail: "tablecloth.jpg",
-       images: ["tablecloth.jpg", "tablecloth1.jpg"],
-       downloads: []
-      },
-      
-      // product
-     { name: "Weights",
-       description: "Price: 30 PGK",
-       details: "3lb each. Sold as a set.",
-       thumbnail: "weights1.jpg",
-       images: ["weights1.jpg", "weights2.jpg"],
-       downloads: []
-      },
+     
       // product
      //{ name: "Fake twigs for decoration",
     //   description: "Price: Free",
@@ -649,6 +654,22 @@ products = [
        downloads: []
       },
      // product
+     { name: "Office chair",
+       description: "Price: 100 PGK",
+       details: "Conftable office chair for home office ;-). Available end of May.",
+       thumbnail: "officechair.jpg",
+       images: ["officechair2.jpg", "officechair3.jpg"],
+       downloads: []
+      },
+      // product
+     { name: "Wood chair",
+       description: "Price: 50 PGK",
+       details: "",
+       thumbnail: "woodchair.jpg",
+       images: ["woodchair.jpg","woodchair2.jpg"],
+       downloads: []
+      },
+     // product
      { name: "White Shelf",
        description: "Price: 120 PGK",
        details: "Meassurments: 195x89x34cm",
@@ -682,31 +703,24 @@ products = [
        images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
        downloads: []
       },
-     // product
-     { name: "Shelf",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "Shelf3Boys.jpg",
-       images: ["Shelf3Boys.jpg"],
-       downloads: []
-      },
-
        // product
-     { name: "Tablett and phone stand",
-       description: "Price: 5 PGK",
-       details: "Like on the picture.",
-       thumbnail: "tabletholder.jpg",
-       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
-       downloads: []
-       },
-             // product
-     { name: "Playdoe supplies",
-       description: "Price: 20 PGK",
-       details: "Comes with the box.",
-       thumbnail: "playdoe.jpg",
-       images: ["playdoe.jpg"],
+     { name: "Weights",
+       description: "Price: 30 PGK",
+       details: "3lb each. Sold as a set.",
+       thumbnail: "weights1.jpg",
+       images: ["weights1.jpg", "weights2.jpg"],
        downloads: []
       },
+     // product
+     { name: "Deco flower",
+       description: "Price: free",
+       details: "Plastic flower",
+       thumbnail: "Decoflower.jpg",
+       images: ["Decoflower.jpg"],
+       downloads: []
+      },
+      
+     
       // product
      { name: "Playmobil hospital",
        description: "Price: 150 PGK",
@@ -918,13 +932,13 @@ products = [
       },
       
            // product
-     { name: "Box of Duplo",
-       description: "Price: xx PGK",
-       details: "",
-       thumbnail: "Duplo.jpg",
-       images: ["Duplo.jpg"],
-       downloads: []
-      },
+     //{ name: "Box of Duplo",
+     //  description: "Price: xx PGK",
+     //  details: "",
+     //  thumbnail: "Duplo.jpg",
+     //  images: ["Duplo.jpg"],
+     //  downloads: []
+     // },
       
            // product
      { name: "Guitar with hard case",
@@ -953,14 +967,7 @@ products = [
        downloads: []
       },
       
-     // product
-     { name: "Lego police car",
-       description: "Price: xx PGK",
-       details: "",
-       thumbnail: "Lego Police Car.jpg",
-       images: ["Lego Police Car.jpg"],
-       downloads: []
-      },
+
       
      // product
      { name: "Bosch mixer",
@@ -1068,14 +1075,7 @@ products = [
        downloads: []
        },
       
-             // product
-     { name: "Badminton set",
-       description: "Price: 20 PGK",
-       details: "Several racquets. Like on the picture.",
-       thumbnail: "badminton.jpg",
-       images: ["badminton.jpg"],
-       downloads: []
-     },
+
                  // product
      { name: "Bow & arrows",
        description: "Make a cheap offer",
@@ -1084,7 +1084,7 @@ products = [
        images: ["bow.jpg"],
        downloads: []
      }, 
-                // product
+                      // product
      { name: "Playmobil Scooter",
        description: "Price: 15 PGK",
        details: "price is negotiable",
@@ -1092,5 +1092,23 @@ products = [
        images: ["girlscooter1.jpg"],
        downloads: []
       },
+                        // product
+     { name: "Bird cage",
+       description: "10 Kina",
+       details: "Bird cage with chicken wire on all 4 sides.",
+       thumbnail: "birdcage.jpg",
+       images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
+       downloads: []
+      },
+                   // product
+     { name: "Badminton set",
+       description: "Price: 20 PGK",
+       details: "Several racquets. Like on the picture.",
+       thumbnail: "badminton.jpg",
+       images: ["badminton.jpg"],
+       downloads: []
+     },
+
+
      ]
 ];
