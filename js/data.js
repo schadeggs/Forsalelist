@@ -34,13 +34,13 @@ products = [
        downloads: []
      },
        // product
-     { name: "Nitro bike",
-       description: "Price: 120 AUS$",
-       details: "Australian  mountain bike 18 gears. One gear cover missing but all gears are working fine.",
-       thumbnail: "Nitro.jpg",
-       images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
-       downloads: []
-     },
+     //{ name: "Nitro bike",
+    //   description: "Price: 120 AUS$",
+    //   details: "Australian  mountain bike 18 gears. One gear cover missing but all gears are working fine.",
+    //   thumbnail: "Nitro.jpg",
+    //   images: ["Nitro.jpg", "Nitro_1.jpg", "Nitro_2.jpg", "Nitro_3.jpg", "Nitro_4.jpg"],
+    //   downloads: []
+     //},
       // product
      { name: "Scott bike",
        description: "Price: 50 Kina",
@@ -49,22 +49,7 @@ products = [
        images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
        downloads: []
      },
-      // product
-       { name: "Dive gear",
-       description: "Make a cheap offer",
-       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
-       thumbnail: "divegear.jpg",
-       images: ["divegear.jpg"],
-       downloads: []
-     },
-      // product
-        { name: "Partylights",
-       description: "40 Kina",
-       details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
-       thumbnail: "partylights1.jpg",
-       images: ["partylights1.jpg","partylights2.jpg"],
-       downloads: []
-     },
+
       // product
     { name: "Work bench",
        description: "400 AUS$",
@@ -76,11 +61,19 @@ products = [
       // product
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available end of May.",
+       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available by middle of May.",
        thumbnail: "cupboard.jpg",
        images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
        downloads: []
      }, 
+            // product
+       { name: "Dive gear",
+       description: "Make a cheap offer",
+       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
+       thumbnail: "divegear.jpg",
+       images: ["divegear.jpg"],
+       downloads: []
+     },
       // product
     { name: "Projector screen",
        description: "600 Kina",
@@ -89,6 +82,16 @@ products = [
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
        downloads: []
      }, 
+     // product
+    { name: "Lase Printer",
+       description: "100 Kina",
+       details: "Brother DCP-7040 laser printer with new toner and new drum. Available end of May.",
+       thumbnail: "printer.jpg",
+       images: ["printer.jpg", "printer2.jpg","printer3.jpg","printer4.jpg","printer5.jpg"],
+       downloads: []
+     }, 
+      
+      
      // product
      { name: "6 x 19inch Computer screens",
        description: "100 Kina (each)",
@@ -114,13 +117,14 @@ products = [
        downloads: []
      }, 
       // product
-     { name: "Raclette Dish",
-       description: "60 Kina",
-       details: "Comes with 6 pans and 6 wood scrapers. With PNG power plug.",
-       thumbnail: "raclette.jpg",
-       images: ["raclette.jpg","raclette1.jpg", "raclette2.jpg", "raclette3.jpg",],
-       downloads: []
-     }, 
+     //{ name: "Raclette Dish",
+     //  description: "60 Kina",
+     //  details: "Comes with 6 pans and 6 wood scrapers. With PNG power plug.",
+     //  thumbnail: "raclette.jpg",
+     //  images: ["raclette.jpg","raclette1.jpg", "raclette2.jpg", "raclette3.jpg",],
+     //  downloads: []
+     //  Taken by Julian & Joy
+     //}, 
       // product
      { name: "Pressure Cooker",
        description: "100 Kina",
@@ -153,14 +157,23 @@ products = [
        images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
-    // product
-     { name: "2 Tennis Racquets",
-       description: "Price: 80 Kina",
-       details: "2 Tennis Racquets",
-       thumbnail: "tennisrackets1.jpg",
-       images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
+      
+      // product
+        { name: "Partylights",
+       description: "40 Kina",
+       details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
+       thumbnail: "partylights1.jpg",
+       images: ["partylights1.jpg","partylights2.jpg"],
        downloads: []
      },
+    // product
+    // { name: "2 Tennis Racquets",
+    //   description: "Price: 80 Kina",
+    //   details: "2 Tennis Racquets",
+    //   thumbnail: "tennisrackets1.jpg",
+    //   images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
+    //   downloads: []
+    // },
       // product
      { name: "Lego Set 60135",
        description: "Price: 20 PGK",
@@ -323,9 +336,10 @@ products = [
      },
       // product
      { name: "Ripstick",
-       description: "Price: 45 PGK",
-       details: "A good ripstick with some scratches.",
+       description: "Price: 50 PGK",
+       details: "A good ripstick with some scratches. Available end of May.",
        thumbnail: "ripstick.jpg",
+       images: ["ripstick.jpg"],
        downloads: []
      },
          // product
@@ -470,13 +484,13 @@ products = [
       },
 
       // product
-     { name: "White box",
-       description: "Price: Free ",
-       details: "Well used but undamaged.",
-       thumbnail: "whitebox.jpg",
-       images: ["whitebox.jpg", "whitebox.1.jpg"],
-       downloads: []
-      },
+     //{ name: "White box",
+     //  description: "Price: Free ",
+     //  details: "Well used but undamaged.",
+     //  thumbnail: "whitebox.jpg",
+     //  images: ["whitebox.jpg", "whitebox.1.jpg"],
+     //  downloads: []
+     // },
       // product
      { name: "Christmas tablecloth",
        description: "Price: 10 PGK",
@@ -495,29 +509,29 @@ products = [
        downloads: []
       },
       // product
-     { name: "Fake twigs for decoration",
-       description: "Price: Free",
-       details: "Only the original Swiss pine is nicer!",
-       thumbnail: "twigdec.jpg",
-       images: ["twigdec.jpg"],
-       downloads: []
-      },
+     //{ name: "Fake twigs for decoration",
+    //   description: "Price: Free",
+    //   details: "Only the original Swiss pine is nicer!",
+    //   thumbnail: "twigdec.jpg",
+    //   images: ["twigdec.jpg"],
+    //   downloads: []
+    //  },
       // product
-     { name: "Christmas tree",
-       description: "Price: Free",
-       details: "We got used to a fake Christmas tree over the years. You will do too.",
-       thumbnail: "tree.jpg",
-       images: ["tree.jpg", "tree1.jpg", "tree2.jpg"],
-       downloads: []
-      },
+     //{ name: "Christmas tree",
+    //   description: "Price: Free",
+    //   details: "We got used to a fake Christmas tree over the years. You will do too.",
+    //   thumbnail: "tree.jpg",
+    //   images: ["tree.jpg", "tree1.jpg", "tree2.jpg"],
+    //   downloads: []
+    //  },
       // product
-     { name: "Fake twigs with snow",
-       description: "Price: Free",
-       details: "Only the original Swiss snow is cooler!",
-       thumbnail: "twigdecsnow.jpg",
-       images: ["twigdecsnow.jpg"],
-       downloads: []
-      },
+     //{ name: "Fake twigs with snow",
+    //   description: "Price: Free",
+    //   details: "Only the original Swiss snow is cooler!",
+    //   thumbnail: "twigdecsnow.jpg",
+    //   images: ["twigdecsnow.jpg"],
+    //   downloads: []
+    //  },
 
 
        // product
@@ -538,44 +552,44 @@ products = [
        downloads: []
       },
        // product
-     { name: "Mix of ornaments",
-       description: "Price: xx PGK",
-       details: "For bilasing your Christmas tree.",
-       thumbnail: "ornaments.jpg",
-       images: ["ornaments.jpg"],
-       downloads: []
-      },
+     //{ name: "Mix of ornaments",
+     //  description: "Price: xx PGK",
+     //  details: "For bilasing your Christmas tree.",
+     //  thumbnail: "ornaments.jpg",
+     // images: ["ornaments.jpg"],
+     //  downloads: []
+     // },
        // product
-     { name: "Small pack of ornaments",
-       description: "Price: xx PGK",
-       details: "For bilasing your Christmas tree.",
-       thumbnail: "ornamentss.jpg",
-       images: ["ornamentss.jpg"],
-       downloads: []
-      },
+    // { name: "Small pack of ornaments",
+     //  description: "Price: xx PGK",
+     //  details: "For bilasing your Christmas tree.",
+     //  thumbnail: "ornamentss.jpg",
+     //  images: ["ornamentss.jpg"],
+     //  downloads: []
+     // },
         // product
-     { name: "Silver ornaments",
-       description: "Price: xx PGK",
-       details: "For bilasing your Christmas tree.",
-       thumbnail: "ornamentsw.jpg",
-       images: ["ornamentsw.jpg"],
-       downloads: []
-      },
+     //{ name: "Silver ornaments",
+     //  description: "Price: xx PGK",
+     //  details: "For bilasing your Christmas tree.",
+     //  thumbnail: "ornamentsw.jpg",
+     //  images: ["ornamentsw.jpg"],
+     //  downloads: []
+     // },
        // product
-     { name: "Big pack of ornaments",
-       description: "Price: xx PGK",
-       details: "For bilasing your Christmas tree.",
-       thumbnail: "ornamentsb.jpg",
-       downloads: []
-      },
+    // { name: "Big pack of ornaments",
+    //   description: "Price: xx PGK",
+    //   details: "For bilasing your Christmas tree.",
+    //  thumbnail: "ornamentsb.jpg",
+    //   downloads: []
+    //  },
        // product
-     { name: "Round lamp",
-       description: "Price: 50 PGK",
-       details: "Nice, warm light (glass).",
-       thumbnail: "light.jpg",
-       images: ["light.jpg", "light3.jpg"],
-       downloads: []
-     }, 
+     //{ name: "Round lamp",
+     //   description: "Price: 50 PGK",
+     //   details: "Nice, warm light (glass).",
+    //   thumbnail: "light.jpg",
+    //   images: ["light.jpg", "light3.jpg"],
+    //   downloads: []
+     //}, 
       // product
      { name: "Bright lamp ",
        description: "Price: 10 PGK",
@@ -585,13 +599,13 @@ products = [
        downloads: []
       },
        // product
-     { name: "Hairdresser apron",
-       description: "Price: xx PGK",
-       details: "",
-       thumbnail: "haircutapron1.jpg",
-       images: ["haircutapron1.jpg"],
-       downloads: []
-      },
+     //{ name: "Hairdresser apron",
+     //  description: "Price: xx PGK",
+     //  details: "",
+     //  thumbnail: "haircutapron1.jpg",
+     //  images: ["haircutapron1.jpg"],
+     //  downloads: []
+     // },
        // product
 
      { name: "Glitter",
@@ -636,7 +650,7 @@ products = [
       },
       // product
      { name: "Shelf brown",
-       description: "Price: xx PGK",
+       description: "Price: 100 PGK",
        details: "",
        thumbnail: "ShelfBoys1.jpg",
        images: ["ShelfBoys1.jpg", "ShelfBoys2.jpg", "ShelfBoys3.jpg"],
@@ -644,7 +658,7 @@ products = [
       },
       // product
      { name: "Shelf brown 2",
-       description: "Price: xx PGK",
+       description: "Price: 100 PGK",
        details: "",
        thumbnail: "Shelf2Boys.jpg",
        images: ["Shelf2Boys.jpg"],
@@ -662,7 +676,7 @@ products = [
       },
      // product
      { name: "Shelf",
-       description: "Price: xx PGK",
+       description: "Price: 10 PGK",
        details: "",
        thumbnail: "Shelf3Boys.jpg",
        images: ["Shelf3Boys.jpg"],
@@ -688,63 +702,74 @@ products = [
       // product
      { name: "Playmobil hospital",
        description: "Price: 150 PGK",
-       details: "",
-       thumbnail: "hospital1.jpg",
+       details: "price is negotiable",
+       thumbnail: "hospital2.jpg",
        images: ["hospital1.jpg","hospital2.jpg","hospital3.jpg","hospital4.jpg","hospital5.jpg"],
        downloads: []
       },
             // product
-     { name: "Playmobil ambulance car",
-       description: "Price: 130 PGK",
-       details: "",
-       thumbnail: "ambulance1.jpg",
-       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
-       downloads: []
-      },
-     // product
-     { name: "Playmobil farm house",
-       description: "Price: 100 PGK",
-       details: "",
-       thumbnail: "farmhouse1.jpg",
-       images: ["farmhouse1.jpg", "farmhouse2.jpg", "farmhouse3.jpg",],
-       downloads: []
-      },
-     // product
-     { name: "Playmobil pony",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "girlpony.jpg",
-       images: ["girlpony.jpg"],
-       downloads: []
-      },
-           // product
-     { name: "Playmobil Scooter",
-       description: "Price: 15 PGK",
-       details: "",
-       thumbnail: "girlscooter1.jpg",
-       images: ["girlscooter1.jpg"],
-       downloads: []
-      },
-     // product
-     { name: "Playmobil Scooter",
-       description: "Price: 15 PGK",
-       details: "",
-       thumbnail: "girlscooter1.jpg",
-       images: ["girlscooter1.jpg"],
-       downloads: []
-      },
-      // product
-     { name: "Playmobil hospital room",
+     { name: "Playmobil children hospital room",
        description: "Price: 45 PGK",
-       details: "",
+       details: "price is negotiable",
        thumbnail: "hospitalroom1.jpg",
        images: ["hospitalroom1.jpg", "hospitalroom2.jpg"],
        downloads: []
       },
+                  // product
+     { name: "Playmobil ambulance car",
+       description: "Price: 130 PGK",
+       details: "price is negotiable",
+       thumbnail: "ambulance3.jpg",
+       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
+       downloads: []
+      },
+           // product
+     { name: "Playmobil royal carriage",
+       description: "Price: 60 PGK",
+       details: "price is negotiable",
+       thumbnail: "royalcarriage1.jpg",
+       images: ["royalcarriage1.jpg", "royalcarriage2.jpg"],
+       downloads: []
+      },
+           // product
+     { name: "Playmobil trailer",
+       description: "Price: 30 PGK",
+       details: "price is negotiable",
+       thumbnail: "biketrailer1.jpg",
+       images: ["biketrailer1.jpg"],
+       downloads: []
+      },
+           // product
+     { name: "Playmobil pony",
+       description: "Price: 10 PGK",
+       details: "price is negotiable",
+       thumbnail: "girlpony1.jpg",
+       images: ["girlpony1.jpg"],
+       downloads: []
+      },
+
+     // product
+     { name: "Playmobil farm house",
+       description: "Price: 100 PGK",
+       details: "price is negotiable",
+       thumbnail: "farmhouse1.jpg",
+       images: ["farmhouse1.jpg", "farmhouse2.jpg", "farmhouse3.jpg",],
+       downloads: []
+      },
+
+           // product
+     { name: "Playmobil Scooter",
+       description: "Price: 15 PGK",
+       details: "price is negotiable",
+       thumbnail: "girlscooter1.jpg",
+       images: ["girlscooter1.jpg"],
+       downloads: []
+      },
+
      // product
      { name: "Playmobil mother with children",
        description: "Price: 15 PGK",
-       details: "",
+       details: "price is negotiable",
        thumbnail: "motherchildren1.jpg",
        images: ["motherchildren1.jpg"],
        downloads: []
@@ -752,7 +777,7 @@ products = [
      // product
      { name: "Playmobil mother with dog",
        description: "Price: 15 PGK",
-       details: "",
+       details: "price is negotiable",
        thumbnail: "motherdog1.jpg",
        images: ["motherdog1.jpg"],
        downloads: []
@@ -760,27 +785,37 @@ products = [
      // product
      { name: "Playmobil princess",
        description: "Price: 15 PGK",
-       details: "",
+       details: "price is negotiable",
        thumbnail: "princess.jpg",
        images: ["princess.jpg"],
        downloads: []
       },
+
      // product
-     { name: "Playmobil royal carriage",
-       description: "Price: 60 PGK",
-       details: "",
-       thumbnail: "royalcarriage1.jpg",
-       images: ["royalcarriage1.jpg", "royalcarriage2.jpg"],
+     { name: "Playmobil vet",
+       description: "Price: 16 PGK",
+       details: "price is negotiable",
+       thumbnail: "vet1.jpg",
+       images: ["vet1.jpg"],
        downloads: []
       },
-       // product
-     { name: "Games",
-       description: "Price: xx PGK",
-       details: "in German",
-       thumbnail: "games.jpg",
-       images: ["games.jpg"],
+     // product
+     { name: "Playmobil dentist",
+       description: "Price: 45 PGK",
+       details: "price is negotiable",
+       thumbnail: "Dentist1.jpg",
+       images: ["Dentist1.jpg"],
        downloads: []
       },
+
+      // product
+    //{ name: "Games",
+    //   description: "Price: xx PGK",
+    // details: "in German",
+    //   thumbnail: "games.jpg",
+    //   images: ["games.jpg"],
+    //   downloads: []
+    //  },
             // product
      { name: "Small blue boxes",
        description: "Price: small K5 each, K10 each PGK",
@@ -798,13 +833,13 @@ products = [
        downloads: []
        },
        // product
-     { name: "Bowls",
-       description: "Price: 20 PGK each",
-       details: "IKEA Serving Bowls",
-       thumbnail: "bowls.jpg",
-       images: ["bowls.jpg`"],
-       downloads: []
-       },
+     //{ name: "Bowls",
+     //  description: "Price: 20 PGK each",
+     //  details: "IKEA Serving Bowls",
+     //  thumbnail: "bowls.jpg",
+     //  images: ["bowls.jpg`"],
+     //  downloads: []
+     //   },
        // product
      { name: "Badminton set",
        description: "Price: 20 PGK",
@@ -823,27 +858,235 @@ products = [
      }, 
             // product
      { name: "Children sewing maschine",
-       description: "Price: xx PGK",
-       details: "",
+       description: "Price: 90 PGK",
+       details: "price is negotiable",
        thumbnail: "childrensewingmaschine1.jpg",
        images: ["childrensewingmaschine1.jpg"],
        downloads: []
       },
            // product
      { name: "Moskitto nets",
-       description: "Price: 40 PGK",
+       description: "Price: 10 PGK each",
        details: "Several new moskitto nets.",
        thumbnail: "moskittonets.jpg",
        images: ["moskittonets.jpg"],
        downloads: []
       },
            // product
-     { name: "Shelf",
-       description: "Price: xx PGK",
+     { name: "White Shelf",
+       description: "Price: 120 PGK",
        details: "Meassurments: 195x89x34cm",
        thumbnail: "ShelfJael.jpg",
        images: ["ShelfJael.jpg"],
        downloads: []
       },
+      
+     // product
+     { name: "Big bowl",
+       description: "Price: 30 PGK",
+       details: "",
+       thumbnail: "Big Bowl.jpg",
+       images: ["Big Bowl.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Big jars",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Big Jars.jpg",
+       images: ["Big Jars.jpg"],
+       downloads: []
+      },
+      
+      // product
+     { name: "Book holder",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Book holder.jpg",
+       images: ["Book holder.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Boxes",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Boxes.jpg",
+       images: ["Boxes.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Candel stand",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Candel stand.jpg",
+       images: ["Candel stand.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Candel",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Candel.jpg",
+       images: ["Candel.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "4 Candels",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Candel4.jpg",
+       images: ["Candel4.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Childrens Guitar",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Childrens Guitar.jpg",
+       images: ["Childrens Guitar.jpg"],
+       downloads: []
+      },
+      
+           // product
+     { name: "Box of Duplo",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Duplo.jpg",
+       images: ["Duplo.jpg"],
+       downloads: []
+      },
+      
+           // product
+     { name: "Guitar with hard case",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Guitar.jpg",
+       images: ["Guitar.jpg", "Guitar2.jpg"],
+       downloads: []
+      },
+      
+                 // product
+     { name: "Hooks",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Hooks.jpg",
+       images: ["Hooks.jpg", "Hooks2.jpg"],
+       downloads: []
+      },
+      
+                 // product
+     { name: "Box of Duplo",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Duplo.jpg",
+       images: ["Duplo.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Lego police car",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Lego Police Car.jpg",
+       images: ["Lego Police Car.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Bosch mixer",
+       description: "Price: 100 PGK",
+       details: "",
+       thumbnail: "Mixer.jpg",
+       images: ["Mixer.jpg","Mixer 2.jpg"],
+       downloads: []
+      },
+      
+    // product
+     { name: "Modeling material",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Modelingmaterial.jpg",
+       images: ["Modelingmaterial.jpg"],
+       downloads: []
+      },
+      
+          // product
+     { name: "Picture frame black",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Picture Frame black.jpg",
+       images: ["Picture Frame black.jpg"],
+       downloads: []
+      },
+      
+     // product
+     { name: "Picture frame",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Picture Frame.jpg",
+       images: ["Picture Frame.jpg"],
+       downloads: []
+      },
+      
+    // product
+     { name: "Pot",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Pot1.jpg",
+       images: ["Pot1.jpg", "Pot2.jpg", "Pot3.jpg"],
+       downloads: []
+      },
+      
+          // product
+     { name: "Roll of black board paper",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Roll of Blackboard Paper.jpg",
+       images: ["Roll of Blackboard Paper.jpg", "Roll of Blackboard Paper2.jpg"],
+       downloads: []
+      },
+      
+               // product
+     { name: "Singer Sewing machine",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Sewing Machine.jpg",
+       images: ["Sewing Machine.jpg"],
+       downloads: []
+      }, 
+      
+                     // product
+     { name: "Small mirrors",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Small Mirrors.jpg",
+       images: ["Small Mirrors.jpg"],
+       downloads: []
+      }, 
+      
+     // product
+     { name: "Square mirrors",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Square Mirror 1.jpg",
+       images: ["Square Mirror back.jpg"],
+       downloads: []
+      }, 
+      
+           // product
+     { name: "Wall picture",
+       description: "Price: xx PGK",
+       details: "",
+       thumbnail: "Wall Picture1.jpg",
+       images: ["Wall Picture1.jpg", "Wall Picture2.jpg"],
+       downloads: []
+      }, 
+      
      ]
 ];
