@@ -103,7 +103,7 @@ products = [
       // product
      { name: "Pressure Cooker",
        description: "100 Kina",
-       details: "6l pressure cooker. Stainless steel.",
+       details: "6l pressure cooker. Stainless steel.Avaiable mid May",
        thumbnail: "pressurecooker.jpg",
        images: ["pressurecooker.jpg", "pressurecooker1.jpg", "pressurecooker2.jpg", "pressurecooker3.jpg", "pressurecooker4.jpg", "pressurecooker5.jpg"],
        downloads: []
