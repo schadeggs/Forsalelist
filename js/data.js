@@ -678,14 +678,15 @@ products = [
        images: ["woodchair.jpg","woodchair2.jpg"],
        downloads: []
       },
-     // product
-     { name: "White Shelf",
-       description: "Price: 120 PGK",
-       details: "Meassurments: 195x89x34cm",
-       thumbnail: "ShelfJael.jpg",
-       images: ["ShelfJael.jpg","ShelfJael2.jpg"],
-       downloads: []
-      },
+    // product
+    // { name: "White Shelf",
+    //   description: "Price: 120 PGK",
+    //   details: "Meassurments: 195x89x34cm",
+    //   thumbnail: "ShelfJael.jpg",
+    //   images: ["ShelfJael.jpg","ShelfJael2.jpg"],
+    //   downloads: []
+    //  sold to Sissons  
+    //  },
       // product
      { name: "Shelf brown",
        description: "Price: 100 PGK each",
@@ -951,16 +952,17 @@ products = [
      // },
       
            // product
-     { name: "Guitar with hard case",
-       description: "Price: 300 PGK",
-       details: "",
-       thumbnail: "Guitar.jpg",
-       images: ["Guitar.jpg", "Guitar 2.jpg"],
-       downloads: []
-      },
+     //{ name: "Guitar with hard case",
+     //  description: "Price: 300 PGK",
+     //  details: "",
+     //  thumbnail: "Guitar.jpg",
+     //  images: ["Guitar.jpg", "Guitar 2.jpg"],
+     //  downloads: []
+      // sold to Watsons
+     // },
       
                  // product
-     { //name: "Hooks",
+     //{ name: "Hooks",
      //  description: "Price: 5 PGK",
      //  details: "",
      //  thumbnail: "Hooks.jpg",
@@ -977,8 +979,6 @@ products = [
        downloads: []
       },
       
-
-      
      // product
      { name: "Bosch mixer",
        description: "Price: 100 PGK",
@@ -989,31 +989,34 @@ products = [
       },
       
     // product
-     { name: "Modeling material",
-       description: "Price: free",
-       details: "",
-       thumbnail: "Modelingmaterial.jpg",
-       images: ["Modelingmaterial.jpg"],
-       downloads: []
-      },
+    // { name: "Modeling material",
+    //   description: "Price: free",
+    //   details: "",
+    //   thumbnail: "Modelingmaterial.jpg",
+    //   images: ["Modelingmaterial.jpg"],
+    //   downloads: []
+    // sold to Symonds
+    //  },
       
           // product
-     { name: "Picture frame black",
-       description: "Price: 10 PGK",
-       details: "75x37cm",
-       thumbnail: "Picture Frame black.jpg",
-       images: ["Picture Frame black.jpg"],
-       downloads: []
-      },
+     //{ name: "Picture frame black",
+     //  description: "Price: 10 PGK",
+     //  details: "75x37cm",
+     //  thumbnail: "Picture Frame black.jpg",
+     //  images: ["Picture Frame black.jpg"],
+     //  downloads: []
+      // sold to Doreen
+     // },
       
      // product
-     { name: "Picture frame",
-       description: "Price: 5 PGK",
-       details: "40x50cm",
-       thumbnail: "Picture Frame.jpg",
-       images: ["Picture Frame.jpg"],
-       downloads: []
-      },
+    // { name: "Picture frame",
+    //   description: "Price: 5 PGK",
+    //   details: "40x50cm",
+    //   thumbnail: "Picture Frame.jpg",
+    //   images: ["Picture Frame.jpg"],
+    //   downloads: []
+       // sold to Doreen
+    //  },
       
     // product
      { name: "Pot",
@@ -1033,14 +1036,15 @@ products = [
        downloads: []
       },
       
-               // product
-     { name: "Singer Sewing machine",
-       description: "Price: 300 PGK",
-       details: "Only 4 years old, runs very well. Bought at Brian Bell",
-       thumbnail: "Sewing Machine.jpg",
-       images: ["Sewing Machine.jpg"],
-       downloads: []
-      }, 
+    // product
+    //{ name: "Singer Sewing machine",
+    //   description: "Price: 300 PGK",
+    //   details: "Only 4 years old, runs very well. Bought at Brian Bell",
+    //   thumbnail: "Sewing Machine.jpg",
+    //   images: ["Sewing Machine.jpg"],
+    //   downloads: []
+    //  sold to Sissons  
+    //  }, 
       
                      // product
      { name: "Small mirrors",
@@ -1141,13 +1145,14 @@ products = [
        downloads: []
        },
           // product
-     { name: "Hair Dryer",
-       description: "Price: 10 Kina",
-       details: "",
-       thumbnail: "Hair Dryer.jpg",
-       images: ["Hair Dryer.jpg"],
-       downloads: []
-       },
+    // { name: "Hair Dryer",
+    //   description: "Price: 10 Kina",
+    //   details: "",
+    //   thumbnail: "Hair Dryer.jpg",
+    //   images: ["Hair Dryer.jpg"],
+    //   downloads: []
+    //  sold to Symonds
+    //   },
       // product
      { name: "Dog Nail Clippers",
        description: "Price: 5 Kina",
@@ -1165,14 +1170,15 @@ products = [
        downloads: []
        },
                  // product
-     { name: "Bow & arrows",
-       description: "Make a cheap offer",
-       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
-       thumbnail: "bow.jpg",
-       images: ["bow.jpg"],
-       downloads: []
-     }, 
-                      // product
+     //{ name: "Bow & arrows",
+     //  description: "Make a cheap offer",
+     //  details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
+     //  thumbnail: "bow.jpg",
+     //  images: ["bow.jpg"],
+     //  downloads: []
+     // sold to Symmonds, free
+     //}, 
+     // product
      { name: "Playmobil Scooter",
        description: "Price: 10 PGK",
        details: "",
@@ -1189,13 +1195,14 @@ products = [
        downloads: []
       },
                   // product
-     { name: "Goals",
-       description: "40 Kina",
-       details: "Two foldable goals",
-       thumbnail: "goals.jpg",
-       images: ["goals.jpg", "goals1.jpg", "goals2.jpg", "goals3.jpg", "goals4.jpg", "goals5.jpg"],
-       downloads: []
-      },
+     //{ name: "Goals",
+     //  description: "40 Kina",
+     //  details: "Two foldable goals",
+     //  thumbnail: "goals.jpg",
+     //  images: ["goals.jpg", "goals1.jpg", "goals2.jpg", "goals3.jpg", "goals4.jpg", "goals5.jpg"],
+     //  downloads: []
+     // sold to Sissons
+     // },
                    // product
      { name: "Badminton set",
        description: "Price: 20 PGK",
@@ -1221,12 +1228,14 @@ products = [
        downloads: []
      },
         // product
-     { name: "Basket ball",
-       description: "Price: 40 Kina",
-       details: "Wilson basket ball. As good as new.",
-       thumbnail: "basketball.jpg",
-       images: ["basketball.jpg"],
-       downloads: []
-     },
+     //{ name: "Basket ball",
+    //   description: "Price: 40 Kina",
+    //   details: "Wilson basket ball. As good as new.",
+    //   thumbnail: "basketball.jpg",
+    //   images: ["basketball.jpg"],
+    //   downloads: []
+      // sold to Sissons
+     //},
+      
      ]
 ];
