@@ -1224,7 +1224,7 @@ products = [
        description: "Price: 40 Kina",
        details: "Wilson basket ball. As good as new.",
        thumbnail: "Basketball.jpg",
-       images: ["Basketball.jpg"],
+       images: ["basketball.jpg"],
        downloads: []
      },
      ]
