@@ -732,7 +732,7 @@ products = [
      
       // product
      { name: "Playmobil hospital",
-       description: "Price: 150 PGK",
+       description: "Price: 170 PGK",
        details: "",
        thumbnail: "hospital2.jpg",
        images: ["hospital1.jpg","hospital2.jpg","hospital3.jpg","hospital4.jpg","hospital5.jpg"],
