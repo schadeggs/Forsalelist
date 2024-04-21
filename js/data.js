@@ -1214,10 +1214,10 @@ products = [
   // product
      { name: "Jewelry",
        description: "Price: Free",
-       details: "diffrent Jewerly, some new some used",
-       thumbnail: "Jewerly.jpg",
-       images: ["Jewerly.jpg"],
+       details: "diffrent Jewelry, some new some used",
+       thumbnail: "Jewelry.jpg",
+       images: ["Jewelry.jpg"],
        downloads: []
-
+     },
      ]
 ];
