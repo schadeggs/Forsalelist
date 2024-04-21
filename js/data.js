@@ -225,14 +225,7 @@ products = [
        images: ["divegear.jpg"],
        downloads: []
      },
-           // product
-      { name: "Neopren",
-       description: "For free",
-       details: "Full body neopren, old",
-       thumbnail: "neopren1.jpg",
-       images: ["neopren1.jpg","neopren2.jpg"],
-       downloads: []
-     },
+
     // product
     // { name: "2 Tennis Racquets",
     //   description: "Price: 80 Kina",
@@ -1201,6 +1194,14 @@ products = [
        details: "Several racquets. Like on the picture.",
        thumbnail: "badminton.jpg",
        images: ["badminton.jpg"],
+       downloads: []
+     },
+                 // product
+      { name: "Neopren",
+       description: "For free",
+       details: "Full body neopren, old",
+       thumbnail: "neopren1.jpg",
+       images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
 
