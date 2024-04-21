@@ -1083,8 +1083,86 @@ products = [
        images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
        downloads: []
        },
-      
-
+     // product
+     { name: "Playmobil Preschool",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Playmobil Preschool.jpg",
+       images: ["Playmobil Preschool.jpg"],
+       downloads: []
+       },
+           // product
+     { name: "Board Game",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Board Game.jpg",
+       images: ["Board Game.jpg"],
+       downloads: []
+       },
+           // product
+     { name: "Monopoly Junior",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Monopoly Junior.jpg",
+       images: ["Monopoly Junior.jpg"],
+       downloads: []
+       },
+      // product
+     { name: "Pick up sticks",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Pick up Sticks.jpg",
+       images: ["Pick up Sticks.jpg"],
+       downloads: []
+       },
+      // product
+     { name: "Game Rummy",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Rummy.jpg",
+       images: ["Rummy.jpg"],
+       downloads: []
+       },
+            // product
+     { name: "Game Where are You",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Where are you.jpg",
+       images: ["Where are you.jpg"],
+       downloads: []
+       },
+    // product
+     { name: "Game Zoo Yazi",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Zoo Yazi.jpg",
+       images: ["Zoo Yazi.jpg"],
+       downloads: []
+       },
+          // product
+     { name: "Hair Dryer",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Hair Dryer.jpg",
+       images: ["Hair Dryer.jpg"],
+       downloads: []
+       },
+      // product
+     { name: "Dog Nail Clippers",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Dog Nail Clippers.jpg",
+       images: ["Dog Nail Clippers.jpg"],
+       downloads: []
+       },
+            // product
+     { name: "Thermo Bottle",
+       description: "Price: xx",
+       details: "",
+       thumbnail: "Thermo Bottle.jpg",
+       images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
+       downloads: []
+       },
                  // product
      { name: "Bow & arrows",
        description: "Make a cheap offer",
