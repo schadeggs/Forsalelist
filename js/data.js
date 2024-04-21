@@ -1223,7 +1223,7 @@ products = [
      { name: "Basket ball",
        description: "Price: 40 Kina",
        details: "Wilson basket ball. As good as new.",
-       thumbnail: "Basketball.jpg",
+       thumbnail: "basketball.jpg",
        images: ["basketball.jpg"],
        downloads: []
      },
