@@ -200,14 +200,7 @@ products = [
        images: ["carwheels.jpg", "carwheels1.jpg", "carwheels2.jpg", "carwheels3.jpg", "carwheels4.jpg", "carwheels5.jpg", "carwheels6.jpg", "carwheels7.jpg", "carwheels8.jpg", "carwheels9.jpg"],
        downloads: []
       },
-            // product
-     { name: "Goals",
-       description: "30 Kina",
-       details: "Two foldable goals",
-       thumbnail: "goals.jpg",
-       images: ["goals.jpg", "goals1.jpg", "goals2.jpg", "goals3.jpg", "goals4.jpg", "goals5.jpg"],
-       downloads: []
-      },
+
      // product
      { name: "300m Cat6 cable",
        description: "Price: 50 PGK",
@@ -1114,6 +1107,14 @@ products = [
        details: "Bird cage with chicken wire on all 4 sides.",
        thumbnail: "birdcage.jpg",
        images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
+       downloads: []
+      },
+                  // product
+     { name: "Goals",
+       description: "30 Kina",
+       details: "Two foldable goals",
+       thumbnail: "goals.jpg",
+       images: ["goals.jpg", "goals1.jpg", "goals2.jpg", "goals3.jpg", "goals4.jpg", "goals5.jpg"],
        downloads: []
       },
                    // product
