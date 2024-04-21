@@ -999,22 +999,24 @@ products = [
     //  },
       
           // product
-     { name: "Picture frame black",
-       description: "Price: 10 PGK",
-       details: "75x37cm",
-       thumbnail: "Picture Frame black.jpg",
-       images: ["Picture Frame black.jpg"],
-       downloads: []
-      },
+     //{ name: "Picture frame black",
+     //  description: "Price: 10 PGK",
+     //  details: "75x37cm",
+     //  thumbnail: "Picture Frame black.jpg",
+     //  images: ["Picture Frame black.jpg"],
+     //  downloads: []
+      // sold to Doreen
+     // },
       
      // product
-     { name: "Picture frame",
-       description: "Price: 5 PGK",
-       details: "40x50cm",
-       thumbnail: "Picture Frame.jpg",
-       images: ["Picture Frame.jpg"],
-       downloads: []
-      },
+    // { name: "Picture frame",
+    //   description: "Price: 5 PGK",
+    //   details: "40x50cm",
+    //   thumbnail: "Picture Frame.jpg",
+    //   images: ["Picture Frame.jpg"],
+    //   downloads: []
+       // sold to Doreen
+    //  },
       
     // product
      { name: "Pot",
