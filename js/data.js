@@ -999,7 +999,7 @@ products = [
           // product
      { name: "Picture frame black",
        description: "Price: 10 PGK",
-       details: "",
+       details: "75x37cm",
        thumbnail: "Picture Frame black.jpg",
        images: ["Picture Frame black.jpg"],
        downloads: []
@@ -1008,7 +1008,7 @@ products = [
      // product
      { name: "Picture frame",
        description: "Price: 5 PGK",
-       details: "",
+       details: "40x50cm",
        thumbnail: "Picture Frame.jpg",
        images: ["Picture Frame.jpg"],
        downloads: []
@@ -1158,7 +1158,7 @@ products = [
             // product
      { name: "Thermo Bottle",
        description: "Price: 5 Kina",
-       details: "Lid has a small bump",
+       details: "1.8 Liter. Lid has a small bump",
        thumbnail: "Thermo Bottle.jpg",
        images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
        downloads: []
