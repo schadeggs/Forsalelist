@@ -49,6 +49,14 @@ products = [
        images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
        downloads: []
      },
+     // product
+     { name: "Laser Printer",
+       description: "Price: 100 Kina",
+       details: "Brother DCP-7040 Multi function printer. New toner & new drum.",
+       thumbnail: "printer.jpg",
+       images: ["printer.jpg", "printer2.jpg", "printer3.jpg", "printer4.jpg", "printer5.jpg"],
+       downloads: []
+     },
       
       // product
     { name: "Work bench",
@@ -805,8 +813,8 @@ products = [
      { name: "Playmobil princess",
        description: "Price: 15 PGK",
        details: "",
-       thumbnail: "princess.jpg",
-       images: ["princess.jpg"],
+       thumbnail: "Princess.jpg",
+       images: ["Princess.jpg"],
        downloads: []
       },
 
@@ -1042,14 +1050,14 @@ products = [
       },
       
     // product
-    //{ name: "Singer Sewing machine",
-    //   description: "Price: 300 PGK",
-    //   details: "Only 4 years old, runs very well. Bought at Brian Bell",
-    //   thumbnail: "Sewing Machine.jpg",
-    //   images: ["Sewing Machine.jpg"],
-    //   downloads: []
-    //  sold to Sissons  
-    //  }, 
+    { name: "Singer Sewing machine",
+       description: "Price: 300 PGK",
+       details: "Only 4 years old, runs very well. Bought at Brian Bell",
+       thumbnail: "Sewing Machine.jpg",
+       images: ["Sewing Machine.jpg"],
+       downloads: []
+      sold to Sissons  
+      }, 
       
                      // product
      { name: "Small mirrors",
