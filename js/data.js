@@ -959,15 +959,15 @@ products = [
       },
       
                  // product
-     { name: "Hooks",
-       description: "Price: 5 PGK",
-       details: "",
-       thumbnail: "Hooks.jpg",
-       images: ["Hooks.jpg", "Hooks2.jpg"],
-       downloads: []
-      },
+     { //name: "Hooks",
+     //  description: "Price: 5 PGK",
+     //  details: "",
+     //  thumbnail: "Hooks.jpg",
+     //  images: ["Hooks.jpg", "Hooks2.jpg"],
+     //  downloads: []
+     // },
       
-                 // product
+     // product
      { name: "Box of Duplo",
        description: "Price: 150 PGK",
        details: "",
