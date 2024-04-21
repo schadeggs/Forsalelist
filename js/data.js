@@ -1208,7 +1208,7 @@ products = [
        description: "Price: 50 PGK",
        details: "Heigh: 1 Meter ",
        thumbnail: "Corner Shelf.jpg",
-       images: ["Corner Shelf.jpg","Corner Shelf 2"],
+       images: ["Corner Shelf.jpg","Corner Shelf 2.jpg"],
        downloads: []
      },
   // product
