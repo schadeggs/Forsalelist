@@ -423,7 +423,7 @@ products = [
        description: "Price: 30 PGK",
        details: "A working yellow remote control truck for small children.",
        thumbnail: "rctruck.jpg",
-       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg", "rctruck_4.jpg"],
+       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg"],
        downloads: []
      },
              // product
@@ -1158,7 +1158,7 @@ products = [
             // product
      { name: "Thermo Bottle",
        description: "Price: 5 Kina",
-       details: "Lid as a small bump",
+       details: "Lid has a small bump",
        thumbnail: "Thermo Bottle.jpg",
        images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
        downloads: []
@@ -1189,7 +1189,7 @@ products = [
       },
                   // product
      { name: "Goals",
-       description: "30 Kina",
+       description: "40 Kina",
        details: "Two foldable goals",
        thumbnail: "goals.jpg",
        images: ["goals.jpg", "goals1.jpg", "goals2.jpg", "goals3.jpg", "goals4.jpg", "goals5.jpg"],
