@@ -1208,24 +1208,22 @@ products = [
        description: "Price: 50 PGK",
        details: "Heigh: 1 Meter ",
        thumbnail: "Corner Shelf.jpg",
-       images: ["Corner Shelf.jpg","Corner Shelf 2.jpg"],
+       images: ["Corner Shelf.jpg","Corner Shelf 2"],
        downloads: []
      },
   // product
      { name: "Jewelry",
        description: "Price: Free",
-       details: "diffrent Jewelry, some new some used",
-       thumbnail: "Jewelry.jpg",
-       images: ["Jewelry.jpg"],
+       details: "diffrent Jewerly, some new some used",
+       thumbnail: "Jewerly.jpg",
+       images: ["Jewerly.jpg"],
        downloads: []
-     },
-        // product
-     { name: "Basket ball",
-       description: "Price: 40 Kina",
-       details: "Wilson basket ball. As good as new.",
-       thumbnail: "Basketball.jpg",
-       images: ["basketball.jpg"],
-       downloads: []
-     },
+<<<<<<< HEAD
+      },
+      
+
+=======
+>>>>>>> cc324421454012bce1b4a2d32c12c0e766aba9af
+
      ]
 ];
