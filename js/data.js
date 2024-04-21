@@ -61,7 +61,7 @@ products = [
      
       // product
     { name: "Projector screen",
-       description: "500 Kina",
+       description: "600 Kina",
        details: "Pull down movie screen. Great for watching movies with beemer. Size:120cm x 200cm, Brand: Nobo, Colour: light gray",
        thumbnail: "projectorscreen.jpg",
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
@@ -198,6 +198,14 @@ products = [
        details: "3 car wheels. 2 tires not used a lot. Aluminium rims. With the wheel nuts",
        thumbnail: "carwheels.jpg",
        images: ["carwheels.jpg", "carwheels1.jpg", "carwheels2.jpg", "carwheels3.jpg", "carwheels4.jpg", "carwheels5.jpg", "carwheels6.jpg", "carwheels7.jpg", "carwheels8.jpg", "carwheels9.jpg"],
+       downloads: []
+      },
+     // product
+     { name: "300m Cat6 cable",
+       description: "Price: 50 PGK",
+       details: "1000ft of cat6 network cable. STP.",
+       thumbnail: "cat6.jpg",
+       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
        downloads: []
       },
        // product
@@ -899,8 +907,8 @@ products = [
      { name: "Candel stand",
        description: "Price: 10 PGK each",
        details: "",
-       thumbnail: "Candel stand.jpg",
-       images: ["Candel stand.jpg"],
+       thumbnail: "Candel Stand.jpg",
+       images: ["Candel Stand.jpg"],
        downloads: []
       },
       
@@ -945,7 +953,7 @@ products = [
        description: "Price: 300 PGK",
        details: "",
        thumbnail: "Guitar.jpg",
-       images: ["Guitar.jpg", "Guitar2.jpg"],
+       images: ["Guitar.jpg", "Guitar 2.jpg"],
        downloads: []
       },
       
