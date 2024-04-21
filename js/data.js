@@ -756,10 +756,10 @@ products = [
       },
            // product
      { name: "Playmobil royal carriage",
-       description: "Price: 60 PGK",
+       description: "Price: 50 PGK",
        details: "",
        thumbnail: "royalcarriage2.jpg",
-       images: ["royalcarriage1.jpg", "royalcarriage2.jpg"],
+       images: ["royalcarriage2.jpg"],
        downloads: []
       },
            // product
