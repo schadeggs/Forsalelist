@@ -987,13 +987,14 @@ products = [
       },
       
     // product
-     { name: "Modeling material",
-       description: "Price: free",
-       details: "",
-       thumbnail: "Modelingmaterial.jpg",
-       images: ["Modelingmaterial.jpg"],
-       downloads: []
-      },
+    // { name: "Modeling material",
+    //   description: "Price: free",
+    //   details: "",
+    //   thumbnail: "Modelingmaterial.jpg",
+    //   images: ["Modelingmaterial.jpg"],
+    //   downloads: []
+    // sold to Symonds
+    //  },
       
           // product
      { name: "Picture frame black",
@@ -1139,13 +1140,14 @@ products = [
        downloads: []
        },
           // product
-     { name: "Hair Dryer",
-       description: "Price: 10 Kina",
-       details: "",
-       thumbnail: "Hair Dryer.jpg",
-       images: ["Hair Dryer.jpg"],
-       downloads: []
-       },
+    // { name: "Hair Dryer",
+    //   description: "Price: 10 Kina",
+    //   details: "",
+    //   thumbnail: "Hair Dryer.jpg",
+    //   images: ["Hair Dryer.jpg"],
+    //   downloads: []
+    //  sold to Symonds
+    //   },
       // product
      { name: "Dog Nail Clippers",
        description: "Price: 5 Kina",
@@ -1163,14 +1165,15 @@ products = [
        downloads: []
        },
                  // product
-     { name: "Bow & arrows",
-       description: "Make a cheap offer",
-       details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
-       thumbnail: "bow.jpg",
-       images: ["bow.jpg"],
-       downloads: []
-     }, 
-                      // product
+     //{ name: "Bow & arrows",
+     //  description: "Make a cheap offer",
+     //  details: "2 bows and arrows, (serveral arrows would need maintenance). Will only be given to expats as sports equipment, not to be used for fighting ;-)",
+     //  thumbnail: "bow.jpg",
+     //  images: ["bow.jpg"],
+     //  downloads: []
+     // sold to Symmonds, free
+     //}, 
+     // product
      { name: "Playmobil Scooter",
        description: "Price: 10 PGK",
        details: "",
