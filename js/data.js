@@ -960,7 +960,7 @@ products = [
       },
       
                  // product
-     { //name: "Hooks",
+     //{ name: "Hooks",
      //  description: "Price: 5 PGK",
      //  details: "",
      //  thumbnail: "Hooks.jpg",
@@ -976,8 +976,6 @@ products = [
        images: ["Duplo.jpg"],
        downloads: []
       },
-      
-
       
      // product
      { name: "Bosch mixer",
@@ -1228,5 +1226,6 @@ products = [
        images: ["basketball.jpg"],
        downloads: []
      },
+      
      ]
 ];
