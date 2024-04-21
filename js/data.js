@@ -1085,15 +1085,15 @@ products = [
        },
      // product
      { name: "Playmobil Preschool",
-       description: "Price: xx",
-       details: "",
+       description: "Price: 40 Kina",
+       details: "comes without box. Complete set, new",
        thumbnail: "Playmobil Preschool.jpg",
        images: ["Playmobil Preschool.jpg"],
        downloads: []
        },
            // product
      { name: "Board Game",
-       description: "Price: 25",
+       description: "Price: 25 Kina",
        details: "",
        thumbnail: "Board Game.jpg",
        images: ["Board Game.jpg"],
@@ -1101,7 +1101,7 @@ products = [
        },
            // product
      { name: "Monopoly Junior",
-       description: "Price: 20",
+       description: "Price: 20 Kina",
        details: "",
        thumbnail: "Monopoly Junior.jpg",
        images: ["Monopoly Junior.jpg"],
@@ -1109,7 +1109,7 @@ products = [
        },
       // product
      { name: "Pick up sticks",
-       description: "Price: 15",
+       description: "Price: 15 Kina",
        details: "",
        thumbnail: "Pick up Sticks.jpg",
        images: ["Pick up Sticks.jpg"],
@@ -1117,7 +1117,7 @@ products = [
        },
       // product
      { name: "Game Rummy",
-       description: "Price: 15",
+       description: "Price: 15 Kina",
        details: "",
        thumbnail: "Rummy.jpg",
        images: ["Rummy.jpg"],
@@ -1125,7 +1125,7 @@ products = [
        },
             // product
      { name: "Game Where are You",
-       description: "Price: 20",
+       description: "Price: 20 Kina",
        details: "",
        thumbnail: "Where are you.jpg",
        images: ["Where are you.jpg"],
@@ -1133,7 +1133,7 @@ products = [
        },
     // product
      { name: "Game Zoo Yazi",
-       description: "Price: 7",
+       description: "Price: 7 Kina",
        details: "",
        thumbnail: "Zoo Yazi.jpg",
        images: ["Zoo Yazi.jpg"],
@@ -1141,7 +1141,7 @@ products = [
        },
           // product
      { name: "Hair Dryer",
-       description: "Price: xx",
+       description: "Price: 10 Kina",
        details: "",
        thumbnail: "Hair Dryer.jpg",
        images: ["Hair Dryer.jpg"],
@@ -1149,7 +1149,7 @@ products = [
        },
       // product
      { name: "Dog Nail Clippers",
-       description: "Price: xx",
+       description: "Price: 5 Kina",
        details: "",
        thumbnail: "Dog Nail Clippers.jpg",
        images: ["Dog Nail Clippers.jpg"],
@@ -1157,8 +1157,8 @@ products = [
        },
             // product
      { name: "Thermo Bottle",
-       description: "Price: xx",
-       details: "",
+       description: "Price: 5 Kina",
+       details: "Lid as a small bump",
        thumbnail: "Thermo Bottle.jpg",
        images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
        downloads: []
