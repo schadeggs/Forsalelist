@@ -728,7 +728,7 @@ products = [
        downloads: []
       },
      // product
-     { name: "Deco flower",
+     { name: "Deco plant",
        description: "Price: 5 Kina",
        details: "Plastic flower",
        thumbnail: "Decoflower.jpg",
@@ -887,7 +887,7 @@ products = [
      // product
      { name: "Big jars",
        description: "Price: 10 PGK each",
-       details: "",
+       details: "1 Liter",
        thumbnail: "Big Jars.jpg",
        images: ["Big Jars.jpg"],
        downloads: []
@@ -904,8 +904,8 @@ products = [
       
      // product
      { name: "Boxes",
-       description: "Price: xx PGK",
-       details: "",
+       description: "Price: 5 PGK each",
+       details: "Foldable cardboard boxes, two red and two black",
        thumbnail: "Boxes.jpg",
        images: ["Boxes.jpg"],
        downloads: []
