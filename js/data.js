@@ -201,7 +201,14 @@ products = [
        downloads: []
       },
 
-
+     // product
+     { name: "300m Cat6 cable",
+       description: "Price: 50 PGK",
+       details: "1000ft of cat6 network cable. STP.",
+       thumbnail: "cat6.jpg",
+       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
+       downloads: []
+      },
        // product
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
@@ -218,7 +225,14 @@ products = [
        images: ["divegear.jpg"],
        downloads: []
      },
-
+           // product
+      { name: "Neopren",
+       description: "For free",
+       details: "Full body neopren, old",
+       thumbnail: "neopren1.jpg",
+       images: ["neopren1.jpg","neopren2.jpg"],
+       downloads: []
+     },
     // product
     // { name: "2 Tennis Racquets",
     //   description: "Price: 80 Kina",
@@ -1189,24 +1203,21 @@ products = [
        images: ["badminton.jpg"],
        downloads: []
      },
-                 // product
-      { name: "Neopren",
-       description: "For free",
-       details: "Full body neopren, old",
-       thumbnail: "neopren1.jpg",
-       images: ["neopren1.jpg","neopren2.jpg"],
+     // product
+     { name: "Corner Shelf",
+       description: "Price: 50 PGK",
+       details: "Heigh: 1 Meter ",
+       thumbnail: "Corner Shelf.jpg",
+       images: ["Corner Shelf.jpg","Corner Shelf 2"],
        downloads: []
      },
-           // product
-     { name: "300m Cat6 cable",
-       description: "Price: 50 PGK",
-       details: "1000ft of cat6 network cable. STP.",
-       thumbnail: "cat6.jpg",
-       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
+  // product
+     { name: "Jewelry",
+       description: "Price: Free",
+       details: "diffrent Jewelry, some new some used",
+       thumbnail: "Jewelry.jpg",
+       images: ["Jewelry.jpg"],
        downloads: []
-      },
-      
-
-
+     },
      ]
 ];
