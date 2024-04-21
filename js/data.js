@@ -905,16 +905,17 @@ products = [
       },
       
      // product
-     { name: "Candel stand",
-       description: "Price: 10 PGK each",
-       details: "",
-       thumbnail: "Candel Stand.jpg",
-       images: ["Candel Stand.jpg"],
-       downloads: []
-      },
+   //  { name: "Candle stand",
+   //    description: "Price: 10 PGK each",
+   //    details: "",
+   //    thumbnail: "Candel Stand.jpg",
+   //    images: ["Candel Stand.jpg"],
+   //    downloads: [] 
+   //    sold to paas
+   //   },
       
      // product
-     { name: "Candel",
+     { name: "Candle",
        description: "Price: 5 PGK each",
        details: "",
        thumbnail: "Candel.jpg",
@@ -923,7 +924,7 @@ products = [
       },
       
      // product
-     { name: "4 Candels",
+     { name: "4 Candles",
        description: "Price: 10 PGK",
        details: "",
        thumbnail: "Candel4.jpg",
