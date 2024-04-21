@@ -135,13 +135,14 @@ products = [
        downloads: []
      },
 // product
-     { name: "Blue Eski",
-       description: "Price: 300 PGK",
-       details: "A great Eski for village trips or to bring back fresh fish (or meat) from Madang.",
-       thumbnail: "coolboxblue1.jpg",
-       images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
-       downloads: []
-     }, 
+ //    { name: "Blue Eski",
+ //      description: "Price: 300 PGK",
+ //      details: "A great Eski for village trips or to bring back fresh fish (or meat) from Madang.",
+ //      thumbnail: "coolboxblue1.jpg",
+ //      images: ["coolboxblue1.jpg", "coolboxblue2.jpg", "coolboxblue3.jpg", "coolboxblue4.jpg"],
+ //      downloads: []
+ // sold to Romingers
+ //    }, 
       // product
      { name: "Red Eski",
        description: "Price: 100 PGK",
@@ -427,13 +428,14 @@ products = [
        downloads: []
      },
              // product
-     { name: "Projector",
-       description: "Price: 350 AUS$",
-       details: "LG projector PW800, with built in tuner. Great for state of origin and other movie nights.",
-       thumbnail: "beemer.jpg",
-       images: ["beemer2.jpg", "beemer3.jpg", "beemer4.jpg", "beemer5.jpg", "beemer6.jpg"],
-       downloads: []
-     },
+    // { name: "Projector",
+    //   description: "Price: 350 AUS$",
+    //   details: "LG projector PW800, with built in tuner. Great for state of origin and other movie nights.",
+    //   thumbnail: "beemer.jpg",
+    //   images: ["beemer2.jpg", "beemer3.jpg", "beemer4.jpg", "beemer5.jpg", "beemer6.jpg"],
+    //   downloads: []
+    // sold to Romingers
+    // },
      // product
      { name: "Lego police car",
        description: "Price: 20 PGK",
@@ -477,13 +479,14 @@ products = [
       },
 
        // product
-     { name: "Tablett and phone stand",
-       description: "Price: 5 PGK",
-       details: "",
-       thumbnail: "tabletholder.jpg",
-       images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
-       downloads: []
-       },
+     //{ name: "Tablett and phone stand",
+     //  description: "Price: 5 PGK",
+     //  details: "",
+     //  thumbnail: "tabletholder.jpg",
+     //  images: ["tabletholder.jpg", "tabletholder1.jpg", "tabletholder2.jpg"],
+     //  downloads: []
+      // sold to Romingers
+     //  },
              // product
      { name: "Playdoe supplies",
        description: "Price: 20 PGK",
@@ -888,13 +891,14 @@ products = [
       },
       
       // product
-     { name: "Book holder",
-       description: "Price: 5 PGK",
-       details: "",
-       thumbnail: "Book holder.jpg",
-       images: ["Book holder.jpg"],
-       downloads: []
-      },
+     //{ name: "Book holder",
+     //  description: "Price: 5 PGK",
+     //  details: "",
+     //  thumbnail: "Book holder.jpg",
+     //  images: ["Book holder.jpg"],
+     //  downloads: []
+      // sold to Romingers
+     // },
       
      // product
      { name: "Boxes",
@@ -934,13 +938,14 @@ products = [
       },
       
      // product
-     { name: "Childrens Guitar",
-       description: "Price: 40 PGK",
-       details: "",
-       thumbnail: "Childrens Guitar.jpg",
-       images: ["Childrens Guitar.jpg"],
-       downloads: []
-      },
+     //{ name: "Childrens Guitar",
+     //  description: "Price: 40 PGK",
+     //  details: "",
+     //  thumbnail: "Childrens Guitar.jpg",
+     //  images: ["Childrens Guitar.jpg"],
+     //  downloads: []
+      // sold to Romingers
+     // },
       
            // product
      //{ name: "Box of Duplo",
