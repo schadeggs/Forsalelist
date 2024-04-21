@@ -764,7 +764,7 @@ products = [
       },
            // product
      { name: "Playmobil trailer",
-       description: "Price: 30 PGK",
+       description: "Price: 10 PGK",
        details: "",
        thumbnail: "biketrailer1.jpg",
        images: ["biketrailer1.jpg"],
@@ -791,7 +791,7 @@ products = [
  
      // product
      { name: "Playmobil mother with dog",
-       description: "Price: 15 PGK",
+       description: "Price: 10 PGK",
        details: "",
        thumbnail: "motherdog1.jpg",
        images: ["motherdog1.jpg"],
@@ -808,7 +808,7 @@ products = [
 
      // product
      { name: "Playmobil vet",
-       description: "Price: 16 PGK",
+       description: "Price: 10 PGK",
        details: "",
        thumbnail: "vet1.jpg",
        images: ["vet1.jpg"],
@@ -1173,7 +1173,7 @@ products = [
      }, 
                       // product
      { name: "Playmobil Scooter",
-       description: "Price: 15 PGK",
+       description: "Price: 10 PGK",
        details: "",
        thumbnail: "girlscooter1.jpg",
        images: ["girlscooter1.jpg"],
