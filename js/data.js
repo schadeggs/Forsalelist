@@ -871,7 +871,7 @@ products = [
      // product
      { name: "Big bowl",
        description: "Price: 30 PGK",
-       details: "",
+       details: "28cm diameter",
        thumbnail: "Big Bowl.jpg",
        images: ["Big Bowl.jpg"],
        downloads: []
