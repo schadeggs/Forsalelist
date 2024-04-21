@@ -201,14 +201,7 @@ products = [
        downloads: []
       },
 
-     // product
-     { name: "300m Cat6 cable",
-       description: "Price: 50 PGK",
-       details: "1000ft of cat6 network cable. STP.",
-       thumbnail: "cat6.jpg",
-       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
-       downloads: []
-      },
+
        // product
      { name: "2 x EBC Cupboards",
        description: "500 Kina (each)",
@@ -1204,6 +1197,14 @@ products = [
        images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
+           // product
+     { name: "300m Cat6 cable",
+       description: "Price: 50 PGK",
+       details: "1000ft of cat6 network cable. STP.",
+       thumbnail: "cat6.jpg",
+       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
+       downloads: []
+      },
 
 
      ]
