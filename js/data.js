@@ -1203,7 +1203,21 @@ products = [
        images: ["badminton.jpg"],
        downloads: []
      },
-
+     // product
+     { name: "Corner Shelf",
+       description: "Price: 50 PGK",
+       details: "Heigh: 1 Meter ",
+       thumbnail: "Corner Shelf.jpg",
+       images: ["Corner Shelf.jpg","Corner Shelf 2"],
+       downloads: []
+     },
+  // product
+     { name: "Jewelry",
+       description: "Price: Free",
+       details: "diffrent Jewerly, some new some used",
+       thumbnail: "Jewerly.jpg",
+       images: ["Jewerly.jpg"],
+       downloads: []
 
      ]
 ];
