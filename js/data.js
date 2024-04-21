@@ -1219,5 +1219,13 @@ products = [
        images: ["Jewelry.jpg"],
        downloads: []
      },
+        // product
+     { name: "Basket ball",
+       description: "Price: 40 Kina",
+       details: "Wilson basket ball. As good as new.",
+       thumbnail: "Basketball.jpg",
+       images: ["Basketball.jpg"],
+       downloads: []
+     },
      ]
 ];
