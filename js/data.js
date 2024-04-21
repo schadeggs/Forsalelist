@@ -1056,7 +1056,7 @@ products = [
        thumbnail: "Sewing Machine.jpg",
        images: ["Sewing Machine.jpg"],
        downloads: []
-      sold to Sissons  
+      //sold to Sissons  
       }, 
       
                      // product
