@@ -951,13 +951,14 @@ products = [
      // },
       
            // product
-     { name: "Guitar with hard case",
-       description: "Price: 300 PGK",
-       details: "",
-       thumbnail: "Guitar.jpg",
-       images: ["Guitar.jpg", "Guitar 2.jpg"],
-       downloads: []
-      },
+     //{ name: "Guitar with hard case",
+     //  description: "Price: 300 PGK",
+     //  details: "",
+     //  thumbnail: "Guitar.jpg",
+     //  images: ["Guitar.jpg", "Guitar 2.jpg"],
+     //  downloads: []
+      // sold to Watsons
+     // },
       
                  // product
      //{ name: "Hooks",
