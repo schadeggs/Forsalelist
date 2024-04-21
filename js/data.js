@@ -640,7 +640,7 @@ products = [
       // product
      { name: "Teddy bear",
        description: "Price: 10 PGK",
-       details: "",
+       details: "Hand Puppet",
        thumbnail: "bear.jpg",
        images: ["bear.jpg"],
        downloads: []
@@ -1053,7 +1053,7 @@ products = [
      // product
      { name: "Square mirrors",
        description: "Price: 5 PGK",
-       details: "",
+       details: "30x30cm",
        thumbnail: "Square Mirror 1.jpg",
        images: ["Square Mirror back.jpg"],
        downloads: []
@@ -1061,7 +1061,7 @@ products = [
       
            // product
      { name: "Wall picture",
-       description: "Price: 5 PGK",
+       description: "Price: 10 PGK",
        details: "to stick directly on the wall",
        thumbnail: "Wall Picture1.jpg",
        images: ["Wall Picture1.jpg", "Wall Picture2.jpg"],
