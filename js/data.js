@@ -452,7 +452,7 @@ products = [
       },
            // product
      { name: "Wool",
-       description: "Free",
+       description: "5 PGK",
        details: "Several wools like shown on the picture.",
        thumbnail: "wool.jpg",
        images: ["wool.jpg"],
