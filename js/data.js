@@ -871,7 +871,7 @@ products = [
      // product
      { name: "Big bowl",
        description: "Price: 30 PGK",
-       details: "",
+       details: "28cm diameter",
        thumbnail: "Big Bowl.jpg",
        images: ["Big Bowl.jpg"],
        downloads: []
@@ -1093,7 +1093,7 @@ products = [
        },
            // product
      { name: "Board Game",
-       description: "Price: xx",
+       description: "Price: 25",
        details: "",
        thumbnail: "Board Game.jpg",
        images: ["Board Game.jpg"],
@@ -1101,7 +1101,7 @@ products = [
        },
            // product
      { name: "Monopoly Junior",
-       description: "Price: xx",
+       description: "Price: 20",
        details: "",
        thumbnail: "Monopoly Junior.jpg",
        images: ["Monopoly Junior.jpg"],
@@ -1109,7 +1109,7 @@ products = [
        },
       // product
      { name: "Pick up sticks",
-       description: "Price: xx",
+       description: "Price: 15",
        details: "",
        thumbnail: "Pick up Sticks.jpg",
        images: ["Pick up Sticks.jpg"],
@@ -1117,7 +1117,7 @@ products = [
        },
       // product
      { name: "Game Rummy",
-       description: "Price: xx",
+       description: "Price: 15",
        details: "",
        thumbnail: "Rummy.jpg",
        images: ["Rummy.jpg"],
@@ -1125,7 +1125,7 @@ products = [
        },
             // product
      { name: "Game Where are You",
-       description: "Price: xx",
+       description: "Price: 20",
        details: "",
        thumbnail: "Where are you.jpg",
        images: ["Where are you.jpg"],
@@ -1133,7 +1133,7 @@ products = [
        },
     // product
      { name: "Game Zoo Yazi",
-       description: "Price: xx",
+       description: "Price: 7",
        details: "",
        thumbnail: "Zoo Yazi.jpg",
        images: ["Zoo Yazi.jpg"],
