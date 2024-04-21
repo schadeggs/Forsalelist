@@ -61,7 +61,7 @@ products = [
      
       // product
     { name: "Projector screen",
-       description: "600 Kina",
+       description: "500 Kina",
        details: "Pull down movie screen. Great for watching movies with beemer. Size:120cm x 200cm, Brand: Nobo, Colour: light gray",
        thumbnail: "projectorscreen.jpg",
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
@@ -419,7 +419,7 @@ products = [
      },
              // product
      { name: "LG Beemer",
-       description: "Price: 350 PGK",
+       description: "Price: 350 AUS$",
        details: "LG projector PW800, with built in tuner. Great for state of origin and other movie nights.",
        thumbnail: "beemer.jpg",
        images: ["beemer2.jpg", "beemer3.jpg", "beemer4.jpg", "beemer5.jpg", "beemer6.jpg"],
