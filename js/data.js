@@ -1051,11 +1051,11 @@ products = [
       }, 
       
      // product
-     { name: "Square mirrors",
+     { name: "Square mirror",
        description: "Price: 5 PGK",
        details: "30x30cm",
        thumbnail: "Square Mirror 1.jpg",
-       images: ["Square Mirror back.jpg"],
+       images: ["Square Mirror 1.jpg","Square Mirror back.jpg"],
        downloads: []
       }, 
       
