@@ -907,8 +907,8 @@ products = [
      { name: "Candel stand",
        description: "Price: xx PGK",
        details: "",
-       thumbnail: "Candel stand.jpg",
-       images: ["Candel stand.jpg"],
+       thumbnail: "Candel Stand.jpg",
+       images: ["Candel Stand.jpg"],
        downloads: []
       },
       
