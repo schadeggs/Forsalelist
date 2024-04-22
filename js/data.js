@@ -42,21 +42,23 @@ products = [
     //   downloads: []
      //},
       // product
-     { name: "Scott bike",
-       description: "Price: 50 Kina",
-       details: "Well used kids bike.",
-       thumbnail: "BenajaBike.jpg",
-       images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
-       downloads: []
-     },
+     //{ name: "Scott bike",
+    //   description: "Price: 50 Kina",
+    //   details: "Well used kids bike.",
+    //   thumbnail: "BenajaBike.jpg",
+    //   images: ["BenajaBike.jpg", "BenajaBike2.jpg", "BenajaBike3.jpg", "BenajaBike4.jpg", "BenajaBike5.jpg", "BenajaBike6.jpg"],
+    //   downloads: []
+      // sold to Nich
+    // },
      // product
-     { name: "Laser Printer",
-       description: "Price: 100 Kina",
-       details: "Brother DCP-7040 Multi function printer. New toner & new drum.",
-       thumbnail: "printer.jpg",
-       images: ["printer.jpg", "printer2.jpg", "printer3.jpg", "printer4.jpg", "printer5.jpg"],
-       downloads: []
-     },
+    // { name: "Laser Printer",
+    //   description: "Price: 100 Kina",
+    //   details: "Brother DCP-7040 Multi function printer. New toner & new drum.",
+    //   thumbnail: "printer.jpg",
+    //   images: ["printer.jpg", "printer2.jpg", "printer3.jpg", "printer4.jpg", "printer5.jpg"],
+    //   downloads: []
+      // sold to Fabian
+     //},
       
       // product
     { name: "Work bench",
@@ -92,13 +94,14 @@ products = [
        downloads: []
      }, 
      // product
-     { name: "Swiss Fondue Dish",
-       description: "80 Kina",
-       details: "With 6 forks and 3 units of burning paste. Very Swiss ;-)",
-       thumbnail: "fondue.jpg",
-       images: ["fondue.jpg", "fondue1.jpg", "fondue2.jpg", "fondue3.jpg"],
-       downloads: []
-     }, 
+    // { name: "Swiss Fondue Dish",
+    //   description: "80 Kina",
+    //   details: "With 6 forks and 3 units of burning paste. Very Swiss ;-)",
+    //   thumbnail: "fondue.jpg",
+    //   images: ["fondue.jpg", "fondue1.jpg", "fondue2.jpg", "fondue3.jpg"],
+    //   downloads: []
+      // sold to Diana Gonzales
+    // }, 
       // product
      //{ name: "Raclette Dish",
      //  description: "60 Kina",
@@ -125,13 +128,14 @@ products = [
        downloads: []
      },
       // product
-     { name: "Wok pan",
-       description: "50 Kina",
-       details: "Wok from Ikea, nice for sweet & sour and curry dishes!",
-       thumbnail: "wok.jpg",
-       images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
-       downloads: []
-     }, 
+     //{ name: "Wok pan",
+     //  description: "50 Kina",
+     //  details: "Wok from Ikea, nice for sweet & sour and curry dishes!",
+     //  thumbnail: "wok.jpg",
+     //  images: ["wok.jpg", "wok2.jpg", "wok3.jpg", "wok4.jpg", "wok5.jpg"],
+     //  downloads: []
+      // sold to Nason Lukio
+     //}, 
 
       
       // product
@@ -152,13 +156,14 @@ products = [
  // sold to Romingers
  //    }, 
       // product
-     { name: "Red Eski",
-       description: "Price: 100 PGK",
-       details: "A small Eski for shopping, etc.",
-       thumbnail: "coolboxred.jpg",
-       images: ["coolboxred.jpg", "coolboxred2.jpg"],
-       downloads: []
-     }, 
+     //{ name: "Red Eski",
+    //   description: "Price: 100 PGK",
+    //   details: "A small Eski for shopping, etc.",
+    //   thumbnail: "coolboxred.jpg",
+    //   images: ["coolboxred.jpg", "coolboxred2.jpg"],
+    //   downloads: []
+      // sold to Cathlyn
+    // }, 
         // product
      { name: "Welding gas Argon",
        description: "Price: 80 PGK",
@@ -193,13 +198,14 @@ products = [
       },
       
       // product
-     { name: "Wheel barrow",
-       description: "Price: 100 PGK",
-       details: "Wheel barrow.",
-       thumbnail: "wheelbarrow.jpg",
-       images: ["wheelbarrow.jpg", "wheelbarrow1.jpg"],
-       downloads: []
-      },
+     //{ name: "Wheel barrow",
+    //   description: "Price: 100 PGK",
+    //   details: "Wheel barrow.",
+    //   thumbnail: "wheelbarrow.jpg",
+    //   images: ["wheelbarrow.jpg", "wheelbarrow1.jpg"],
+    //   downloads: []
+    //  sold to John Ipi
+    //  },
 
       // product
      { name: "3 car wheels",
@@ -299,13 +305,14 @@ products = [
        downloads: []
      },
     // product
-     { name: "Lego Set 60082",
-       description: "Price: 90 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset60082.jpg",
-       images: ["legoset60082.jpg", "legoset60082_1.jpg", "legoset60082_2.jpg", "legoset60082_3.jpg"],
-       downloads: []
-     },
+    // { name: "Lego Set 60082",
+    //   description: "Price: 90 PGK",
+    //   details: "Complete lego set with no missing pieces.",
+    //   thumbnail: "legoset60082.jpg",
+    //   images: ["legoset60082.jpg", "legoset60082_1.jpg", "legoset60082_2.jpg", "legoset60082_3.jpg"],
+    //   downloads: []
+    // sold to Romingers
+     //},
     // product
      { name: "Lego Set 31066",
        description: "Price: 99 PGK",
@@ -411,13 +418,14 @@ products = [
        downloads: []
      },
       // product
-     { name: "Ripstick",
-       description: "Price: 70 PGK",
-       details: "A good ripstick with some scratches. Available end of May.",
-       thumbnail: "ripstick.jpg",
-       images: ["ripstick.jpg"],
-       downloads: []
-     },
+     //{ name: "Ripstick",
+     //  description: "Price: 70 PGK",
+     //  details: "A good ripstick with some scratches. Available end of May.",
+     //  thumbnail: "ripstick.jpg",
+     //  images: ["ripstick.jpg"],
+     //  downloads: []
+      // sold to paas & Symmonds
+     //},
          // product
      { name: "playmobile",
        description: "Price: 200 PGK",
@@ -445,13 +453,14 @@ products = [
     // sold to Romingers
     // },
      // product
-     { name: "Lego police car",
-       description: "Price: 20 PGK",
-       details: "complete set",
-       thumbnail: "Lego Police Car.jpg",
-       images: ["Lego Police Car.jpg"],
-       downloads: []
-      },
+     //{ name: "Lego police car",
+     //  description: "Price: 20 PGK",
+     //  details: "complete set",
+     //  thumbnail: "Lego Police Car.jpg",
+     //  images: ["Lego Police Car.jpg"],
+     //  downloads: []
+      // sold to Damaris Buchs
+     // },
      // product
      { name: "Watergun",
        description: "Price: 15 PGK each",
@@ -478,13 +487,14 @@ products = [
     //   downloads: []
     //  },
       // product
-     { name: "Shelf",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "Shelf3Boys.jpg",
-       images: ["Shelf3Boys.jpg"],
-       downloads: []
-      },
+     //{ name: "Shelf",
+    //   description: "Price: 10 PGK",
+    //   details: "",
+    //   thumbnail: "Shelf3Boys.jpg",
+    //   images: ["Shelf3Boys.jpg"],
+    //   downloads: []
+    // sold to JJ
+    //  },
 
        // product
      //{ name: "Tablett and phone stand",
@@ -496,13 +506,14 @@ products = [
       // sold to Romingers
      //  },
              // product
-     { name: "Playdoe supplies",
-       description: "Price: 20 PGK",
-       details: "Comes with the box.",
-       thumbnail: "playdoe.jpg",
-       images: ["playdoe.jpg"],
-       downloads: []
-      },
+    // { name: "Playdoe supplies",
+    //   description: "Price: 20 PGK",
+    //   details: "Comes with the box.",
+    //   thumbnail: "playdoe.jpg",
+    //   images: ["playdoe.jpg"],
+    //   downloads: []
+    // sold to Damaris Buchs  
+    //  },
       // product
      //{ name: "Waterslide",
      //  description: "Price: 30 PGK",
@@ -560,13 +571,14 @@ products = [
 
 
        // product
-     { name: "Finger puppets",
-       description: "Price: 5 Kina",
-       details: "Ready for the drama.",
-       thumbnail: "puppet.jpg",
-       images: ["puppet.jpg"],
-       downloads: []
-      },
+     //{ name: "Finger puppets",
+     //  description: "Price: 5 Kina",
+     //  details: "Ready for the drama.",
+     //  thumbnail: "puppet.jpg",
+     //  images: ["puppet.jpg"],
+     //  downloads: []
+      // sold to Carlyn B
+     // },
 
        // product
      { name: "1 pillow and 2cases",
@@ -616,13 +628,14 @@ products = [
     //   downloads: []
      //}, 
       // product
-     { name: "Bright lamp ",
-       description: "Price: 10 PGK",
-       details: "Plastic light. Swiss plug",
-       thumbnail: "lamp.jpg",
-       images: ["lamp.jpg", "lamp1.jpg"],
-       downloads: []
-      },
+     //{ name: "Bright lamp ",
+     //  description: "Price: 10 PGK",
+     //  details: "Plastic light. Swiss plug",
+     //  thumbnail: "lamp.jpg",
+     //  images: ["lamp.jpg", "lamp1.jpg"],
+     //  downloads: []
+      // sold to Natasha
+      //},
        // product
      //{ name: "Hairdresser apron",
      //  description: "Price: xx PGK",
@@ -633,21 +646,23 @@ products = [
      // },
        // product
 
-     { name: "Glitter",
-       description: "Price: Free",
-       details: "",
-       thumbnail: "glitter.jpg",
-       images: ["glitter.jpg"],
-       downloads: []
-      },
+     //{ name: "Glitter",
+    //   description: "Price: Free",
+    //   details: "",
+    //   thumbnail: "glitter.jpg",
+    //   images: ["glitter.jpg"],
+    //   downloads: []
+      // sold to JJ
+    //  },
       // product
-     { name: "Blue coolbag",
-       description: "Price: 30 PGK",
-       details: "",
-       thumbnail: "coolbag.jpg",
-       images: ["coolbag.jpg", "coolbag1.jpg"],
-       downloads: []
-      },
+     //{ name: "Blue coolbag",
+    //   description: "Price: 30 PGK",
+    //   details: "",
+    //   thumbnail: "coolbag.jpg",
+    //   images: ["coolbag.jpg", "coolbag1.jpg"],
+    //   downloads: []
+      // sold to Froehlichs
+     // },
       // product
      { name: "Teddy bear",
        description: "Price: 10 PGK",
@@ -658,37 +673,41 @@ products = [
       },
        
       // product
-     { name: "Big white wooden boxes",
-       description: "Price: 20 PGK per box",
-       details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
-       thumbnail: "boxes1.jpg",
-       images: ["boxes1.jpg", "boxes2.jpg"],
-       downloads: []
-      },
+     //{ name: "Big white wooden boxes",
+     //  description: "Price: 20 PGK per box",
+     //  details: "Selfmade wooden boxes, painted white. We used them as toy boxes and fitted under the bed. No lid. We have 3 of them. ",
+     //  thumbnail: "boxes1.jpg",
+     // images: ["boxes1.jpg", "boxes2.jpg"],
+     //  downloads: []
+      // sold to Doreen
+     // },
       // product
-     { name: "Workout mat",
-       description: "Price: 5 PGK",
-       details: "Used, but still does its job.",
-       thumbnail: "workoutmat1.jpg",
-       images: ["workoutmat1.jpg"],
-       downloads: []
-      },
+     //{ name: "Workout mat",
+     //  description: "Price: 5 PGK",
+     //  details: "Used, but still does its job.",
+     //  thumbnail: "workoutmat1.jpg",
+     //  images: ["workoutmat1.jpg"],
+     //  downloads: []
+      // Sold to Cathlyn
+     // },
      // product
-     { name: "Office chair",
-       description: "Price: 100 PGK",
-       details: "Conftable office chair for home office ;-). Available mid May.",
-       thumbnail: "officechair.jpg",
-       images: ["officechair2.jpg", "officechair3.jpg"],
-       downloads: []
-      },
+     //{ name: "Office chair",
+     //  description: "Price: 100 PGK",
+     //   details: "Conftable office chair for home office ;-). Available mid May.",
+     //   thumbnail: "officechair.jpg",
+     //   images: ["officechair2.jpg", "officechair3.jpg"],
+     //   downloads: []
+      // sold to Natasha
+      //},
       // product
-     { name: "Wood chair",
-       description: "Price: 50 PGK",
-       details: "",
-       thumbnail: "woodchair.jpg",
-       images: ["woodchair.jpg","woodchair2.jpg"],
-       downloads: []
-      },
+    // { name: "Wood chair",
+    //   description: "Price: 50 PGK",
+    //   details: "",
+    //   thumbnail: "woodchair.jpg",
+    //   images: ["woodchair.jpg","woodchair2.jpg"],
+    //   downloads: []
+    //  sold to christie 
+    //  },
     // product
     // { name: "White Shelf",
     //   description: "Price: 120 PGK",
@@ -699,31 +718,34 @@ products = [
     //  sold to Sissons  
     //  },
       // product
-     { name: "Shelf brown",
-       description: "Price: 100 PGK each",
-       details: "2 avaiable, 175x80x30cm",
-       thumbnail: "ShelfBoys1.jpg",
-       images: ["ShelfBoys1.jpg", "ShelfBoys2.jpg", "ShelfBoys3.jpg"],
-       downloads: []
-      },
+     //{ name: "Shelf brown",
+    //   description: "Price: 100 PGK each",
+    //   details: "2 avaiable, 175x80x30cm",
+    //   thumbnail: "ShelfBoys1.jpg",
+    //   images: ["ShelfBoys1.jpg", "ShelfBoys2.jpg", "ShelfBoys3.jpg"],
+    //   downloads: []
+      // sold to JJ & Simeon
+    //  },
       // product
-     { name: "Shelf brown 2",
-       description: "Price: 100 PGK",
-       details: "175x60x30cm",
-       thumbnail: "Shelf2Boys.jpg",
-       images: ["Shelf2Boys.jpg"],
-       downloads: []
-      },
+    // { name: "Shelf brown 2",
+    //   description: "Price: 100 PGK",
+    //   details: "175x60x30cm",
+    //   thumbnail: "Shelf2Boys.jpg",
+    //   images: ["Shelf2Boys.jpg"],
+    //   downloads: []
+      // sold to Nason Lukio
+    //  },
       
       
       // product
-     { name: "Water filter",
-       description: "Price: 80 PGK",
-       details: "Katadyn water filter buckets without filter elements.",
-       thumbnail: "waterfilter.jpg",
-       images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
-       downloads: []
-      },
+     //{ name: "Water filter",
+     //  description: "Price: 80 PGK",
+     //  details: "Katadyn water filter buckets without filter elements.",
+     //  thumbnail: "waterfilter.jpg",
+     //  images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
+     //  downloads: []
+      // sold to Christie?
+     // },
        // product
      { name: "Weights",
        description: "Price: 30 PGK",
@@ -870,14 +892,15 @@ products = [
        images: ["childrensewingmaschine1.jpg"],
        downloads: []
       },
-           // product
-     { name: "Moskitto nets",
-       description: "Price: 10 PGK each",
-       details: "Several new moskitto nets.",
-       thumbnail: "moskittonets.jpg",
-       images: ["moskittonets.jpg"],
-       downloads: []
-      },
+     // product
+     //{ name: "Moskitto nets",
+     //  description: "Price: 10 PGK each",
+     //  details: "Several new moskitto nets.",
+     //  thumbnail: "moskittonets.jpg",
+      // images: ["moskittonets.jpg"],
+      // downloads: []
+// sold to 2x Froehlich, 1x Carolyn
+     // },
 
       
      // product
@@ -909,13 +932,14 @@ products = [
      // },
       
      // product
-     { name: "Boxes",
-       description: "Price: 5 PGK each",
-       details: "Foldable cardboard boxes, two red and two black",
-       thumbnail: "Boxes.jpg",
-       images: ["Boxes.jpg"],
-       downloads: []
-      },
+     //{ name: "Boxes",
+    //   description: "Price: 5 PGK each",
+    //   details: "Foldable cardboard boxes, two red and two black",
+    //   thumbnail: "Boxes.jpg",
+    //   images: ["Boxes.jpg"],
+    //   downloads: []
+      // 2x sold to Nason Lukio, 2x sold to Carolyn
+    //  },
       
      // product
    //  { name: "Candle stand",
@@ -1041,23 +1065,24 @@ products = [
       },
       
           // product
-     { name: "Roll of black board paper",
-       description: "Price: 5 PGK",
-       details: "To stick on the wall or door",
-       thumbnail: "Roll of Blackboard Paper.jpg",
-       images: ["Roll of Blackboard Paper.jpg", "Roll of Blackboard Paper2.jpg"],
-       downloads: []
-      },
+    // { name: "Roll of black board paper",
+    //   description: "Price: 5 PGK",
+    //   details: "To stick on the wall or door",
+    //   thumbnail: "Roll of Blackboard Paper.jpg",
+    //   images: ["Roll of Blackboard Paper.jpg", "Roll of Blackboard Paper2.jpg"],
+    //   downloads: []
+      // sold to Froehlichs
+    //  },
       
     // product
-    { name: "Singer Sewing machine",
-       description: "Price: 300 PGK",
-       details: "Only 4 years old, runs very well. Bought at Brian Bell",
-       thumbnail: "Sewing Machine.jpg",
-       images: ["Sewing Machine.jpg"],
-       downloads: []
+    //{ name: "Singer Sewing machine",
+    //   description: "Price: 300 PGK",
+    //   details: "Only 4 years old, runs very well. Bought at Brian Bell",
+    //   thumbnail: "Sewing Machine.jpg",
+    //   images: ["Sewing Machine.jpg"],
+    //   downloads: []
       //sold to Sissons  
-      }, 
+    //  }, 
       
                      // product
      { name: "Small mirrors",
@@ -1094,13 +1119,14 @@ products = [
        downloads: []
       },
       // product
-     { name: "Beads for art crafts",
-       description: "Price: 5 Kina",
-       details: "",
-       thumbnail: "beads.jpg",
-       images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
-       downloads: []
-       },
+     //{ name: "Beads for art crafts",
+     //  description: "Price: 5 Kina",
+     //  details: "",
+     //  thumbnail: "beads.jpg",
+     //  images: ["beads.jpg", "beads1.jpg", "beads2.jpg"],
+     //  downloads: []
+// sold to Froehlichs
+     //  },
      // product
      { name: "Playmobil Preschool",
        description: "Price: 40 Kina",
@@ -1167,13 +1193,14 @@ products = [
     //  sold to Symonds
     //   },
       // product
-     { name: "Dog Nail Clippers",
-       description: "Price: 5 Kina",
-       details: "",
-       thumbnail: "Dog Nail Clippers.jpg",
-       images: ["Dog Nail Clippers.jpg"],
-       downloads: []
-       },
+     //{ name: "Dog Nail Clippers",
+     //  description: "Price: 5 Kina",
+     //  details: "",
+     //  thumbnail: "Dog Nail Clippers.jpg",
+     //  images: ["Dog Nail Clippers.jpg"],
+     //  downloads: []
+      // sold to Froehlichs
+     //  },
             // product
      { name: "Thermo Bottle",
        description: "Price: 5 Kina",
@@ -1200,13 +1227,14 @@ products = [
        downloads: []
       },
                         // product
-     { name: "Bird cage",
-       description: "10 Kina",
-       details: "Bird cage with chicken wire on all 4 sides.",
-       thumbnail: "birdcage.jpg",
-       images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
-       downloads: []
-      },
+     //{ name: "Bird cage",
+    //   description: "10 Kina",
+    //   details: "Bird cage with chicken wire on all 4 sides.",
+    //   thumbnail: "birdcage.jpg",
+    //   images: ["birdcage.jpg", "birdcage1.jpg", "birdcage2.jpg", "birdcage3.jpg"],
+    //   downloads: []
+      // sold to JJ
+    //  },
                   // product
      //{ name: "Goals",
      //  description: "40 Kina",
@@ -1225,13 +1253,14 @@ products = [
        downloads: []
      },
      // product
-     { name: "Corner Shelf",
-       description: "Price: 50 PGK",
-       details: "Heigh: 1 Meter ",
-       thumbnail: "Corner Shelf.jpg",
-       images: ["Corner Shelf.jpg","Corner Shelf 2.jpg"],
-       downloads: []
-     },
+     //{ name: "Corner Shelf",
+     //  description: "Price: 50 PGK",
+     //   details: "Heigh: 1 Meter ",
+     //   thumbnail: "Corner Shelf.jpg",
+     //   images: ["Corner Shelf.jpg","Corner Shelf 2.jpg"],
+     //   downloads: []
+      // sold to Natasha
+    //},
   // product
      { name: "Jewelry",
        description: "Price: Free",
