@@ -140,7 +140,7 @@ products = [
       
       // product
         { name: "Partylights",
-       description: "40 Kina",
+       description: "20 Kina",
        details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
        thumbnail: "partylights1.jpg",
        images: ["partylights1.jpg","partylights2.jpg"],
