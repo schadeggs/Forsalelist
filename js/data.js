@@ -1056,13 +1056,14 @@ products = [
     //  },
       
     // product
-     { name: "Pot",
-       description: "Price: 60 PGK",
-       details: "",
-       thumbnail: "Pot1.jpg",
-       images: ["Pot1.jpg", "Pot2.jpg", "Pot3.jpg"],
-       downloads: []
-      },
+    //{ name: "Pot",
+    //   description: "Price: 60 PGK",
+    //   details: "",
+    //   thumbnail: "Pot1.jpg",
+    //   images: ["Pot1.jpg", "Pot2.jpg", "Pot3.jpg"],
+    //   downloads: []
+// purchased by Nason Lukio, pays in May once he gets pot
+    //  },
       
           // product
     // { name: "Roll of black board paper",
