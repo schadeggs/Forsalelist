@@ -1007,14 +1007,15 @@ products = [
      //  downloads: []
      // },
       
-     // product
-     { name: "Box of Duplo",
-       description: "Price: 150 PGK",
-       details: "",
-       thumbnail: "Duplo.jpg",
-       images: ["Duplo.jpg"],
-       downloads: []
-      },
+    // product
+    // { name: "Box of Duplo",
+    //   description: "Price: 150 PGK",
+    //   details: "",
+    //   thumbnail: "Duplo.jpg",
+    //   images: ["Duplo.jpg"],
+    //   downloads: []
+    // sold to Kurt's
+    //  },
       
      // product
      { name: "Bosch mixer",
@@ -1095,13 +1096,14 @@ products = [
       }, 
       
      // product
-     { name: "Square mirror",
-       description: "Price: 5 PGK",
-       details: "30x30cm",
-       thumbnail: "Square Mirror 1.jpg",
-       images: ["Square Mirror 1.jpg","Square Mirror back.jpg"],
-       downloads: []
-      }, 
+     //{ name: "Square mirror",
+     //  description: "Price: 5 PGK",
+     //  details: "30x30cm",
+     //  thumbnail: "Square Mirror 1.jpg",
+     //  images: ["Square Mirror 1.jpg","Square Mirror back.jpg"],
+     //  downloads: []
+// sold to Nich
+     // }, 
       
            // product
      { name: "Wall picture",
@@ -1112,13 +1114,14 @@ products = [
        downloads: []
       }, 
              // product
-     { name: "Small blue boxes",
-       description: "Price: small K5 each, K10 each PGK",
-       details: "",
-       thumbnail: "boxesblue1.jpg",
-       images: ["boxesblue1.jpg", "boxesblue2.jpg"],
-       downloads: []
-      },
+     //{ name: "Small blue boxes",
+     //  description: "Price: small K5 each, K10 each PGK",
+     //  details: "",
+     //  thumbnail: "boxesblue1.jpg",
+     //  images: ["boxesblue1.jpg", "boxesblue2.jpg"],
+     //  downloads: []
+     // 
+     // },
       // product
      //{ name: "Beads for art crafts",
      //  description: "Price: 5 Kina",
@@ -1137,13 +1140,14 @@ products = [
        downloads: []
        },
            // product
-     { name: "Board Game",
-       description: "Price: 25 Kina",
-       details: "",
-       thumbnail: "Board Game.jpg",
-       images: ["Board Game.jpg"],
-       downloads: []
-       },
+     //{ name: "Board Game",
+     //  description: "Price: 25 Kina",
+     //  details: "",
+     //  thumbnail: "Board Game.jpg",
+     //  images: ["Board Game.jpg"],
+     //  downloads: []
+      // sold to Kurts
+     //  },
            // product
      { name: "Monopoly Junior",
        description: "Price: 20 Kina",
@@ -1263,13 +1267,14 @@ products = [
       // sold to Natasha
     //},
   // product
-     { name: "Jewelry",
-       description: "Price: Free",
-       details: "diffrent Jewelry, some new some used",
-       thumbnail: "Jewelry.jpg",
-       images: ["Jewelry.jpg"],
-       downloads: []
-     },
+  //   { name: "Jewelry",
+    //   description: "Price: Free",
+    //   details: "diffrent Jewelry, some new some used",
+    //   thumbnail: "Jewelry.jpg",
+    //   images: ["Jewelry.jpg"],
+    //   downloads: []
+// given to MAF Tech staff
+     //},
         // product
      //{ name: "Basket ball",
     //   description: "Price: 40 Kina",
