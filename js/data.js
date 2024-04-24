@@ -11,7 +11,7 @@ products = [
   [
     // product
      { name: "26 inch Bike Trek",
-       description: "Price: 1000 AUS$",
+       description: "Price: 650 US$",
        details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (EU 43) & spare tire",
        thumbnail: "track1.jpg",
        images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg", "kite3.jpg"],
@@ -27,7 +27,7 @@ products = [
      //},
       // product
      { name: "Bike Apollo Summit",
-       description: "Price: 200 AUS$",
+       description: "Price: 130 US$",
        details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
       thumbnail: "apollo2.jpg",
        images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
@@ -62,7 +62,7 @@ products = [
       
       // product
     { name: "Work bench",
-       description: "400 AUS$",
+       description: "260 US$",
        details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
        thumbnail: "workbench.jpg",
        images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg"],
@@ -71,7 +71,7 @@ products = [
      
       // product
     { name: "Projector screen",
-       description: "600 Kina",
+       description: "160 US$",
        details: "Pull down movie screen. Great for watching movies with beemer. Size:120cm x 200cm, Brand: Nobo, Colour: light gray",
        thumbnail: "projectorscreen.jpg",
        images: ["projectorscreen.jpg", "projectorscreen1.jpg"],
@@ -225,16 +225,17 @@ products = [
        downloads: []
       },
        // product
-     { name: "2 x EBC Cupboards",
-       description: "500 Kina (each)",
-       details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available by middle of May.",
-       thumbnail: "cupboard.jpg",
-       images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
-       downloads: []
-     }, 
+     //{ name: "2 x EBC Cupboards",
+     //  description: "500 Kina (each)",
+     //  details: "EBC built. With lock and key. Very good condition. Size: 200cm x 93cm x 55cm. Preview picture is from cataloge (not original). Can be inspected at Goroka. Available by middle of May.",
+     //  thumbnail: "cupboard.jpg",
+     //  images: ["cupboard.jpg", "cupboard1.jpg", "cupboard2.jpg"],
+     //  downloads: []
+      // sold to Simeon & Justina
+     //}, 
        // product
        { name: "Dive gear",
-       description: "Make a cheap offer",
+       description: "For free",
        details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
        thumbnail: "divegear.jpg",
        images: ["divegear.jpg"],
@@ -1089,14 +1090,15 @@ products = [
       //sold to Sissons  
     //  }, 
       
-                     // product
-     { name: "Small mirrors",
-       description: "Price: 5 PGK",
-       details: "",
-       thumbnail: "Small Mirrors.jpg",
-       images: ["Small Mirrors.jpg"],
-       downloads: []
-      }, 
+     // product
+     //{ name: "Small mirrors",
+     //  description: "Price: 5 PGK",
+     // details: "",
+     //  thumbnail: "Small Mirrors.jpg",
+     //  images: ["Small Mirrors.jpg"],
+     //  downloads: []
+     // sold to Lynn
+     // }, 
       
      // product
      //{ name: "Square mirror",
@@ -1159,14 +1161,7 @@ products = [
        images: ["Monopoly Junior.jpg"],
        downloads: []
        },
-      // product
-     { name: "Pick up sticks",
-       description: "Price: 15 Kina",
-       details: "",
-       thumbnail: "Pick up Sticks.jpg",
-       images: ["Pick up Sticks.jpg"],
-       downloads: []
-       },
+
       // product
      { name: "Game Rummy",
        description: "Price: 15 Kina",
@@ -1227,14 +1222,7 @@ products = [
      //  downloads: []
      // sold to Symmonds, free
      //}, 
-     // product
-     { name: "Playmobil Scooter",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "girlscooter1.jpg",
-       images: ["girlscooter1.jpg"],
-       downloads: []
-      },
+
                         // product
      //{ name: "Bird cage",
     //   description: "10 Kina",
@@ -1253,7 +1241,46 @@ products = [
      //  downloads: []
      // sold to Sissons
      // },
-                   // product
+
+      
+     // product
+     { name: "Kids backpack",
+       description: "Price: 20 PGK",
+       details: "Small Deuter backpack, about 8l",
+       thumbnail: "deuter.jpg",
+       images: ["deuter.jpg", "deuter2.jpg", "deuter3.jpg"],
+       downloads: []
+     },
+      
+     // product
+     { name: "Lunch box",
+       description: "Price: 20 PGK",
+       details: "Brand new lunch box",
+       thumbnail: "lunchbox.jpg",
+       images: ["lunchbox.jpg", "lunchbox2.jpg"],
+       downloads: []
+     },
+      
+            // product
+     { name: "Pick up sticks",
+       description: "Price: 15 Kina",
+       details: "",
+       thumbnail: "Pick up Sticks.jpg",
+       images: ["Pick up Sticks.jpg"],
+       downloads: []
+       },
+      
+     // product
+     { name: "Barbies",
+       description: "Price: 30 PGK",
+       details: "Brand new lunch box",
+       thumbnail: "barby.jpg",
+       images: ["barby.jpg"],
+       downloads: []
+     },
+      
+      
+      // product
      { name: "Badminton set",
        description: "Price: 20 PGK",
        details: "Several racquets. Like on the picture.",
@@ -1261,6 +1288,16 @@ products = [
        images: ["badminton.jpg"],
        downloads: []
      },
+      
+           // product
+     { name: "Playmobil Scooter",
+       description: "Price: 10 PGK",
+       details: "",
+       thumbnail: "girlscooter1.jpg",
+       images: ["girlscooter1.jpg"],
+       downloads: []
+      },
+      
      // product
      //{ name: "Corner Shelf",
      //  description: "Price: 50 PGK",
