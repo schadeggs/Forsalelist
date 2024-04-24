@@ -79,7 +79,7 @@ products = [
      }, 
      // product
      { name: "6 x 19inch screens",
-       description: "80 Kina (each)",
+       description: "50 Kina (each)",
        details: "Never used computer screens, some in original packing. HP LA1951g, 19inch with VGA and HDMI port, with HDMI & USB cable, Swiss power cable available (MAF Tech sells AUS power cables)",
        thumbnail: "screen.jpg",
        images: ["screen.jpg", "screen1.jpg","screen2.jpg","screen3.jpg","screen4.jpg"],
