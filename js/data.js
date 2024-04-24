@@ -256,22 +256,24 @@ products = [
     //   images: ["tennisrackets1.jpg", "tennisrackets2.jpg"],
     //   downloads: []
     // },
-      // product
-     { name: "Lego Set 60135",
-       description: "Price: 20 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset60135.jpg",
-       images: ["legoset60135.jpg", "legoset60135_1.jpg", "legoset60135_2.jpg", "legoset60135_3.jpg" ],
-       downloads: []
-     },
+    // product
+    // { name: "Lego Set 60135",
+    // description: "Price: 20 PGK",
+    // details: "Complete lego set with no missing pieces.",
+    // thumbnail: "legoset60135.jpg",
+    // images: ["legoset60135.jpg", "legoset60135_1.jpg", "legoset60135_2.jpg", "legoset60135_3.jpg" ],
+    // downloads: []
+    //Sold to Diana
+    //},
      // product
-     { name: "Lego Set 31040",
-       description: "Price: 20 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset31040.jpg",
-       images: ["legoset31040.jpg", "legoset31040_1.jpg", "legoset31040_2.jpg", "legoset31040_3.jpg" ],
-       downloads: []
-     },
+     // { name: "Lego Set 31040",
+     // description: "Price: 20 PGK",
+     // details: "Complete lego set with no missing pieces.",
+     // thumbnail: "legoset31040.jpg",
+     // images: ["legoset31040.jpg", "legoset31040_1.jpg", "legoset31040_2.jpg", "legoset31040_3.jpg" ],
+     // downloads: []
+     // Sold to Diana
+     //},
      // product
      { name: "Lego Set 60077",
        description: "Price: 40 PGK",
@@ -314,13 +316,14 @@ products = [
     // sold to Romingers
      //},
     // product
-     { name: "Lego Set 31066",
-       description: "Price: 99 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset31066.jpg",
-       images: ["legoset31066.jpg", "legoset31066_1.jpg", "legoset31066_2.jpg", "legoset31066_3.jpg"],
-       downloads: []
-     },
+    //{ name: "Lego Set 31066",
+    //   description: "Price: 99 PGK",
+    //  details: "Complete lego set with no missing pieces.",
+    //   thumbnail: "legoset31066.jpg",
+    //   images: ["legoset31066.jpg", "legoset31066_1.jpg", "legoset31066_2.jpg", "legoset31066_3.jpg"],
+    //  downloads: []
+    // Sold to Diana
+     //},
     // product
     // { name: "nerfgun superdrum",
      //  description: "Price: 40 PGK",
@@ -1207,13 +1210,14 @@ products = [
       // sold to Froehlichs
      //  },
             // product
-     { name: "Thermo Bottle",
-       description: "Price: 5 Kina",
-       details: "1.8 Liter. Lid has a small bump",
-       thumbnail: "Thermo Bottle.jpg",
-       images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
-       downloads: []
-       },
+     //{ name: "Thermo Bottle",
+     // description: "Price: 5 Kina",
+     // details: "1.8 Liter. Lid has a small bump",
+     // thumbnail: "Thermo Bottle.jpg",
+     // images: ["Thermo Bottle.jpg", "Thermo Bottle2.jpg"],
+     // downloads: []
+     // Sold to Cathline
+     // },
                  // product
      //{ name: "Bow & arrows",
      //  description: "Make a cheap offer",
