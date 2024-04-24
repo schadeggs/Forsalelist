@@ -704,14 +704,14 @@ products = [
       // sold to Natasha
       //},
       // product
-    // { name: "Wood chair",
-    //   description: "Price: 50 PGK",
-    //   details: "",
-    //   thumbnail: "woodchair.jpg",
-    //   images: ["woodchair.jpg","woodchair2.jpg"],
-    //   downloads: []
+     { name: "Wood chair",
+       description: "Price: 50 PGK",
+       details: "",
+       thumbnail: "woodchair.jpg",
+       images: ["woodchair.jpg","woodchair2.jpg"],
+       downloads: []
     //  sold to christie 
-    //  },
+      },
     // product
     // { name: "White Shelf",
     //   description: "Price: 120 PGK",
@@ -742,14 +742,14 @@ products = [
       
       
       // product
-     //{ name: "Water filter",
-     //  description: "Price: 80 PGK",
-     //  details: "Katadyn water filter buckets without filter elements.",
-     //  thumbnail: "waterfilter.jpg",
-     //  images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
-     //  downloads: []
+     { name: "Water filter",
+       description: "Price: 80 PGK",
+       details: "Katadyn water filter buckets without filter elements.",
+       thumbnail: "waterfilter.jpg",
+       images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
+       downloads: []
       // sold to Christie?
-     // },
+      },
        // product
      { name: "Weights",
        description: "Price: 30 PGK",
