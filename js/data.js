@@ -87,7 +87,7 @@ products = [
      },
      // product
      { name: "60x60 wall mirror",
-       description: "50 Kina",
+       description: "40 Kina",
        details: "New mirror, complete with mounting",
        thumbnail: "mirror.jpg",
        images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
@@ -778,7 +778,7 @@ products = [
       },
             // product
      { name: "Playmobil children hospital room",
-       description: "Price: 45 PGK",
+       description: "Price: 35 PGK",
        details: "",
        thumbnail: "hospitalroom1.jpg",
        images: ["hospitalroom1.jpg", "hospitalroom2.jpg"],
@@ -786,7 +786,7 @@ products = [
       },
                   // product
      { name: "Playmobil ambulance car",
-       description: "Price: 130 PGK",
+       description: "Price: 120 PGK",
        details: "",
        thumbnail: "ambulance3.jpg",
        images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
@@ -794,7 +794,7 @@ products = [
       },
            // product
      { name: "Playmobil royal carriage",
-       description: "Price: 50 PGK",
+       description: "Price: 45 PGK",
        details: "",
        thumbnail: "royalcarriage2.jpg",
        images: ["royalcarriage2.jpg"],
@@ -854,7 +854,7 @@ products = [
       },
      // product
      { name: "Playmobil dentist",
-       description: "Price: 45 PGK",
+       description: "Price: 35 PGK",
        details: "",
        thumbnail: "Dentist1.jpg",
        images: ["Dentist1.jpg"],
@@ -890,7 +890,7 @@ products = [
 
             // product
      { name: "Children sewing maschine",
-       description: "Price: 90 PGK",
+       description: "Price: 80 PGK",
        details: "runs with battaries",
        thumbnail: "childrensewingmaschine1.jpg",
        images: ["childrensewingmaschine1.jpg"],
@@ -909,7 +909,7 @@ products = [
       
      // product
      { name: "Big bowl",
-       description: "Price: 30 PGK",
+       description: "Price: 20 PGK",
        details: "28cm diameter",
        thumbnail: "Big Bowl.jpg",
        images: ["Big Bowl.jpg"],
@@ -1245,7 +1245,7 @@ products = [
       
      // product
      { name: "Kids backpack",
-       description: "Price: 20 PGK",
+       description: "Price: 15 PGK",
        details: "Small Deuter backpack, about 8l",
        thumbnail: "deuter.jpg",
        images: ["deuter.jpg", "deuter2.jpg", "deuter3.jpg"],
@@ -1254,7 +1254,7 @@ products = [
       
      // product
      { name: "Lunch box",
-       description: "Price: 20 PGK",
+       description: "Price: 15 PGK",
        details: "Brand new lunch box",
        thumbnail: "lunchbox.jpg",
        images: ["lunchbox.jpg", "lunchbox2.jpg"],
