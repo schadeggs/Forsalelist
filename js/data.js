@@ -26,13 +26,14 @@ products = [
      //  downloads: []
      //},
       // product
-     { name: "Bike Apollo Summit",
-       description: "Price: 130 US$",
-       details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
-      thumbnail: "apollo2.jpg",
-       images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
-       downloads: []
-     },
+     //{ name: "Bike Apollo Summit",
+     //  description: "Price: 130 US$",
+     //  details: "M 17.5/6061, alluminium frame, front suspension, 24 gears",
+     // thumbnail: "apollo2.jpg",
+     //  images: ["apollo1.jpg", "apollo2.jpg", "apollo3.jpg", "apollo4.jpg", "apollo5.jpg", "apollo7.jpg", "apollo8.jpg", "apollo9.jpg" ],
+     //  downloads: []
+      // sold to Taylor Goheen 
+     //},
        // product
      //{ name: "Nitro bike",
     //   description: "Price: 120 AUS$",
@@ -61,13 +62,14 @@ products = [
      //},
       
       // product
-    { name: "Work bench",
-       description: "260 US$",
-       details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
-       thumbnail: "workbench.jpg",
-       images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg"],
-       downloads: []
-     }, 
+   // { name: "Work bench",
+   //    description: "260 US$",
+   //    details: "Very nice and solid built work bench. Good condition. With two drawers and a top cover (about 3mm)",
+   //    thumbnail: "workbench.jpg",
+   //    images: ["workbench.jpg", "workbench1.jpg","workbench2.jpg","workbench3.jpg","workbench4.jpg","workbench5.jpg","workbench6.jpg","workbench7.jpg","workbench8.jpg"],
+   //   downloads: []
+   //   sodl to Andrew Smith      
+   //  }, 
      
       // product
     { name: "Projector screen",
@@ -112,13 +114,14 @@ products = [
      //  Taken by Julian & Joy
      //}, 
       // product
-     { name: "Pressure Cooker",
-       description: "100 Kina",
-       details: "6l pressure cooker. Stainless steel.Avaiable mid May",
-       thumbnail: "pressurecooker.jpg",
-       images: ["pressurecooker.jpg", "pressurecooker1.jpg", "pressurecooker2.jpg", "pressurecooker3.jpg", "pressurecooker4.jpg", "pressurecooker5.jpg"],
-       downloads: []
-     },
+    // { name: "Pressure Cooker",
+    //   description: "100 Kina",
+    //   details: "6l pressure cooker. Stainless steel.Avaiable mid May",
+    //   thumbnail: "pressurecooker.jpg",
+    //   images: ["pressurecooker.jpg", "pressurecooker1.jpg", "pressurecooker2.jpg", "pressurecooker3.jpg", "pressurecooker4.jpg", "pressurecooker5.jpg"],
+    //   downloads: []
+      // Lili Poulsen
+    // },
       // product
      { name: "Passuit",
        description: "10 Kina",
@@ -139,13 +142,14 @@ products = [
 
       
       // product
-        { name: "Partylights",
-       description: "20 Kina",
-       details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
-       thumbnail: "partylights1.jpg",
-       images: ["partylights1.jpg","partylights2.jpg"],
-       downloads: []
-     },
+    //    { name: "Partylights",
+    //   description: "20 Kina",
+    //   details: "10 LED bulbs in red, blue, green and yellow. 240V, Swiss plug",
+    //   thumbnail: "partylights1.jpg",
+    //   images: ["partylights1.jpg","partylights2.jpg"],
+    //   downloads: []
+    // sold to Joanie Bowers
+    // },
 // product
  //    { name: "Blue Eski",
  //      description: "Price: 300 PGK",
@@ -181,13 +185,14 @@ products = [
        downloads: []
      }, 
       // product
-     { name: "Snatch strap",
-       description: "Price: 80 PGK",
-       details: "Snatch strap for car recovery. New, never used.",
-       thumbnail: "snatchstrap1.jpg",
-       images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
-       downloads: []
-     }, 
+    // { name: "Snatch strap",
+    //   description: "Price: 80 PGK",
+    //   details: "Snatch strap for car recovery. New, never used.",
+    //   thumbnail: "snatchstrap1.jpg",
+    //   images: ["snatchstrap1.jpg", "snatchstrap2.jpg"],
+    //   downloads: []
+    // sold to Levi Lenz  
+    // }, 
              // product
      { name: "Watershoes",
        description: "Price: 10 PGK",
@@ -234,13 +239,14 @@ products = [
       // sold to Simeon & Justina
      //}, 
        // product
-       { name: "Dive gear",
-       description: "For free",
-       details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
-       thumbnail: "divegear.jpg",
-       images: ["divegear.jpg"],
-       downloads: []
-     },
+     //  { name: "Dive gear",
+    //   description: "For free",
+    //   details: "BCD, Sunto dive computer, regulators, weights. Regulators would need some maintenance",
+    //   thumbnail: "divegear.jpg",
+    //   images: ["divegear.jpg"],
+    //   downloads: []
+    //   sold to Andrew Smith  
+     //},
            // product
       { name: "Neopren",
        description: "For free",
@@ -276,37 +282,41 @@ products = [
      // Sold to Diana
      //},
      // product
-     { name: "Lego Set 60077",
-       description: "Price: 40 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset60077.jpg",
-       images: ["legoset60077.jpg", "legoset60077_1.jpg", "legoset60077_2.jpg", "legoset60077_3.jpg" ],
-       downloads: []
-     },
+     //{ name: "Lego Set 60077",
+     //  description: "Price: 40 PGK",
+     //  details: "Complete lego set with no missing pieces.",
+     //  thumbnail: "legoset60077.jpg",
+     //  images: ["legoset60077.jpg", "legoset60077_1.jpg", "legoset60077_2.jpg", "legoset60077_3.jpg" ],
+     //  downloads: []
+    //  Cory Rowley
+     //},
      // product
-     { name: "Lego Set 31072",
-       description: "Price: 45 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset31072.jpg",
-       images: ["legoset31072.jpg", "legoset31072_1.jpg", "legoset31072_2.jpg", "legoset31072_3.jpg"],
-       downloads: []
-     },
+     //{ name: "Lego Set 31072",
+    //   description: "Price: 45 PGK",
+    //   details: "Complete lego set with no missing pieces.",
+    //   thumbnail: "legoset31072.jpg",
+    //   images: ["legoset31072.jpg", "legoset31072_1.jpg", "legoset31072_2.jpg", "legoset31072_3.jpg"],
+    //   downloads: []
+      // sold to Cory Rowley
+     //},
      // product
-     { name: "Lego Set 31071",
-       description: "Price: 45 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset31071.jpg",
-       images: ["legoset31071.jpg", "legoset31071_1.jpg", "legoset31071_2.jpg", "legoset31071_3.jpg"],
-       downloads: []
-     },
+     //{ name: "Lego Set 31071",
+     //  description: "Price: 45 PGK",
+     //  details: "Complete lego set with no missing pieces.",
+     //  thumbnail: "legoset31071.jpg",
+     //  images: ["legoset31071.jpg", "legoset31071_1.jpg", "legoset31071_2.jpg", "legoset31071_3.jpg"],
+     //  downloads: []
+      // sold to Lili Poulsen
+     //},
     // product
-     { name: "Lego Set 60122",
-       description: "Price: 115 PGK",
-       details: "Complete lego set with no missing pieces.",
-       thumbnail: "legoset60122.jpg",
-       images: ["legoset60122.jpg", "legoset60122_1.jpg", "legoset60122_2.jpg", "legoset60122_3.jpg"],
-       downloads: []
-     },
+    // { name: "Lego Set 60122",
+    //   description: "Price: 115 PGK",
+    //   details: "Complete lego set with no missing pieces.",
+    //   thumbnail: "legoset60122.jpg",
+    //   images: ["legoset60122.jpg", "legoset60122_1.jpg", "legoset60122_2.jpg", "legoset60122_3.jpg"],
+    //   downloads: []
+    // sold to Cory Rowley  
+    // },
     // product
     // { name: "Lego Set 60082",
     //   description: "Price: 90 PGK",
@@ -334,13 +344,14 @@ products = [
     //   downloads: []
     // },
     // product
-     { name: "nerfgun strongarm",
-       description: "Price: 20 PGK",
-       details: "Nerf gun with 6 nerf darts.",
-       thumbnail: "elitestrongarm.jpg",
-       images: ["elitestrongarm.jpg", "elitestrongarm_1.jpg"],
-       downloads: []
-     },
+    // { name: "nerfgun strongarm",
+    //   description: "Price: 20 PGK",
+    //   details: "Nerf gun with 6 nerf darts.",
+    //   thumbnail: "elitestrongarm.jpg",
+    //   images: ["elitestrongarm.jpg", "elitestrongarm_1.jpg"],
+    //   downloads: []
+      // sold to Lili Poulsen
+    // },
      // product
      { name: "nerfgun Maverick",
        description: "Price: 20 PGK",
@@ -406,13 +417,14 @@ products = [
        downloads: []
      },
       // product
-     { name: "Toy vehicles",
-       description: "Price: 35 PGK",
-       details: "Small toy cars,planes, helicopters, trucks and other vehicles.",
-       thumbnail: "toycars.jpg",
-       images: ["toycars.jpg", "toycars_1.jpg", "toycars_2.jpg", "toycars_3.jpg", "toycars_4.jpg", "toycars_5.jpg", "toycars_6.jpg", "toycars_7.jpg"],
-       downloads: []
-     }, 
+     //{ name: "Toy vehicles",
+     //  description: "Price: 35 PGK",
+     //  details: "Small toy cars,planes, helicopters, trucks and other vehicles.",
+     //  thumbnail: "toycars.jpg",
+     //  images: ["toycars.jpg", "toycars_1.jpg", "toycars_2.jpg", "toycars_3.jpg", "toycars_4.jpg", "toycars_5.jpg", "toycars_6.jpg", "toycars_7.jpg"],
+     //  downloads: []
+      // sold to Christine Hull
+     //}, 
       // product
      { name: "Jig saw set",
        description: "Price: 20 PGK",
@@ -431,13 +443,14 @@ products = [
       // sold to paas & Symmonds
      //},
          // product
-     { name: "playmobile",
-       description: "Price: 200 PGK",
-       details:"One box of playmobile. No complete sets.",
-       thumbnail: "playmobile.jpg",
-       images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
-       downloads: []
-     }, 
+    // { name: "playmobile",
+    //   description: "Price: 200 PGK",
+    //   details:"One box of playmobile. No complete sets.",
+    //   thumbnail: "playmobile.jpg",
+    //   images: ["playmobile.jpg", "playmobile_1.jpg", "playmobile_2.jpg", "playmobile_3.jpg", "playmobile_4.jpg", "playmobile_5.jpg", "playmobile_6.jpg", "playmobile_7.jpg", "playmobile_8.jpg", "playmobile_9.jpg", "playmobile_10.jpg", "playmobile_11.jpg", "playmobile_12.jpg", "playmobile_13.jpg", "playmobile_14.jpg", "playmobile_15.jpg"],
+    //   downloads: []
+      // sold to Tessa Blackstad
+     //}, 
       
        // product
      { name: "Remote Control truck",
@@ -466,21 +479,23 @@ products = [
       // sold to Damaris Buchs
      // },
      // product
-     { name: "Watergun",
-       description: "Price: 15 PGK each",
-       details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
-       thumbnail: "watergun.jpg",
-       images: ["watergun.jpg"],
-       downloads: []
-      },
+    //{ name: "Watergun",
+    //   description: "Price: 15 PGK each",
+    //   details: "Two water guns for a lot of fun in the back yard for kids and parents! Sold separatly.",
+     //  thumbnail: "watergun.jpg",
+     //  images: ["watergun.jpg"],
+     //  downloads: []
+      // sold to Coryn Bloye
+     // },
            // product
-     { name: "Wool",
-       description: "5 PGK",
-       details: "Several wools like shown on the picture.",
-       thumbnail: "wool.jpg",
-       images: ["wool.jpg"],
-       downloads: []
-      },
+     //{ name: "Wool",
+     //  description: "5 PGK",
+     //  details: "Several wools like shown on the picture.",
+     //  thumbnail: "wool.jpg",
+     //  images: ["wool.jpg"],
+     //  downloads: []
+    // sold to Lili Poulsen  
+     // },
 
       // product
     // { name: "Christmas tablecloth",
@@ -742,14 +757,14 @@ products = [
       
       
       // product
-     { name: "Water filter",
-       description: "Price: 80 PGK",
-       details: "Katadyn water filter buckets without filter elements.",
-       thumbnail: "waterfilter.jpg",
-       images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
-       downloads: []
-      // sold to Christie?
-      },
+     //{ name: "Water filter",
+     //  description: "Price: 80 PGK",
+     //  details: "Katadyn water filter buckets without filter elements.",
+     //  thumbnail: "waterfilter.jpg",
+     //  images: ["waterfilter1.jpg","waterfilter2.jpg","waterfilter3.jpg","waterfilter4.jpg","waterfilter5.jpg","waterfilter6.jpg",],
+     //  downloads: []
+      // sold to Cory Rowley
+     // },
        // product
      { name: "Weights",
        description: "Price: 30 PGK",
@@ -759,13 +774,14 @@ products = [
        downloads: []
       },
      // product
-     { name: "Deco plant",
-       description: "Price: 5 Kina",
-       details: "Plastic flower",
-       thumbnail: "Decoflower.jpg",
-       images: ["Decoflower.jpg"],
-       downloads: []
-      },
+     //{ name: "Deco plant",
+    //   description: "Price: 5 Kina",
+    //   details: "Plastic flower",
+    //   thumbnail: "Decoflower.jpg",
+    //   images: ["Decoflower.jpg"],
+    //   downloads: []
+      // Elli Schlegel
+    //  },
       
      
       // product
@@ -793,13 +809,14 @@ products = [
        downloads: []
       },
            // product
-     { name: "Playmobil royal carriage",
-       description: "Price: 45 PGK",
-       details: "",
-       thumbnail: "royalcarriage2.jpg",
-       images: ["royalcarriage2.jpg"],
-       downloads: []
-      },
+     //{ name: "Playmobil royal carriage",
+     //  description: "Price: 45 PGK",
+     //  details: "",
+     //  thumbnail: "royalcarriage2.jpg",
+     //  images: ["royalcarriage2.jpg"],
+     //  downloads: []
+    //    
+     // },
            // product
      { name: "Playmobil trailer",
        description: "Price: 10 PGK",
@@ -818,13 +835,14 @@ products = [
       },
 
      // product
-     { name: "Playmobil farm house",
-       description: "Price: 100 PGK",
-       details: "",
-       thumbnail: "farmhouse1.jpg",
-       images: ["farmhouse1.jpg", "farmhouse2.jpg", "farmhouse3.jpg",],
-       downloads: []
-      },
+     //{ name: "Playmobil farm house",
+     //  description: "Price: 100 PGK",
+     //  details: "",
+     //  thumbnail: "farmhouse1.jpg",
+     //  images: ["farmhouse1.jpg", "farmhouse2.jpg", "farmhouse3.jpg",],
+     //  downloads: []
+       // sold to Tessa Blackstad
+     // },
 
  
      // product
@@ -863,13 +881,14 @@ products = [
 
 
      // product
-     { name: "Playmobil mother with children",
-       description: "Price: 15 PGK",
-       details: "",
-       thumbnail: "motherchildren1.jpg",
-       images: ["motherchildren1.jpg"],
-       downloads: []
-      },
+    // { name: "Playmobil mother with children",
+    //   description: "Price: 15 PGK",
+    //   details: "",
+    //   thumbnail: "motherchildren1.jpg",
+    //   images: ["motherchildren1.jpg"],
+    //   downloads: []
+      // sold to Coryn Bloye
+     // },
       // product
     //{ name: "Games",
     //   description: "Price: xx PGK",
@@ -917,13 +936,14 @@ products = [
       },
       
      // product
-     { name: "Big jars",
-       description: "Price: 10 PGK each",
-       details: "1 Liter",
-       thumbnail: "Big Jars.jpg",
-       images: ["Big Jars.jpg"],
-       downloads: []
-      },
+    // { name: "Big jars",
+    //   description: "Price: 10 PGK each",
+    //   details: "1 Liter",
+    //   thumbnail: "Big Jars.jpg",
+    //   images: ["Big Jars.jpg"],
+    //   downloads: []
+    //  sold to Corey Rowley  
+    //  },
       
       // product
      //{ name: "Book holder",
@@ -965,13 +985,14 @@ products = [
       },
       
      // product
-     { name: "4 Candles",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "Candel4.jpg",
-       images: ["Candel4.jpg"],
-       downloads: []
-      },
+     //{ name: "4 Candles",
+     //  description: "Price: 10 PGK",
+     //  details: "",
+     //  thumbnail: "Candel4.jpg",
+     //  images: ["Candel4.jpg"],
+     //  downloads: []
+      // Elli Schlegel
+     // },
       
      // product
      //{ name: "Childrens Guitar",
@@ -1137,13 +1158,14 @@ products = [
 // sold to Froehlichs
      //  },
      // product
-     { name: "Playmobil Preschool",
-       description: "Price: 40 Kina",
-       details: "comes without box. Complete set, new",
-       thumbnail: "Playmobil Preschool.jpg",
-       images: ["Playmobil Preschool.jpg"],
-       downloads: []
-       },
+     //{ name: "Playmobil Preschool",
+      // description: "Price: 40 Kina",
+      // details: "comes without box. Complete set, new",
+      // thumbnail: "Playmobil Preschool.jpg",
+      // images: ["Playmobil Preschool.jpg"],
+      // downloads: []
+       // sold to Coryn Bloye
+       //},
            // product
      //{ name: "Board Game",
      //  description: "Price: 25 Kina",
@@ -1179,13 +1201,14 @@ products = [
        downloads: []
        },
     // product
-     { name: "Game Zoo Yazi",
-       description: "Price: 7 Kina",
-       details: "",
-       thumbnail: "Zoo Yazi.jpg",
-       images: ["Zoo Yazi.jpg"],
-       downloads: []
-       },
+    // { name: "Game Zoo Yazi",
+    //   description: "Price: 7 Kina",
+    //   details: "",
+    //   thumbnail: "Zoo Yazi.jpg",
+    //   images: ["Zoo Yazi.jpg"],
+    //   downloads: []
+    //  sold to Cory Rowley
+    //   },
           // product
     // { name: "Hair Dryer",
     //   description: "Price: 10 Kina",
@@ -1289,14 +1312,15 @@ products = [
        downloads: []
      },
       
-           // product
-     { name: "Playmobil Scooter",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "girlscooter1.jpg",
-       images: ["girlscooter1.jpg"],
-       downloads: []
-      },
+   // product
+     //{ name: "Playmobil Scooter",
+     //  description: "Price: 10 PGK",
+     //  details: "",
+     //  thumbnail: "girlscooter1.jpg",
+     //  images: ["girlscooter1.jpg"],
+     //  downloads: []
+       // sold to Coryn Bloye
+     // },
       
      // product
      //{ name: "Corner Shelf",
