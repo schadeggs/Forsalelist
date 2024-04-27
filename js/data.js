@@ -88,13 +88,14 @@ products = [
        downloads: []
      },
      // product
-     { name: "60x60 wall mirror",
-       description: "40 Kina",
-       details: "New mirror, complete with mounting",
-       thumbnail: "mirror.jpg",
-       images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
-       downloads: []
-     }, 
+    // { name: "60x60 wall mirror",
+    //   description: "40 Kina",
+    //   details: "New mirror, complete with mounting",
+    //   thumbnail: "mirror.jpg",
+    //   images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
+    //  sold to Nich  
+    //   downloads: []
+    // }, 
      // product
     // { name: "Swiss Fondue Dish",
     //   description: "80 Kina",
