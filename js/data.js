@@ -370,7 +370,7 @@ products = [
      },  
     // product
      { name: "nerfgun Firestrike",
-       description: "Price: 12 PGK",
+       description: "Price: 10 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
        thumbnail: "N-ForceFirestrike.jpg",
        images: ["N-ForceFirestrike.jpg", "N-ForceFirestrike_1.jpg"],
@@ -378,7 +378,7 @@ products = [
      },   
     // product
      { name: "nerf gun Firestrike",
-       description: "Price: 12 PGK",
+       description: "Price: 10 PGK",
        details: "Nerf gun with 3 nerf darts; laser workes perfectly.",
        thumbnail: "N-ForceFirestrike2.jpg",
        images: ["N-ForceFirestrike2.jpg", "N-ForceFirestrike2_1.jpg"],
@@ -402,7 +402,7 @@ products = [
      },
     // product
      { name: "nerf gun mega bigshock",
-       description: "Price: 15 PGK",
+       description: "Price: 10 PGK",
        details: "Powerful, mega Nerf gun with 1 nerf dart.",
        thumbnail: "megabigshock.jpg",
        images: ["megabigshock.jpg", "megabigshock_1.jpg"],
@@ -410,7 +410,7 @@ products = [
      },
        // product
      { name: "50 nerf darts",
-       description: "Price: 15 PGK",
+       description: "Price: 10 PGK",
        details: "50 nerf darts mostly new but some not.",
        thumbnail: "nerfbullets.jpg",
        images: ["nerfbullets.jpg", "nerfbullets_1.jpg", "nerfbullets_2"],
