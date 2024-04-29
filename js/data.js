@@ -12,7 +12,7 @@ products = [
     // product
      { name: "26 inch Bike Trek",
        description: "Price: 650 US$",
-       details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (EU 43) & spare tire",
+       details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (size EU-43) & spare tire. If you would like the bike with normal shoes, it is recomended to change the pedals.",
        thumbnail: "track1.jpg",
        images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg", "kite3.jpg"],
        downloads: []
