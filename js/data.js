@@ -12,7 +12,7 @@ products = [
     // product
      { name: "26 inch Bike Trek",
        description: "Price: 650 US$",
-       details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (EU 43) & spare tire",
+       details: "26 inch full suspencion bike. New chain, new cassette, new bearings back wheel, new bottom bracket. Comes with bike shoes (size EU-43) & spare tire. If you would like the bike with normal shoes, it is recomended to change the pedals.",
        thumbnail: "track1.jpg",
        images: ["track1.jpg","track2.jpg", "track3.jpg", "track4.jpg", "track5.jpg", "track7.jpg", "track8.jpg", "track9.jpg", "kite3.jpg"],
        downloads: []
@@ -88,13 +88,14 @@ products = [
        downloads: []
      },
      // product
-     { name: "60x60 wall mirror",
-       description: "40 Kina",
-       details: "New mirror, complete with mounting",
-       thumbnail: "mirror.jpg",
-       images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
-       downloads: []
-     }, 
+    // { name: "60x60 wall mirror",
+    //   description: "40 Kina",
+    //   details: "New mirror, complete with mounting",
+    //   thumbnail: "mirror.jpg",
+    //   images: ["mirror2.jpg", "mirror3.jpg", "mirror4.jpg"],
+    //  sold to Nich  
+    //   downloads: []
+    // }, 
      // product
     // { name: "Swiss Fondue Dish",
     //   description: "80 Kina",
@@ -122,12 +123,23 @@ products = [
     //   downloads: []
       // Lili Poulsen
     // },
+      
+    
       // product
      { name: "Passuit",
        description: "free",
        details: "Passuit to mash potatos, etc",
        thumbnail: "passuit.jpg",
        images: ["passuit.jpg", "passuit1.jpg", "passuit2.jpg"],
+       downloads: []
+     },
+      
+      // product
+      { name: "Bike helmets",
+       description: "10 Kina each",
+       details: "Two adult bike helmets, one kids helmet (blue one)",
+       thumbnail: "bikehelmets.jpg",
+       images: ["bikehelmets.jpg","bikehelmets2.jpg"],
        downloads: []
      },
       // product
@@ -221,14 +233,7 @@ products = [
        downloads: []
       },
 
-     // product
-     { name: "300m Cat6 cable",
-       description: "Price: 50 PGK",
-       details: "1000ft of cat6 network cable. STP.",
-       thumbnail: "cat6.jpg",
-       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
-       downloads: []
-      },
+
        // product
      //{ name: "2 x EBC Cupboards",
      //  description: "500 Kina (each)",
@@ -255,6 +260,7 @@ products = [
        images: ["neopren1.jpg","neopren2.jpg"],
        downloads: []
      },
+
     // product
     // { name: "2 Tennis Racquets",
     //   description: "Price: 80 Kina",
@@ -1311,6 +1317,15 @@ products = [
        images: ["badminton.jpg"],
        downloads: []
      },
+      
+           // product
+     { name: "300m Cat6 cable",
+       description: "Price: 50 PGK",
+       details: "1000ft of cat6 network cable. STP.",
+       thumbnail: "cat6.jpg",
+       images: ["cat6.jpg", "cat62.jpg", "cat63.jpg"],
+       downloads: []
+      },
       
    // product
      //{ name: "Playmobil Scooter",
