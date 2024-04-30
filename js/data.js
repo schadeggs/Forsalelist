@@ -124,7 +124,7 @@ products = [
     // },
       // product
      { name: "Passuit",
-       description: "10 Kina",
+       description: "free",
        details: "Passuit to mash potatos, etc",
        thumbnail: "passuit.jpg",
        images: ["passuit.jpg", "passuit1.jpg", "passuit2.jpg"],
@@ -427,7 +427,7 @@ products = [
      //}, 
       // product
      { name: "Jig saw set",
-       description: "Price: 20 PGK",
+       description: "Price: 10 PGK",
        details: "Jig saw set including a saw, extra blades, a tracter set, and plain sheets of wood.",
        thumbnail: "jigsaw.jpg",
        images: ["jigsaw.jpg", "jigsaw_1.jpg", "jigsaw_2.jpg", "jigsaw_3.jpg"],
@@ -601,7 +601,7 @@ products = [
 
        // product
      { name: "1 pillow and 2cases",
-       description: "Price: 20 PGK",
+       description: "Price: 15 PGK",
        details: "Only used for a short time. As good as new.",
        thumbnail: "pillowscases.jpg",
        images: ["pillowscases.jpg"],
@@ -683,13 +683,13 @@ products = [
       // sold to Froehlichs
      // },
       // product
-     { name: "Teddy bear",
-       description: "Price: 10 PGK",
-       details: "Hand Puppet",
-       thumbnail: "bear.jpg",
-       images: ["bear.jpg"],
-       downloads: []
-      },
+    // { name: "Teddy bear",
+    //  description: "Price: 10 PGK",
+    //   details: "Hand Puppet",
+   //    thumbnail: "bear.jpg",
+    //   images: ["bear.jpg"],
+   //    downloads: []
+   //   },
        
       // product
      //{ name: "Big white wooden boxes",
@@ -720,7 +720,7 @@ products = [
       //},
       // product
      { name: "Wood chair",
-       description: "Price: 50 PGK",
+       description: "Price: 40 PGK",
        details: "",
        thumbnail: "woodchair.jpg",
        images: ["woodchair.jpg","woodchair2.jpg"],
@@ -766,13 +766,13 @@ products = [
       // sold to Cory Rowley
      // },
        // product
-     { name: "Weights",
-       description: "Price: 30 PGK",
-       details: "3lb each. Sell as a set.",
-       thumbnail: "weights1.jpg",
-       images: ["weights1.jpg", "weights2.jpg"],
-       downloads: []
-      },
+   //  { name: "Weights",
+   //    description: "Price: 30 PGK",
+   //    details: "3lb each. Sell as a set.",
+   //    thumbnail: "weights1.jpg",
+   //    images: ["weights1.jpg", "weights2.jpg"],
+   //    downloads: []
+   //   },
      // product
      //{ name: "Deco plant",
     //   description: "Price: 5 Kina",
@@ -908,13 +908,13 @@ products = [
      //   },
 
             // product
-     { name: "Children sewing maschine",
-       description: "Price: 80 PGK",
-       details: "runs with battaries",
-       thumbnail: "childrensewingmaschine1.jpg",
-       images: ["childrensewingmaschine1.jpg"],
-       downloads: []
-      },
+   //  { name: "Children sewing maschine",
+   //    description: "Price: 80 PGK",
+   //    details: "runs with battaries",
+   //    thumbnail: "childrensewingmaschine1.jpg",
+   //    images: ["childrensewingmaschine1.jpg"],
+  //     downloads: []
+  //    },
      // product
      //{ name: "Moskitto nets",
      //  description: "Price: 10 PGK each",
@@ -927,13 +927,13 @@ products = [
 
       
      // product
-     { name: "Big bowl",
-       description: "Price: 20 PGK",
-       details: "28cm diameter",
-       thumbnail: "Big Bowl.jpg",
-       images: ["Big Bowl.jpg"],
-       downloads: []
-      },
+ //    { name: "Big bowl",
+  //     description: "Price: 20 PGK",
+  //     details: "28cm diameter",
+  //     thumbnail: "Big Bowl.jpg",
+  //     images: ["Big Bowl.jpg"],
+//       downloads: []
+   //   },
       
      // product
     // { name: "Big jars",
@@ -976,13 +976,13 @@ products = [
    //   },
       
      // product
-     { name: "Candle",
-       description: "Price: 5 PGK each",
-       details: "",
-       thumbnail: "Candel.jpg",
-       images: ["Candel.jpg"],
-       downloads: []
-      },
+  //   { name: "Candle",
+  //     description: "Price: 5 PGK each",
+  //     details: "",
+  //     thumbnail: "Candel.jpg",
+  //     images: ["Candel.jpg"],
+  //     downloads: []
+  //    },
       
      // product
      //{ name: "4 Candles",
@@ -1177,7 +1177,7 @@ products = [
      //  },
            // product
      { name: "Monopoly Junior",
-       description: "Price: 20 Kina",
+       description: "Price: 10 Kina",
        details: "",
        thumbnail: "Monopoly Junior.jpg",
        images: ["Monopoly Junior.jpg"],
@@ -1186,7 +1186,7 @@ products = [
 
       // product
      { name: "Game Rummy",
-       description: "Price: 15 Kina",
+       description: "Price: 10 Kina",
        details: "",
        thumbnail: "Rummy.jpg",
        images: ["Rummy.jpg"],
@@ -1194,7 +1194,7 @@ products = [
        },
             // product
      { name: "Game Where are You",
-       description: "Price: 20 Kina",
+       description: "Price: 10 Kina",
        details: "",
        thumbnail: "Where are you.jpg",
        images: ["Where are you.jpg"],
@@ -1268,7 +1268,7 @@ products = [
       
      // product
      { name: "Kids backpack",
-       description: "Price: 15 PGK",
+       description: "Price: 10 PGK",
        details: "Small Deuter backpack, about 8l",
        thumbnail: "deuter.jpg",
        images: ["deuter.jpg", "deuter2.jpg", "deuter3.jpg"],
@@ -1276,17 +1276,17 @@ products = [
      },
       
      // product
-     { name: "Lunch box",
-       description: "Price: 15 PGK",
-       details: "Brand new lunch box",
-       thumbnail: "lunchbox.jpg",
-       images: ["lunchbox.jpg", "lunchbox2.jpg"],
-       downloads: []
-     },
+   //  { name: "Lunch box",
+//       description: "Price: 15 PGK",
+   //    details: "Brand new lunch box",
+ //      thumbnail: "lunchbox.jpg",
+  //     images: ["lunchbox.jpg", "lunchbox2.jpg"],
+  //     downloads: []
+  //   },
       
             // product
      { name: "Pick up sticks",
-       description: "Price: 15 Kina",
+       description: "Price: 10 Kina",
        details: "",
        thumbnail: "Pick up Sticks.jpg",
        images: ["Pick up Sticks.jpg"],
@@ -1305,7 +1305,7 @@ products = [
       
       // product
      { name: "Badminton set",
-       description: "Price: 20 PGK",
+       description: "Price: 10 PGK",
        details: "Several racquets. Like on the picture.",
        thumbnail: "badminton.jpg",
        images: ["badminton.jpg"],
