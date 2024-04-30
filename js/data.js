@@ -137,7 +137,7 @@ products = [
       // product
       { name: "Bike helmets",
        description: "10 Kina each",
-       details: "Two adult bike helmets, one kids helmet (blue one)",
+       details: "Only the middle one is left",
        thumbnail: "bikehelmets.jpg",
        images: ["bikehelmets.jpg","bikehelmets2.jpg"],
        downloads: []
@@ -459,13 +459,13 @@ products = [
      //}, 
       
        // product
-     { name: "Remote Control truck",
-       description: "Price: 30 PGK",
-       details: "A working yellow remote control truck for small children.",
-       thumbnail: "rctruck.jpg",
-       images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg"],
-       downloads: []
-     },
+   //  { name: "Remote Control truck",
+   //    description: "Price: 30 PGK",
+   //    details: "A working yellow remote control truck for small children.",
+   //    thumbnail: "rctruck.jpg",
+   //   images: ["rctruck.jpg", "rctruck_1.jpg", "rctruck_2.jpg", "rctruck_3.jpg"],
+   //    downloads: []
+   //  },
              // product
     // { name: "Projector",
     //   description: "Price: 350 AUS$",
@@ -1050,8 +1050,8 @@ products = [
       
      // product
      { name: "Bosch mixer",
-       description: "Price: 100 PGK",
-       details: "comes with swiss power plug",
+       description: "Price: 80 PGK",
+       details: "good quality, not much used",
        thumbnail: "Mixer.jpg",
        images: ["Mixer.jpg","Mixer 2.jpg"],
        downloads: []
@@ -1139,7 +1139,7 @@ products = [
       
            // product
      { name: "Wall picture",
-       description: "Price: 10 PGK",
+       description: "Price: 5 PGK",
        details: "to stick directly on the wall",
        thumbnail: "Wall Picture1.jpg",
        images: ["Wall Picture1.jpg", "Wall Picture2.jpg"],
@@ -1302,7 +1302,7 @@ products = [
      // product
      { name: "Barbies",
        description: "Price: 30 PGK",
-       details: "Brand new lunch box",
+       details: "come in a box with lid",
        thumbnail: "barby.jpg",
        images: ["barby.jpg"],
        downloads: []
