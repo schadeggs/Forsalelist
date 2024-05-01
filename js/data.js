@@ -725,14 +725,14 @@ products = [
       // sold to Natasha
       //},
       // product
-     { name: "Wood chair",
-       description: "Price: 40 PGK",
-       details: "",
-       thumbnail: "woodchair.jpg",
-       images: ["woodchair.jpg","woodchair2.jpg"],
-       downloads: []
+  //   { name: "Wood chair",
+   //    description: "Price: 40 PGK",
+   //    details: "",
+   //    thumbnail: "woodchair.jpg",
+   //    images: ["woodchair.jpg","woodchair2.jpg"],
+   //    downloads: []
     //  sold to christie 
-      },
+    //  },
     // product
     // { name: "White Shelf",
     //   description: "Price: 120 PGK",
@@ -824,21 +824,21 @@ products = [
     //    
      // },
            // product
-     { name: "Playmobil trailer",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "biketrailer1.jpg",
-       images: ["biketrailer1.jpg"],
-       downloads: []
-      },
+   //  { name: "Playmobil trailer",
+   //    description: "Price: 10 PGK",
+   //    details: "",
+   //    thumbnail: "biketrailer1.jpg",
+   //    images: ["biketrailer1.jpg"],
+   //    downloads: []
+   //   },
            // product
-     { name: "Playmobil pony",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "girlpony1.jpg",
-       images: ["girlpony1.jpg"],
-       downloads: []
-      },
+  //   { name: "Playmobil pony",
+  //     description: "Price: 10 PGK",
+  //     details: "",
+  //     thumbnail: "girlpony1.jpg",
+  //     images: ["girlpony1.jpg"],
+  //     downloads: []
+  //    },
 
      // product
      //{ name: "Playmobil farm house",
@@ -852,30 +852,30 @@ products = [
 
  
      // product
-     { name: "Playmobil mother with dog",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "motherdog1.jpg",
-       images: ["motherdog1.jpg"],
-       downloads: []
-      },
+   //  { name: "Playmobil mother with dog",
+    //   description: "Price: 10 PGK",
+    //   details: "",
+   //    thumbnail: "motherdog1.jpg",
+  //     images: ["motherdog1.jpg"],
+  //     downloads: []
+  //    },
      // product
-     { name: "Playmobil princess",
-       description: "Price: 15 PGK",
-       details: "",
-       thumbnail: "Princess.jpg",
-       images: ["Princess.jpg"],
-       downloads: []
-      },
+  //   { name: "Playmobil princess",
+  //     description: "Price: 15 PGK",
+  //     details: "",
+  //     thumbnail: "Princess.jpg",
+  //     images: ["Princess.jpg"],
+//       downloads: []
+   //   },
 
-     // product
-     { name: "Playmobil vet",
-       description: "Price: 10 PGK",
-       details: "",
-       thumbnail: "vet1.jpg",
-       images: ["vet1.jpg"],
-       downloads: []
-      },
+  //   // product
+  //   { name: "Playmobil vet",
+  //     description: "Price: 10 PGK",
+  //     details: "",
+  //     thumbnail: "vet1.jpg",
+  //     images: ["vet1.jpg"],
+  //     downloads: []
+  //    },
      // product
      { name: "Playmobil dentist",
        description: "Price: 35 PGK",
