@@ -1301,7 +1301,7 @@ products = [
       
      // product
      { name: "Barbies",
-       description: "Price: 30 PGK",
+       description: "Price: 20 PGK",
        details: "come in a box with lid",
        thumbnail: "barby.jpg",
        images: ["barby.jpg"],
