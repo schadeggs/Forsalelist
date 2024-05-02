@@ -1049,13 +1049,13 @@ products = [
     //  },
       
      // product
-     { name: "Bosch mixer",
-       description: "Price: 80 PGK",
-       details: "good quality, not much used",
-       thumbnail: "Mixer.jpg",
-       images: ["Mixer.jpg","Mixer 2.jpg"],
-       downloads: []
-      },
+  //   { name: "Bosch mixer",
+  //     description: "Price: 80 PGK",
+  //     details: "good quality, not much used",
+  //     thumbnail: "Mixer.jpg",
+  //     images: ["Mixer.jpg","Mixer 2.jpg"],
+  //     downloads: []
+ //     },
       
     // product
     // { name: "Modeling material",
@@ -1300,13 +1300,13 @@ products = [
        },
       
      // product
-     { name: "Barbies",
-       description: "Price: 20 PGK",
-       details: "come in a box with lid",
-       thumbnail: "barby.jpg",
-       images: ["barby.jpg"],
-       downloads: []
-     },
+   //  { name: "Barbies",
+  //     description: "Price: 20 PGK",
+  //     details: "come in a box with lid",
+  //     thumbnail: "barby.jpg",
+  //     images: ["barby.jpg"],
+  //     downloads: []
+  //   },
       
       
       // product
