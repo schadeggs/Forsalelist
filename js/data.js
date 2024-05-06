@@ -791,29 +791,29 @@ products = [
       
      
       // product
-     { name: "Playmobil hospital",
-       description: "Price: 170 PGK",
-       details: "",
-       thumbnail: "hospital2.jpg",
-       images: ["hospital1.jpg","hospital2.jpg","hospital3.jpg","hospital4.jpg","hospital5.jpg"],
-       downloads: []
-      },
+   //  { name: "Playmobil hospital",
+   //    description: "Price: 170 PGK",
+   //    details: "",
+  //     thumbnail: "hospital2.jpg",
+  //     images: ["hospital1.jpg","hospital2.jpg","hospital3.jpg","hospital4.jpg","hospital5.jpg"],
+  //     downloads: []
+  //    },
             // product
-     { name: "Playmobil children hospital room",
-       description: "Price: 35 PGK",
-       details: "",
-       thumbnail: "hospitalroom1.jpg",
-       images: ["hospitalroom1.jpg", "hospitalroom2.jpg"],
-       downloads: []
-      },
+  //   { name: "Playmobil children hospital room",
+    //   description: "Price: 35 PGK",
+      // details: "",
+ //      thumbnail: "hospitalroom1.jpg",
+  //     images: ["hospitalroom1.jpg", "hospitalroom2.jpg"],
+   //    downloads: []
+   //   },
                   // product
-     { name: "Playmobil ambulance car",
-       description: "Price: 120 PGK",
-       details: "",
-       thumbnail: "ambulance3.jpg",
-       images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
-       downloads: []
-      },
+   //  { name: "Playmobil ambulance car",
+  //     description: "Price: 120 PGK",
+   //    details: "",
+  //     thumbnail: "ambulance3.jpg",
+  //     images: ["ambulance1.jpg", "ambulance2.jpg", "ambulance3.jpg",],
+   //    downloads: []
+   //   },
            // product
      //{ name: "Playmobil royal carriage",
      //  description: "Price: 45 PGK",
@@ -877,13 +877,13 @@ products = [
   //     downloads: []
   //    },
      // product
-     { name: "Playmobil dentist",
-       description: "Price: 35 PGK",
-       details: "",
-       thumbnail: "Dentist1.jpg",
-       images: ["Dentist1.jpg"],
-       downloads: []
-      },
+  //   { name: "Playmobil dentist",
+  //     description: "Price: 35 PGK",
+  //     details: "",
+  //     thumbnail: "Dentist1.jpg",
+  //     images: ["Dentist1.jpg"],
+  //     downloads: []
+  //    },
 
 
      // product
